@@ -1,0 +1,1507 @@
+EmployeeID,Department,JobRole,Age,Gender,Education,MaritalStatus,YearsExperience,YearsAtCompany,MonthlySalary,DistanceFromHome,OverTime,JobSatisfaction,WorkLifeBalance,PerformanceRating,PromotionLast5Years,TrainingTimesLastYear,Attrition,TenureBucket,Attrition_Flag,OverTime_Flag
+EMP01138,Engineering,Software Engineer,25.0,Female,Bachelor's,Married,2,2,75101.93,4.6,No,2.0,2.0,1,0,5,Yes,2-3 yrs,1,0
+EMP00223,Hr,Recruiter,30.0,Female,Bachelor's,Divorced,12,4,64009.38,12.2,No,3.0,4.0,4,0,0,No,4-6 yrs,0,0
+EMP00974,Hr,HR Manager,32.0,Male,Bachelor's,Divorced,6,2,60806.91,0.3,No,2.0,4.0,3,0,5,No,2-3 yrs,0,0
+EMP01371,Support,Support Lead,21.0,Male,Bachelor's,Married,0,0,40150.05,1.4,No,2.0,3.0,3,0,4,No,0-1 yrs,0,0
+EMP00940,Finance,Finance Manager,44.0,Female,Bachelor's,Married,23,0,100343.77,11.5,Yes,4.0,4.0,3,1,2,No,0-1 yrs,0,1
+EMP00311,Finance,Accountant,30.0,Male,PhD,Divorced,4,0,96124.3,2.5,Yes,3.0,2.0,4,0,0,No,0-1 yrs,0,1
+EMP00361,Hr,HR Executive,36.0,Female,Master's,Married,18,0,92896.9,21.6,Yes,4.0,2.0,3,0,0,Yes,0-1 yrs,1,1
+EMP00309,Sales,Sales Executive,29.0,Female,PhD,Single,6,2,92682.51,4.9,No,3.0,4.0,4,0,4,Yes,2-3 yrs,1,0
+EMP01242,Support,Support Executive,26.0,Female,High School,Divorced,0,0,34194.75,16.8,No,1.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00019,Engineering,Software Engineer,21.0,Female,Master's,Married,0,0,76293.09,5.0,No,1.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00777,Hr,HR Executive,32.0,Female,Master's,Divorced,4,4,68730.42,3.2,Yes,2.0,2.0,4,0,1,Yes,4-6 yrs,1,1
+EMP00677,Engineering,Senior Engineer,47.0,Female,High School,Married,22,2,99426.21,26.0,Yes,3.0,3.0,2,0,0,No,2-3 yrs,0,1
+EMP00383,Engineering,Engineering Manager,37.0,Female,Bachelor's,Married,19,4,110281.71,15.1,No,4.0,1.0,1,0,5,No,4-6 yrs,0,0
+EMP00492,Sales,Account Manager,46.0,Male,High School,Divorced,28,4,96183.49,0.6,No,3.0,4.0,2,1,4,No,4-6 yrs,0,0
+EMP00718,Sales,Sales Manager,27.0,Female,PhD,Married,1,1,78995.08,7.0,No,2.0,2.0,3,0,2,Yes,0-1 yrs,1,0
+EMP00043,Engineering,Senior Engineer,40.0,Male,Bachelor's,Single,15,0,90174.49,1.2,No,3.0,2.0,2,0,1,No,0-1 yrs,0,0
+EMP01393,Marketing,Marketing Manager,52.0,Female,High School,Married,22,4,90216.7,4.6,No,2.0,1.0,2,0,3,No,4-6 yrs,0,0
+EMP00676,Sales,Sales Manager,31.0,Male,Bachelor's,Single,5,5,59080.35,28.0,No,4.0,3.0,4,0,1,No,4-6 yrs,0,0
+EMP00521,Engineering,Senior Engineer,24.0,Female,High School,Divorced,4,4,75517.09,1.6,Yes,1.0,1.0,3,0,2,Yes,4-6 yrs,1,1
+EMP01162,Support,Support Lead,41.0,Female,Bachelor's,Divorced,15,12,70736.64,5.3,No,2.0,3.0,4,0,3,No,10+ yrs,0,0
+EMP01342,Marketing,Marketing Manager,42.0,Female,Bachelor's,Single,23,2,89147.96,3.1,Yes,2.0,4.0,1,0,0,Yes,2-3 yrs,1,1
+EMP00464,Finance,Accountant,43.0,Female,Bachelor's,Married,15,3,83402.13,10.2,Yes,3.0,4.0,3,1,2,No,2-3 yrs,0,1
+EMP00212,Engineering,QA Engineer,23.0,Male,Master's,Married,0,0,75884.03,0.4,No,2.0,3.0,3,1,2,Yes,0-1 yrs,1,0
+EMP00603,Engineering,QA Engineer,33.0,Female,High School,Single,11,1,84199.84,8.2,No,2.0,3.0,3,0,4,No,0-1 yrs,0,0
+EMP01057,Sales,Sales Executive,36.0,Female,Bachelor's,Single,10,8,72216.52,17.6,No,1.0,1.0,3,1,0,Yes,7-10 yrs,1,0
+EMP00838,Finance,Financial Analyst,27.0,Male,Bachelor's,Single,1,1,59051.17,21.5,No,4.0,2.0,3,0,5,Yes,0-1 yrs,1,0
+EMP00510,Hr,Recruiter,50.0,Male,High School,Married,22,9,71435.2,4.5,No,2.0,3.0,4,1,0,No,7-10 yrs,0,0
+EMP00569,Hr,HR Manager,22.0,Male,Bachelor's,Single,0,0,43548.79,6.7,Yes,3.0,2.0,3,1,1,Yes,0-1 yrs,1,1
+EMP00406,Finance,Financial Analyst,38.0,Male,Master's,Single,13,2,96543.69,10.5,Yes,2.0,2.0,3,0,4,No,2-3 yrs,0,1
+EMP01197,Sales,Account Manager,30.0,Male,High School,Divorced,10,2,63816.44,4.4,No,1.0,1.0,4,1,4,Yes,2-3 yrs,1,0
+EMP00204,Support,Support Executive,29.0,Male,Bachelor's,Single,9,4,62014.3,9.9,No,3.0,1.0,2,0,3,No,4-6 yrs,0,0
+EMP01018,Marketing,Marketing Executive,47.0,Male,Bachelor's,Married,24,0,102808.28,12.4,Yes,1.0,3.0,2,0,1,No,0-1 yrs,0,1
+EMP01244,Engineering,Senior Engineer,21.0,Male,Master's,Divorced,0,0,77102.7,8.7,Yes,3.0,1.0,3,0,2,No,0-1 yrs,0,1
+EMP01413,Sales,Sales Manager,42.0,Female,Master's,Married,12,0,91224.42,3.8,No,2.0,4.0,1,0,5,No,0-1 yrs,0,0
+EMP00468,Marketing,Content Specialist,32.0,Male,Bachelor's,Single,8,8,70411.46,1.2,No,2.0,1.0,2,0,0,No,7-10 yrs,0,0
+EMP00415,Hr,Recruiter,44.0,Male,Master's,Divorced,24,0,100315.9,8.9,Yes,4.0,2.0,4,0,2,No,0-1 yrs,0,1
+EMP01003,Engineering,QA Engineer,42.0,Female,Master's,Married,16,1,102054.37,10.7,No,2.0,1.0,3,1,0,No,0-1 yrs,0,0
+EMP00753,Engineering,Software Engineer,32.0,Male,Master's,Single,12,1,108637.07,1.8,No,4.0,3.0,1,0,0,No,0-1 yrs,0,0
+EMP00103,Engineering,Senior Engineer,48.0,Female,Bachelor's,Married,29,3,126534.85,7.2,No,3.0,3.0,3,1,4,No,2-3 yrs,0,0
+EMP00681,Hr,HR Manager,29.0,Female,PhD,Single,6,0,81975.24,15.0,No,1.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP00637,Support,Support Lead,38.0,Female,Master's,Divorced,17,1,87371.76,9.2,No,2.0,1.0,3,1,1,Yes,0-1 yrs,1,0
+EMP01385,Sales,Sales Executive,39.0,Male,Master's,Married,15,7,94048.44,6.2,No,1.0,3.0,3,0,2,Yes,7-10 yrs,1,0
+EMP00235,Engineering,Engineering Manager,25.0,Male,PhD,Married,0,0,95989.7,13.4,No,2.0,1.0,4,0,5,No,0-1 yrs,0,0
+EMP00943,Sales,Sales Executive,32.0,Female,Bachelor's,Married,14,0,72784.76,9.8,No,2.0,3.0,2,1,4,No,0-1 yrs,0,0
+EMP00785,Finance,Finance Manager,21.0,Male,Bachelor's,Married,0,0,61540.4,0.2,No,4.0,3.0,2,0,2,Yes,0-1 yrs,1,0
+EMP00872,Marketing,Marketing Executive,38.0,Female,Master's,Married,16,1,92445.41,0.2,No,2.0,3.0,1,1,0,No,0-1 yrs,0,0
+EMP00792,Hr,HR Manager,38.0,Female,Master's,Married,17,0,92107.02,7.8,Yes,4.0,2.0,3,0,4,No,0-1 yrs,0,1
+EMP00339,Marketing,Content Specialist,29.0,Male,Bachelor's,Married,6,0,73575.57,4.4,No,3.0,2.0,3,0,5,No,0-1 yrs,0,0
+EMP01173,Support,Support Executive,45.0,Male,Master's,Married,22,2,90793.76,1.6,No,2.0,3.0,3,0,4,No,2-3 yrs,0,0
+EMP00334,Sales,Sales Manager,26.0,Female,Bachelor's,Single,3,3,68298.95,5.5,Yes,1.0,4.0,3,0,4,No,2-3 yrs,0,1
+EMP00646,Marketing,Content Specialist,35.0,Male,Bachelor's,Married,8,5,74416.81,3.4,No,1.0,1.0,3,0,0,No,4-6 yrs,0,0
+EMP00580,Support,Support Executive,28.0,Male,Bachelor's,Single,3,0,47541.87,13.4,No,2.0,2.0,3,0,0,No,0-1 yrs,0,0
+EMP00087,Support,Support Lead,30.0,Female,Master's,Single,9,3,73984.84,2.2,Yes,4.0,2.0,1,1,0,No,2-3 yrs,0,1
+EMP01115,Engineering,Engineering Manager,35.0,Male,Master's,Divorced,17,0,121732.55,17.8,No,3.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP00401,Finance,Finance Manager,38.0,Male,Bachelor's,Single,17,8,90904.25,18.2,No,4.0,4.0,4,0,0,No,7-10 yrs,0,0
+EMP00373,Engineering,Support Executive,41.0,Female,Master's,Married,18,8,86108.48,22.8,Yes,4.0,4.0,3,0,4,No,7-10 yrs,0,1
+EMP01431,Engineering,Software Engineer,31.0,Male,Master's,Married,13,9,113177.62,15.2,Yes,3.0,4.0,2,0,4,Yes,7-10 yrs,1,1
+EMP01292,Engineering,Software Engineer,26.0,Male,Master's,Single,3,0,93407.16,1.7,No,2.0,4.0,3,0,1,Yes,0-1 yrs,1,0
+EMP00482,Sales,Sales Executive,31.0,Male,PhD,Married,10,5,87223.45,5.4,No,3.0,1.0,2,1,3,No,4-6 yrs,0,0
+EMP00058,Engineering,QA Engineer,31.0,Male,Master's,Single,12,5,106842.11,0.5,Yes,1.0,2.0,4,1,4,No,4-6 yrs,0,1
+EMP00075,Support,Support Lead,32.0,Female,PhD,Single,6,3,76956.44,5.1,Yes,4.0,3.0,3,0,4,No,2-3 yrs,0,1
+EMP00157,Engineering,Senior Engineer,25.0,Female,Bachelor's,Single,0,0,73390.67,0.8,Yes,4.0,2.0,2,1,1,Yes,0-1 yrs,1,1
+EMP01203,Support,Support Lead,28.0,Female,Bachelor's,Married,8,2,61373.67,16.7,No,1.0,4.0,3,0,0,Yes,2-3 yrs,1,0
+EMP00404,Sales,Account Manager,36.0,Male,Bachelor's,Married,7,4,66020.16,18.0,No,3.0,2.0,3,0,2,No,4-6 yrs,0,0
+EMP01383,Support,Support Executive,30.0,Female,Bachelor's,Single,5,2,52401.08,6.2,No,4.0,1.0,3,1,2,Yes,2-3 yrs,1,0
+EMP00601,Engineering,QA Engineer,43.0,Male,Bachelor's,Divorced,25,1,115761.64,4.6,No,4.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP01128,Engineering,Engineering Manager,38.0,Female,Bachelor's,Married,16,8,96825.25,8.6,No,2.0,1.0,3,0,5,No,7-10 yrs,0,0
+EMP01293,Engineering,Engineering Manager,40.0,Female,Bachelor's,Married,14,1,98940.93,9.1,Yes,4.0,1.0,3,1,4,No,0-1 yrs,0,1
+EMP01490,Engineering,Engineering Manager,21.0,Female,High School,Married,0,0,60917.83,6.4,No,2.0,2.0,2,1,4,No,0-1 yrs,0,0
+EMP00658,Hr,Recruiter,44.0,Male,Bachelor's,Married,20,5,83097.95,6.0,Yes,3.0,3.0,3,1,1,No,4-6 yrs,0,1
+EMP00535,Support,Support Lead,30.0,Female,Bachelor's,Married,11,5,70694.36,10.6,Yes,3.0,2.0,4,0,4,No,4-6 yrs,0,1
+EMP00876,Engineering,QA Engineer,24.0,Female,Master's,Divorced,1,0,90710.22,2.6,Yes,1.0,1.0,3,0,5,No,0-1 yrs,0,1
+EMP00448,Sales,Sales Manager,39.0,Female,Bachelor's,Single,21,1,91400.12,43.9,No,4.0,3.0,2,1,1,No,0-1 yrs,0,0
+EMP00261,Finance,Finance Manager,24.0,Female,Master's,Single,3,2,80863.04,24.0,No,2.0,2.0,4,0,1,No,2-3 yrs,0,0
+EMP00629,Engineering,Senior Engineer,33.0,Male,Bachelor's,Married,11,0,89615.37,5.1,No,4.0,4.0,3,0,5,No,0-1 yrs,0,0
+EMP01055,Sales,Sales Executive,29.0,Male,Master's,Single,11,5,82263.84,3.0,Yes,4.0,3.0,1,0,5,No,4-6 yrs,0,1
+EMP01017,Support,Support Executive,40.0,Female,Bachelor's,Married,8,2,59809.0,2.7,No,1.0,2.0,4,0,5,Yes,2-3 yrs,1,0
+EMP01404,Marketing,Marketing Executive,29.0,Male,Bachelor's,Divorced,8,1,63503.46,22.4,Yes,1.0,1.0,3,0,4,Yes,0-1 yrs,1,1
+EMP00682,Marketing,Content Specialist,34.0,Female,Bachelor's,Married,8,2,71821.96,2.9,No,2.0,4.0,3,0,4,No,2-3 yrs,0,0
+EMP00731,Support,Support Executive,44.0,Female,High School,Married,21,1,69845.49,13.5,Yes,3.0,2.0,3,1,2,No,0-1 yrs,0,1
+EMP01344,Support,Support Executive,39.0,Male,Bachelor's,Divorced,21,8,93871.22,16.8,Yes,4.0,2.0,3,0,0,No,7-10 yrs,0,1
+EMP00192,Sales,Account Manager,33.0,Male,Bachelor's,Married,15,1,74220.63,5.3,Yes,4.0,4.0,3,1,5,Yes,0-1 yrs,1,1
+EMP00563,Hr,HR Manager,36.0,Female,Bachelor's,Single,11,1,71129.39,3.3,No,4.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP00769,Engineering,Engineering Manager,37.0,Male,Bachelor's,Divorced,18,14,104120.15,1.1,No,2.0,3.0,3,1,4,No,10+ yrs,0,0
+EMP01109,Hr,HR Manager,39.0,Male,Master's,Single,19,3,90431.62,2.8,Yes,2.0,4.0,3,0,1,No,2-3 yrs,0,1
+EMP00560,Marketing,Marketing Manager,27.0,Female,Master's,Divorced,0,0,62909.06,3.2,No,4.0,1.0,3,1,3,Yes,0-1 yrs,1,0
+EMP01254,Engineering,QA Engineer,45.0,Male,Bachelor's,Single,27,0,111799.61,8.5,No,3.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP01409,Hr,Recruiter,41.0,Male,Master's,Married,14,1,77767.28,22.5,No,3.0,3.0,2,1,5,No,0-1 yrs,0,0
+EMP00432,Engineering,Senior Engineer,34.0,Male,Bachelor's,Married,11,4,93819.31,16.2,No,1.0,3.0,2,0,0,No,4-6 yrs,0,0
+EMP00787,Sales,Sales Manager,42.0,Female,High School,Married,10,3,72034.37,9.1,No,2.0,1.0,3,0,0,No,2-3 yrs,0,0
+EMP01420,Sales,Sales Executive,21.0,Male,Bachelor's,Single,1,1,49902.49,15.2,No,4.0,1.0,4,0,3,No,0-1 yrs,0,0
+EMP00531,Marketing,Marketing Manager,44.0,Male,Bachelor's,Married,23,7,90771.83,17.1,Yes,1.0,3.0,4,0,2,No,7-10 yrs,0,1
+EMP00274,Sales,Account Manager,29.0,Female,Bachelor's,Divorced,3,1,45907.94,5.2,No,2.0,2.0,3,0,1,No,0-1 yrs,0,0
+EMP01019,Engineering,Senior Engineer,41.0,Female,Master's,Married,15,4,116683.84,6.0,Yes,1.0,3.0,3,1,1,No,4-6 yrs,0,1
+EMP01136,Engineering,Engineering Manager,32.0,Female,Master's,Divorced,11,2,106902.86,4.5,No,4.0,2.0,3,1,4,No,2-3 yrs,0,0
+EMP00904,Hr,Recruiter,42.0,Male,Bachelor's,Divorced,19,2,78808.92,6.7,No,4.0,3.0,2,0,5,No,2-3 yrs,0,0
+EMP01296,Engineering,QA Engineer,37.0,Female,Bachelor's,Single,16,1,111442.58,1.3,Yes,3.0,3.0,3,0,3,No,0-1 yrs,0,1
+EMP00675,Engineering,QA Engineer,33.0,Female,Master's,Married,14,3,115034.62,1.9,Yes,3.0,1.0,4,0,3,Yes,2-3 yrs,1,1
+EMP00044,Engineering,Software Engineer,30.0,Female,Bachelor's,Single,12,9,95907.76,3.5,No,3.0,2.0,3,0,2,No,7-10 yrs,0,0
+EMP00618,Engineering,Software Engineer,27.0,Female,Bachelor's,Married,1,0,74973.06,16.0,Yes,2.0,1.0,3,1,1,No,0-1 yrs,0,1
+EMP00301,Marketing,Content Specialist,35.0,Male,High School,Married,11,3,69773.95,5.7,No,2.0,2.0,4,0,1,Yes,2-3 yrs,1,0
+EMP01445,Sales,Account Manager,26.0,Female,Bachelor's,Single,7,1,70793.82,4.9,Yes,3.0,3.0,1,0,5,Yes,0-1 yrs,1,1
+EMP01468,Finance,Accountant,29.0,Male,High School,Divorced,0,0,58545.34,3.0,No,4.0,3.0,3,0,3,No,0-1 yrs,0,0
+EMP00305,Support,Support Lead,26.0,Female,Master's,Single,5,1,63322.79,13.4,Yes,3.0,3.0,4,0,4,Yes,0-1 yrs,1,1
+EMP00033,Engineering,QA Engineer,32.0,Male,Bachelor's,Married,12,9,90728.66,15.2,No,1.0,2.0,4,0,0,No,7-10 yrs,0,0
+EMP01127,Sales,Sales Manager,48.0,Female,Master's,Single,25,0,111953.44,2.9,Yes,4.0,3.0,3,0,0,No,0-1 yrs,0,1
+EMP00142,Engineering,Engineering Manager,26.0,Female,Master's,Married,4,2,94084.36,0.9,No,4.0,4.0,3,1,1,No,2-3 yrs,0,0
+EMP00397,Engineering,Software Engineer,28.0,Female,Bachelor's,Single,6,4,89801.94,13.4,No,2.0,4.0,4,1,2,Yes,4-6 yrs,1,0
+EMP00995,Support,Support Lead,35.0,Male,Bachelor's,Married,16,7,70488.88,18.8,No,2.0,3.0,4,0,5,No,7-10 yrs,0,0
+EMP01151,Marketing,Marketing Manager,27.0,Male,Bachelor's,Single,4,2,57128.59,18.6,No,3.0,1.0,3,0,4,No,2-3 yrs,0,0
+EMP00202,Engineering,Software Engineer,36.0,Female,Master's,Single,15,8,116298.51,15.7,No,2.0,3.0,3,0,4,Yes,7-10 yrs,1,0
+EMP01238,Engineering,Software Engineer,28.0,Female,Bachelor's,Divorced,5,5,80461.85,22.6,No,3.0,4.0,3,0,3,No,4-6 yrs,0,0
+EMP00908,Hr,HR Executive,44.0,Female,Master's,Divorced,18,0,95309.28,7.3,No,3.0,4.0,4,0,1,No,0-1 yrs,0,0
+EMP01289,Sales,Account Manager,58.0,Male,Master's,Single,36,1,124290.03,3.8,No,2.0,3.0,4,0,1,Yes,0-1 yrs,1,0
+EMP00337,Sales,Account Manager,36.0,Male,PhD,Single,6,4,75031.5,0.2,No,1.0,4.0,3,0,4,No,4-6 yrs,0,0
+EMP00907,Sales,Sales Manager,28.0,Female,Bachelor's,Divorced,7,0,61460.45,7.1,No,2.0,4.0,4,1,2,Yes,0-1 yrs,1,0
+EMP01267,Marketing,Marketing Manager,30.0,Male,PhD,Single,12,1,101847.05,5.1,Yes,4.0,1.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00225,Hr,Recruiter,37.0,Male,Bachelor's,Single,15,4,70732.33,1.7,No,1.0,3.0,2,0,1,Yes,4-6 yrs,1,0
+EMP01370,Marketing,Marketing Manager,21.0,Female,Bachelor's,Single,0,0,56926.47,1.1,No,1.0,2.0,1,0,4,No,0-1 yrs,0,0
+EMP01294,Marketing,Marketing Manager,43.0,Male,Master's,Married,20,4,92336.55,8.1,No,1.0,3.0,4,0,3,No,4-6 yrs,0,0
+EMP01402,Hr,HR Executive,39.0,Female,Bachelor's,Married,15,1,73407.24,2.9,No,1.0,1.0,3,1,5,Yes,0-1 yrs,1,0
+EMP00387,Finance,Finance Manager,30.0,Male,Master's,Divorced,4,4,82643.7,0.6,No,1.0,2.0,3,0,4,Yes,4-6 yrs,1,0
+EMP01204,Hr,HR Executive,39.0,Male,Bachelor's,Divorced,21,4,85901.14,5.2,No,2.0,1.0,3,1,2,No,4-6 yrs,0,0
+EMP00543,Engineering,Senior Engineer,21.0,Female,Master's,Divorced,0,0,81287.36,13.8,No,2.0,1.0,4,1,4,Yes,0-1 yrs,1,0
+EMP01007,Marketing,Marketing Executive,42.0,Female,Master's,Married,17,0,94039.59,2.8,No,1.0,2.0,1,0,3,No,0-1 yrs,0,0
+EMP01082,Finance,Accountant,39.0,Female,Bachelor's,Single,21,0,101379.78,5.0,Yes,4.0,1.0,2,0,5,Yes,0-1 yrs,1,1
+EMP00288,Engineering,Engineering Manager,23.0,Male,Bachelor's,Married,0,0,74220.49,0.8,No,1.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00481,Support,Support Executive,26.0,Male,Bachelor's,Married,6,3,61216.51,8.6,No,3.0,2.0,2,1,2,No,2-3 yrs,0,0
+EMP00503,Sales,Sales Executive,28.0,Male,Bachelor's,Divorced,5,1,65968.76,1.0,No,2.0,3.0,3,1,4,Yes,0-1 yrs,1,0
+EMP00936,Sales,Sales Executive,29.0,Female,Master's,Divorced,8,3,85129.75,19.6,No,1.0,2.0,3,0,0,No,2-3 yrs,0,0
+EMP01438,Engineering,Software Engineer,22.0,Male,PhD,Single,0,0,97444.58,0.6,Yes,1.0,1.0,4,0,1,Yes,0-1 yrs,1,1
+EMP00672,Support,Support Executive,31.0,Male,Master's,Married,9,0,68084.49,0.9,No,1.0,4.0,3,1,2,Yes,0-1 yrs,1,0
+EMP01259,Hr,HR Executive,30.0,Male,High School,Divorced,3,3,47432.27,4.0,Yes,2.0,1.0,3,0,0,Yes,2-3 yrs,1,1
+EMP01433,Finance,Financial Analyst,38.0,Female,Bachelor's,Married,14,3,96347.78,2.2,Yes,1.0,4.0,4,1,3,No,2-3 yrs,0,1
+EMP01245,Marketing,Marketing Manager,46.0,Male,High School,Married,23,3,92498.58,0.9,Yes,4.0,2.0,4,1,4,No,2-3 yrs,0,1
+EMP01241,Engineering,QA Engineer,39.0,Female,High School,Married,15,1,90304.68,2.6,No,4.0,4.0,3,1,5,Yes,0-1 yrs,1,0
+EMP01274,Engineering,Engineering Manager,22.0,Female,Bachelor's,Married,0,0,75157.86,4.2,Yes,4.0,4.0,4,0,2,Yes,0-1 yrs,1,1
+EMP00759,Finance,Finance Manager,38.0,Female,Master's,Divorced,13,0,97115.07,16.0,Yes,2.0,1.0,4,0,3,No,0-1 yrs,0,1
+EMP00570,Sales,Sales Manager,31.0,Female,Master's,Single,8,6,80010.92,1.1,Yes,3.0,3.0,3,0,4,Yes,4-6 yrs,1,1
+EMP00770,Sales,Sales Manager,39.0,Male,High School,Single,16,2,77228.57,0.8,No,4.0,3.0,2,0,0,No,2-3 yrs,0,0
+EMP00015,Engineering,QA Engineer,28.0,Female,Bachelor's,Divorced,7,1,89891.97,1.6,No,1.0,3.0,4,0,0,Yes,0-1 yrs,1,0
+EMP00127,Sales,Sales Manager,42.0,Male,Bachelor's,Married,23,7,87947.26,4.0,No,2.0,1.0,3,0,2,Yes,7-10 yrs,1,0
+EMP00625,Sales,Sales Executive,34.0,Male,Master's,Married,12,6,76232.19,2.5,No,2.0,4.0,4,1,0,No,4-6 yrs,0,0
+EMP00173,Engineering,QA Engineer,45.0,Male,Bachelor's,Married,22,4,113964.93,4.7,No,3.0,4.0,3,0,4,No,4-6 yrs,0,0
+EMP01074,Support,Support Lead,41.0,Male,Bachelor's,Married,21,4,83867.62,4.7,No,3.0,2.0,4,1,1,No,4-6 yrs,0,0
+EMP00989,Marketing,Marketing Executive,33.0,Male,Master's,Single,10,4,84565.33,3.5,Yes,3.0,2.0,4,0,3,No,4-6 yrs,0,1
+EMP01142,Engineering,Software Engineer,31.0,Female,Bachelor's,Single,7,1,81160.23,19.6,No,4.0,4.0,4,0,5,No,0-1 yrs,0,0
+EMP00999,Support,Support Executive,27.0,Female,Master's,Married,2,2,60176.89,4.7,No,3.0,4.0,3,1,4,No,2-3 yrs,0,0
+EMP01255,Sales,Account Manager,31.0,Male,Bachelor's,Single,2,1,50170.97,7.0,No,3.0,1.0,1,0,4,No,0-1 yrs,0,0
+EMP01368,Engineering,Engineering Manager,21.0,Male,High School,Divorced,0,0,62003.58,4.2,No,4.0,3.0,3,0,5,Yes,0-1 yrs,1,0
+EMP01231,Marketing,Marketing Manager,27.0,Male,PhD,Divorced,9,2,82940.22,1.1,No,4.0,4.0,1,1,2,Yes,2-3 yrs,1,0
+EMP00516,Support,Support Executive,37.0,Female,Master's,Divorced,14,8,86288.6,0.7,Yes,1.0,2.0,3,0,0,Yes,7-10 yrs,1,1
+EMP00959,Sales,Sales Executive,41.0,Male,Master's,Single,23,1,106963.92,0.7,No,1.0,4.0,3,0,2,No,0-1 yrs,0,0
+EMP01236,Engineering,Engineering Manager,39.0,Female,Bachelor's,Married,19,1,98117.03,7.9,Yes,3.0,1.0,3,0,3,No,0-1 yrs,0,1
+EMP01450,Hr,HR Manager,38.0,Female,Master's,Divorced,10,3,71970.48,1.1,No,2.0,2.0,3,0,1,Yes,2-3 yrs,1,0
+EMP01011,Support,Support Lead,32.0,Male,Bachelor's,Married,4,0,45719.1,10.6,No,4.0,3.0,4,0,5,No,0-1 yrs,0,0
+EMP01362,Sales,Account Manager,41.0,Male,High School,Single,15,15,64564.31,25.6,Yes,3.0,3.0,4,0,5,No,10+ yrs,0,1
+EMP01408,Sales,Sales Executive,40.0,Female,Master's,Single,15,0,81714.78,1.4,No,2.0,4.0,3,1,4,No,0-1 yrs,0,0
+EMP00161,Marketing,Marketing Manager,31.0,Male,Bachelor's,Single,13,2,75085.88,38.6,No,1.0,4.0,3,0,0,Yes,2-3 yrs,1,0
+EMP00132,Support,Support Lead,32.0,Male,Master's,Married,8,3,83596.3,1.0,No,2.0,4.0,3,0,1,No,2-3 yrs,0,0
+EMP01051,Support,Support Lead,21.0,Female,Master's,Divorced,0,0,60435.51,7.3,No,2.0,4.0,2,0,5,No,0-1 yrs,0,0
+EMP01424,Marketing,Content Specialist,37.0,Male,Bachelor's,Single,15,4,93278.47,0.7,No,1.0,4.0,2,1,3,No,4-6 yrs,0,0
+EMP00829,Sales,Sales Manager,45.0,Male,Master's,Married,22,8,100931.29,3.6,Yes,1.0,2.0,3,1,1,No,7-10 yrs,0,1
+EMP00819,Engineering,Software Engineer,44.0,Female,Bachelor's,Divorced,23,0,122108.88,19.3,Yes,1.0,2.0,3,0,1,Yes,0-1 yrs,1,1
+EMP00524,Finance,Accountant,26.0,Male,Master's,Married,2,2,84853.86,16.9,Yes,1.0,2.0,3,0,4,Yes,2-3 yrs,1,1
+EMP00063,Sales,Sales Manager,40.0,Female,Bachelor's,Divorced,18,5,87983.82,13.0,No,2.0,1.0,3,0,3,No,4-6 yrs,0,0
+EMP00948,Engineering,Senior Engineer,32.0,Female,Bachelor's,Single,6,6,88035.15,4.4,Yes,2.0,1.0,3,0,5,Yes,4-6 yrs,1,1
+EMP00963,Finance,Accountant,31.0,Female,Master's,Single,11,7,98700.78,2.7,No,3.0,4.0,3,0,3,No,7-10 yrs,0,0
+EMP00719,Finance,Financial Analyst,47.0,Male,Master's,Divorced,19,6,83596.3,1.8,No,4.0,2.0,3,0,0,No,4-6 yrs,0,0
+EMP00836,Sales,Sales Manager,47.0,Female,Bachelor's,Single,22,6,83596.3,0.9,No,2.0,1.0,3,1,3,No,4-6 yrs,0,0
+EMP00045,Support,Support Lead,47.0,Male,Bachelor's,Single,22,3,75203.83,11.7,No,2.0,4.0,4,1,3,No,2-3 yrs,0,0
+EMP00413,Sales,Sales Executive,32.0,Male,Master's,Married,13,0,89656.76,3.0,No,1.0,3.0,3,0,2,No,0-1 yrs,0,0
+EMP00848,Marketing,Marketing Manager,41.0,Male,Bachelor's,Single,14,3,83596.3,3.9,Yes,4.0,4.0,3,0,2,No,2-3 yrs,0,1
+EMP00183,Support,Support Lead,28.0,Female,High School,Single,8,0,59218.23,21.7,No,3.0,3.0,3,0,2,No,0-1 yrs,0,0
+EMP00620,Marketing,Marketing Executive,48.0,Female,Bachelor's,Divorced,28,3,100369.9,20.9,No,3.0,3.0,3,0,2,No,2-3 yrs,0,0
+EMP01043,Marketing,Marketing Executive,41.0,Female,Bachelor's,Divorced,13,6,77120.91,3.6,No,4.0,3.0,4,0,4,Yes,4-6 yrs,1,0
+EMP00029,Support,Support Executive,40.0,Male,Master's,Divorced,22,0,97550.39,3.0,No,1.0,4.0,3,0,5,No,0-1 yrs,0,0
+EMP01456,Support,Support Lead,31.0,Male,Bachelor's,Married,9,1,59704.65,15.8,Yes,3.0,2.0,3,0,3,No,0-1 yrs,0,1
+EMP00998,Engineering,QA Engineer,43.0,Female,Bachelor's,Divorced,25,1,120265.92,43.7,Yes,1.0,3.0,3,0,1,Yes,0-1 yrs,1,1
+EMP01114,Engineering,Engineering Manager,32.0,Male,Bachelor's,Divorced,8,3,86587.43,5.0,No,1.0,1.0,3,1,3,Yes,2-3 yrs,1,0
+EMP00120,Engineering,Engineering Manager,26.0,Female,Master's,Single,1,1,88465.23,0.7,No,4.0,4.0,3,0,4,No,0-1 yrs,0,0
+EMP00286,Engineering,Software Engineer,35.0,Male,Bachelor's,Married,14,1,91865.24,0.4,No,3.0,3.0,3,0,2,No,0-1 yrs,0,0
+EMP00803,Engineering,QA Engineer,23.0,Male,PhD,Married,1,1,91653.7,6.5,No,4.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP00897,Support,Support Lead,45.0,Male,Bachelor's,Single,21,6,81449.43,11.6,No,3.0,3.0,2,0,4,No,4-6 yrs,0,0
+EMP00501,Finance,Finance Manager,40.0,Male,Bachelor's,Divorced,9,4,81495.3,0.9,No,4.0,3.0,3,1,0,No,4-6 yrs,0,0
+EMP00860,Marketing,Content Specialist,24.0,Female,Bachelor's,Married,4,3,57109.95,1.1,No,4.0,1.0,3,1,1,No,2-3 yrs,0,0
+EMP00102,Hr,HR Manager,41.0,Male,Bachelor's,Single,18,5,78619.01,4.8,Yes,2.0,2.0,2,0,0,No,4-6 yrs,0,1
+EMP00654,Finance,Accountant,32.0,Male,Bachelor's,Married,12,6,96364.05,1.5,Yes,2.0,4.0,3,0,5,Yes,4-6 yrs,1,1
+EMP00686,Support,Support Lead,44.0,Female,High School,Single,24,2,82924.34,24.9,Yes,4.0,4.0,4,0,1,No,2-3 yrs,0,1
+EMP00108,Marketing,Marketing Executive,59.0,Female,Bachelor's,Single,40,0,121639.36,14.9,No,2.0,3.0,2,0,0,No,0-1 yrs,0,0
+EMP00665,Hr,Recruiter,27.0,Male,Bachelor's,Single,6,4,65698.51,2.8,No,4.0,4.0,3,1,3,No,4-6 yrs,0,0
+EMP00007,Support,Support Executive,21.0,Female,Master's,Single,0,0,60998.6,7.4,No,1.0,2.0,1,1,1,No,0-1 yrs,0,0
+EMP01316,Finance,Financial Analyst,44.0,Female,Bachelor's,Married,16,2,88725.49,0.3,Yes,1.0,3.0,3,0,3,No,2-3 yrs,0,1
+EMP01417,Engineering,Senior Engineer,38.0,Male,High School,Married,13,2,81986.96,2.9,No,4.0,1.0,1,0,5,No,2-3 yrs,0,0
+EMP00782,Sales,Sales Manager,30.0,Male,Master's,Married,2,2,59554.72,14.2,No,2.0,1.0,3,0,2,No,2-3 yrs,0,0
+EMP00147,Sales,Account Manager,48.0,Female,Master's,Divorced,27,0,103641.25,8.7,No,1.0,4.0,4,0,2,No,0-1 yrs,0,0
+EMP01046,Hr,Recruiter,38.0,Female,Bachelor's,Married,17,1,78693.45,7.7,No,2.0,1.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00638,Sales,Sales Executive,38.0,Female,Bachelor's,Married,15,1,81373.45,1.2,No,4.0,4.0,4,1,2,Yes,0-1 yrs,1,0
+EMP00793,Finance,Finance Manager,40.0,Male,PhD,Married,16,3,114331.95,0.5,Yes,1.0,3.0,3,0,2,No,2-3 yrs,0,1
+EMP00663,Support,Support Executive,30.0,Female,High School,Single,9,2,59665.57,4.4,No,3.0,3.0,3,0,2,No,2-3 yrs,0,0
+EMP01163,Sales,Sales Executive,21.0,Female,Master's,Married,0,0,58767.55,11.7,No,3.0,2.0,3,1,5,No,0-1 yrs,0,0
+EMP00234,Sales,Account Manager,36.0,Male,Master's,Divorced,17,17,87844.09,7.5,No,3.0,1.0,3,0,3,No,10+ yrs,0,0
+EMP00013,Marketing,Marketing Executive,41.0,Female,Bachelor's,Married,14,3,75938.02,4.2,Yes,2.0,4.0,3,1,3,Yes,2-3 yrs,1,1
+EMP00130,Support,Support Executive,21.0,Female,Bachelor's,Divorced,0,0,43850.21,17.4,Yes,1.0,3.0,2,0,3,Yes,0-1 yrs,1,1
+EMP01097,Engineering,Senior Engineer,21.0,Female,Master's,Married,0,0,84843.9,8.5,Yes,3.0,4.0,4,0,4,Yes,0-1 yrs,1,1
+EMP01044,Sales,Account Manager,43.0,Female,High School,Married,24,11,99767.15,2.2,Yes,4.0,4.0,4,0,5,No,10+ yrs,0,1
+EMP00757,Sales,Sales Manager,39.0,Female,Bachelor's,Divorced,20,4,89770.8,9.6,No,4.0,3.0,3,0,3,No,4-6 yrs,0,0
+EMP00153,Engineering,Engineering Manager,39.0,Male,Master's,Married,15,3,104229.15,2.4,No,4.0,4.0,4,0,0,No,2-3 yrs,0,0
+EMP00283,Support,Support Lead,30.0,Male,PhD,Divorced,11,1,89784.78,6.8,Yes,4.0,2.0,2,0,2,Yes,0-1 yrs,1,1
+EMP01466,Sales,Sales Manager,22.0,Female,Bachelor's,Single,0,0,49775.08,7.7,No,4.0,3.0,3,1,1,No,0-1 yrs,0,0
+EMP00064,Hr,HR Manager,44.0,Female,PhD,Divorced,20,5,106987.31,3.0,Yes,4.0,1.0,3,1,4,No,4-6 yrs,0,1
+EMP01392,Sales,Sales Executive,32.0,Male,Bachelor's,Married,11,0,72365.59,4.2,No,4.0,3.0,2,0,0,Yes,0-1 yrs,1,0
+EMP00209,Finance,Accountant,21.0,Male,Master's,Single,3,1,82156.84,15.4,No,4.0,1.0,3,0,0,No,0-1 yrs,0,0
+EMP01347,Sales,Account Manager,33.0,Male,Bachelor's,Single,14,5,75628.43,3.3,Yes,1.0,4.0,4,0,1,Yes,4-6 yrs,1,1
+EMP01036,Finance,Finance Manager,41.0,Female,Bachelor's,Married,13,1,89428.04,10.1,Yes,3.0,4.0,4,0,4,No,0-1 yrs,0,1
+EMP01358,Support,Support Executive,43.0,Male,Bachelor's,Married,21,3,88020.05,2.5,Yes,4.0,3.0,3,0,0,No,2-3 yrs,0,1
+EMP01298,Engineering,Engineering Manager,31.0,Male,PhD,Married,13,6,118246.01,3.8,Yes,4.0,1.0,4,1,4,No,4-6 yrs,0,1
+EMP00159,Marketing,Content Specialist,23.0,Male,Bachelor's,Married,5,0,63530.39,0.4,No,1.0,4.0,4,0,3,Yes,0-1 yrs,1,0
+EMP00262,Sales,Sales Executive,36.0,Female,Bachelor's,Married,16,6,84869.25,3.8,No,3.0,4.0,3,1,1,No,4-6 yrs,0,0
+EMP01066,Engineering,Software Engineer,55.0,Female,Master's,Single,24,2,122095.63,3.7,Yes,4.0,3.0,2,1,1,No,2-3 yrs,0,1
+EMP00660,Engineering,QA Engineer,37.0,Female,PhD,Single,14,3,126192.34,9.8,Yes,1.0,3.0,4,1,2,No,2-3 yrs,0,1
+EMP00961,Sales,Sales Manager,38.0,Female,High School,Divorced,15,6,65653.77,24.2,Yes,4.0,2.0,3,0,1,Yes,4-6 yrs,1,1
+EMP00145,Sales,Sales Executive,56.0,Female,Bachelor's,Married,38,11,108955.74,5.0,No,4.0,1.0,4,0,4,No,10+ yrs,0,0
+EMP01027,Engineering,QA Engineer,43.0,Male,Bachelor's,Single,15,12,104530.73,2.2,No,3.0,1.0,3,0,4,Yes,10+ yrs,1,0
+EMP00887,Marketing,Marketing Executive,43.0,Female,Master's,Divorced,20,13,115574.74,32.4,No,4.0,4.0,4,0,3,No,10+ yrs,0,0
+EMP00077,Support,Support Executive,26.0,Female,Master's,Married,0,0,56759.86,4.3,No,1.0,2.0,3,1,0,No,0-1 yrs,0,0
+EMP00473,Finance,Financial Analyst,43.0,Male,Bachelor's,Divorced,16,1,95973.9,2.7,Yes,3.0,4.0,3,0,1,No,0-1 yrs,0,1
+EMP00951,Engineering,Senior Engineer,46.0,Male,Bachelor's,Divorced,21,3,115747.96,17.5,No,4.0,2.0,4,0,4,No,2-3 yrs,0,0
+EMP00854,Engineering,QA Engineer,37.0,Male,Master's,Single,16,6,106082.37,7.3,No,3.0,3.0,4,0,5,No,4-6 yrs,0,0
+EMP00800,Support,Support Executive,29.0,Male,PhD,Married,3,3,70113.98,11.3,No,2.0,1.0,4,0,5,Yes,2-3 yrs,1,0
+EMP00390,Marketing,Marketing Manager,27.0,Female,Master's,Married,2,2,69046.05,20.8,No,1.0,4.0,4,1,1,Yes,2-3 yrs,1,0
+EMP00267,Finance,Finance Manager,42.0,Female,Bachelor's,Divorced,24,2,109215.89,6.0,No,4.0,3.0,3,1,1,No,2-3 yrs,0,0
+EMP00588,Marketing,Marketing Executive,24.0,Male,Bachelor's,Divorced,2,0,67809.91,12.7,No,1.0,3.0,3,0,0,Yes,0-1 yrs,1,0
+EMP00364,Support,Support Lead,32.0,Female,Bachelor's,Married,8,2,66197.46,18.8,No,2.0,1.0,4,0,0,No,2-3 yrs,0,0
+EMP01372,Sales,Account Manager,40.0,Female,Master's,Single,16,2,92682.75,52.6,No,1.0,3.0,3,0,1,No,2-3 yrs,0,0
+EMP00215,Marketing,Marketing Manager,33.0,Male,Master's,Divorced,6,2,83493.67,3.2,No,3.0,3.0,3,0,5,Yes,2-3 yrs,1,0
+EMP01067,Support,Support Executive,43.0,Female,Bachelor's,Divorced,22,10,84489.29,2.2,No,3.0,1.0,3,0,0,No,7-10 yrs,0,0
+EMP00384,Engineering,Senior Engineer,27.0,Male,High School,Divorced,7,6,86519.39,1.9,No,3.0,4.0,3,0,2,No,4-6 yrs,0,0
+EMP00807,Support,Support Lead,25.0,Female,Master's,Single,2,1,63517.31,6.5,No,4.0,3.0,2,0,0,No,0-1 yrs,0,0
+EMP00599,Finance,Accountant,41.0,Male,Master's,Divorced,19,0,108480.48,0.5,Yes,3.0,4.0,3,0,3,No,0-1 yrs,0,1
+EMP01463,Marketing,Content Specialist,43.0,Female,Bachelor's,Divorced,24,3,93176.31,14.0,Yes,3.0,4.0,3,1,2,Yes,2-3 yrs,1,1
+EMP00879,Support,Support Lead,21.0,Male,Bachelor's,Single,0,0,43651.68,1.1,Yes,1.0,1.0,4,0,4,Yes,0-1 yrs,1,1
+EMP00520,Support,Support Executive,41.0,Male,Master's,Single,20,2,96811.69,3.3,No,3.0,1.0,3,0,5,No,2-3 yrs,0,0
+EMP00254,Hr,HR Manager,30.0,Female,High School,Single,12,12,64113.02,1.0,No,1.0,1.0,3,0,1,Yes,10+ yrs,1,0
+EMP00597,Engineering,Software Engineer,21.0,Male,PhD,Single,2,2,103781.16,12.0,No,3.0,1.0,2,1,0,Yes,2-3 yrs,1,0
+EMP00003,Engineering,Software Engineer,42.0,Female,Master's,Divorced,20,2,119494.19,1.5,No,1.0,2.0,2,0,0,No,2-3 yrs,0,0
+EMP00952,Hr,Recruiter,21.0,Male,Master's,Married,0,0,54916.56,5.7,No,2.0,3.0,3,1,2,No,0-1 yrs,0,0
+EMP00437,Engineering,Engineering Manager,21.0,Male,High School,Divorced,0,0,58182.32,3.3,Yes,4.0,4.0,3,1,2,Yes,0-1 yrs,1,1
+EMP00760,Engineering,QA Engineer,34.0,Male,PhD,Married,4,4,108444.2,11.8,No,3.0,2.0,2,0,2,No,4-6 yrs,0,0
+EMP00496,Marketing,Marketing Executive,48.0,Male,Bachelor's,Single,30,3,110610.68,3.6,No,1.0,4.0,4,0,5,No,2-3 yrs,0,0
+EMP01321,Marketing,Marketing Executive,34.0,Male,Bachelor's,Single,9,9,75717.7,3.1,No,1.0,3.0,2,0,5,Yes,7-10 yrs,1,0
+EMP00617,Support,Support Lead,25.0,Female,Master's,Divorced,4,2,68522.3,2.4,No,3.0,1.0,3,0,3,No,2-3 yrs,0,0
+EMP00366,Support,Support Lead,35.0,Male,High School,Divorced,4,0,45853.53,3.7,Yes,2.0,2.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00117,Engineering,Senior Engineer,28.0,Male,Master's,Married,2,2,89167.7,6.3,Yes,2.0,4.0,4,0,3,Yes,2-3 yrs,1,1
+EMP00962,Hr,HR Manager,39.0,Male,Bachelor's,Single,20,0,79038.25,9.1,No,2.0,1.0,1,0,2,Yes,0-1 yrs,1,0
+EMP01306,Finance,Accountant,33.0,Female,Bachelor's,Divorced,13,3,83373.66,19.4,No,3.0,2.0,3,1,1,No,2-3 yrs,0,0
+EMP01403,Engineering,Software Engineer,35.0,Male,Master's,Single,7,1,110366.67,0.9,No,3.0,2.0,4,0,4,No,0-1 yrs,0,0
+EMP01187,Engineering,QA Engineer,36.0,Female,Bachelor's,Single,18,1,101858.72,26.7,Yes,2.0,3.0,4,0,4,No,0-1 yrs,0,1
+EMP00994,Sales,Sales Manager,28.0,Male,Bachelor's,Married,4,1,68224.48,4.8,No,3.0,2.0,3,0,1,Yes,0-1 yrs,1,0
+EMP00357,Engineering,Software Engineer,41.0,Male,PhD,Divorced,13,6,116768.39,22.1,No,2.0,2.0,4,0,5,Yes,4-6 yrs,1,0
+EMP00542,Finance,Financial Analyst,39.0,Female,High School,Single,13,9,84540.77,2.2,Yes,2.0,2.0,3,0,5,No,7-10 yrs,0,1
+EMP00721,Engineering,Engineering Manager,40.0,Male,Bachelor's,Single,18,5,103505.57,1.2,Yes,4.0,2.0,4,1,2,No,4-6 yrs,0,1
+EMP00343,Marketing,Content Specialist,34.0,Female,Bachelor's,Married,11,1,72672.0,10.5,No,3.0,2.0,2,0,2,Yes,0-1 yrs,1,0
+EMP01486,Engineering,Software Engineer,21.0,Female,Master's,Married,0,0,80402.81,8.2,No,2.0,2.0,3,0,5,Yes,0-1 yrs,1,0
+EMP00320,Support,Support Lead,45.0,Female,Master's,Divorced,26,12,96580.83,3.8,No,4.0,3.0,2,0,5,No,10+ yrs,0,0
+EMP00154,Engineering,QA Engineer,41.0,Female,Bachelor's,Divorced,17,7,108296.03,27.2,No,4.0,4.0,3,0,5,No,7-10 yrs,0,0
+EMP00767,Engineering,Engineering Manager,26.0,Male,Bachelor's,Single,4,2,81884.98,3.7,Yes,2.0,3.0,4,0,5,No,2-3 yrs,0,1
+EMP00317,Support,Support Executive,27.0,Male,Bachelor's,Single,9,0,58608.27,6.1,Yes,3.0,2.0,3,0,0,No,0-1 yrs,0,1
+EMP00308,Engineering,Engineering Manager,23.0,Male,Bachelor's,Single,2,2,80597.65,3.1,No,4.0,3.0,3,0,5,Yes,2-3 yrs,1,0
+EMP00129,Marketing,Marketing Executive,37.0,Female,Master's,Single,16,13,93805.23,8.2,Yes,3.0,1.0,4,0,1,No,10+ yrs,0,1
+EMP01295,Support,Support Executive,43.0,Male,Master's,Divorced,16,0,74410.23,11.9,Yes,2.0,3.0,3,0,4,No,0-1 yrs,0,1
+EMP00619,Engineering,Software Engineer,48.0,Female,Bachelor's,Married,19,2,111255.75,11.4,Yes,2.0,1.0,3,0,4,Yes,2-3 yrs,1,1
+EMP00293,Finance,Finance Manager,33.0,Female,Master's,Divorced,7,1,90560.52,0.9,No,4.0,2.0,4,0,0,Yes,0-1 yrs,1,0
+EMP00513,Engineering,QA Engineer,21.0,Female,Bachelor's,Single,0,0,87151.84,0.9,Yes,1.0,1.0,4,0,5,No,0-1 yrs,0,1
+EMP00041,Finance,Accountant,37.0,Male,Master's,Divorced,19,3,99617.13,2.3,No,1.0,1.0,3,0,5,No,2-3 yrs,0,0
+EMP01168,Sales,Sales Executive,32.0,Male,Bachelor's,Single,8,3,64460.49,9.4,No,2.0,4.0,3,0,5,No,2-3 yrs,0,0
+EMP00823,Marketing,Content Specialist,30.0,Female,Bachelor's,Married,10,1,76394.82,7.5,Yes,2.0,3.0,3,0,5,No,0-1 yrs,0,1
+EMP00715,Support,Support Executive,35.0,Male,Master's,Single,17,0,81177.94,13.1,No,3.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP00178,Finance,Finance Manager,46.0,Male,Bachelor's,Married,28,9,106316.83,17.1,Yes,1.0,2.0,3,0,3,No,7-10 yrs,0,1
+EMP00124,Sales,Sales Executive,33.0,Male,Bachelor's,Married,9,0,66284.31,11.1,No,3.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00125,Engineering,Senior Engineer,21.0,Male,High School,Married,3,3,74713.08,2.0,No,3.0,3.0,3,1,4,No,2-3 yrs,0,0
+EMP01285,Sales,Sales Manager,39.0,Male,Bachelor's,Single,16,0,84542.3,13.2,No,4.0,3.0,2,0,2,No,0-1 yrs,0,0
+EMP00296,Finance,Financial Analyst,44.0,Female,PhD,Single,20,1,119438.6,2.2,Yes,1.0,1.0,3,0,2,Yes,0-1 yrs,1,1
+EMP01177,Marketing,Marketing Executive,22.0,Male,PhD,Single,1,1,74788.91,4.3,No,4.0,1.0,3,1,0,Yes,0-1 yrs,1,0
+EMP00674,Engineering,Engineering Manager,31.0,Female,Bachelor's,Divorced,13,10,94439.09,9.2,No,2.0,1.0,3,0,1,No,7-10 yrs,0,0
+EMP00444,Support,Support Lead,23.0,Female,Bachelor's,Single,5,5,55263.72,8.1,Yes,2.0,3.0,2,0,5,No,4-6 yrs,0,1
+EMP00479,Sales,Account Manager,31.0,Female,PhD,Single,10,4,83596.3,2.8,No,4.0,4.0,3,0,3,No,4-6 yrs,0,0
+EMP01384,Sales,Sales Executive,21.0,Male,PhD,Single,0,0,73383.05,19.7,No,1.0,1.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00457,Sales,Sales Manager,32.0,Female,Master's,Divorced,12,0,73383.0,9.2,No,4.0,4.0,4,0,1,No,0-1 yrs,0,0
+EMP00598,Engineering,Senior Engineer,30.0,Female,Bachelor's,Single,5,1,84489.63,8.8,No,3.0,3.0,3,1,3,No,0-1 yrs,0,0
+EMP00639,Support,Support Lead,25.0,Male,Bachelor's,Married,2,2,44585.29,3.6,No,4.0,3.0,2,0,2,No,2-3 yrs,0,0
+EMP00669,Support,Support Executive,35.0,Female,Bachelor's,Married,14,0,67442.32,3.5,No,2.0,4.0,3,0,0,No,0-1 yrs,0,0
+EMP00330,Sales,Account Manager,60.0,Male,Master's,Divorced,42,3,134130.08,17.9,No,4.0,3.0,3,0,4,No,2-3 yrs,0,0
+EMP01382,Sales,Sales Manager,25.0,Female,High School,Divorced,2,2,49524.03,0.6,No,2.0,4.0,4,0,0,No,2-3 yrs,0,0
+EMP00624,Support,Support Executive,32.0,Female,Bachelor's,Single,14,5,80685.53,14.0,No,2.0,3.0,3,0,1,Yes,4-6 yrs,1,0
+EMP01058,Support,Support Lead,52.0,Male,Bachelor's,Married,26,3,95579.08,3.2,No,2.0,1.0,3,0,3,No,2-3 yrs,0,0
+EMP00402,Sales,Sales Manager,37.0,Female,Bachelor's,Married,8,0,71427.89,20.3,No,2.0,4.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00420,Sales,Sales Executive,31.0,Male,Bachelor's,Divorced,11,3,74715.63,12.0,Yes,2.0,1.0,3,0,0,Yes,2-3 yrs,1,1
+EMP00196,Support,Support Lead,22.0,Male,Master's,Married,0,0,44583.35,12.9,No,3.0,1.0,3,0,2,Yes,0-1 yrs,1,0
+EMP01182,Engineering,QA Engineer,46.0,Male,High School,Married,25,8,83596.3,10.9,No,1.0,4.0,4,0,1,No,7-10 yrs,0,0
+EMP00875,Support,Support Executive,48.0,Male,Bachelor's,Divorced,29,2,98614.44,6.3,No,1.0,2.0,1,0,5,Yes,2-3 yrs,1,0
+EMP01396,Engineering,QA Engineer,36.0,Female,PhD,Divorced,14,11,118896.42,3.0,No,4.0,3.0,4,1,2,No,10+ yrs,0,0
+EMP00837,Finance,Financial Analyst,35.0,Male,Master's,Single,10,10,98800.72,7.3,Yes,2.0,2.0,3,0,0,Yes,7-10 yrs,1,1
+EMP00258,Marketing,Marketing Executive,42.0,Female,Master's,Single,17,7,93911.93,4.6,Yes,3.0,2.0,4,0,4,No,7-10 yrs,0,1
+EMP00582,Marketing,Marketing Executive,32.0,Male,Bachelor's,Divorced,13,1,79828.48,15.9,No,2.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00483,Hr,HR Executive,33.0,Male,Master's,Single,13,2,75834.47,1.1,No,4.0,3.0,3,1,0,No,2-3 yrs,0,0
+EMP00529,Marketing,Content Specialist,42.0,Female,Bachelor's,Divorced,19,1,98507.23,16.4,No,3.0,2.0,3,1,2,No,0-1 yrs,0,0
+EMP00626,Engineering,Senior Engineer,34.0,Male,Master's,Single,12,5,110533.52,21.1,No,1.0,1.0,2,0,3,Yes,4-6 yrs,1,0
+EMP00454,Hr,HR Executive,45.0,Male,Bachelor's,Single,23,10,97332.62,3.1,No,3.0,4.0,3,1,3,Yes,7-10 yrs,1,0
+EMP00263,Engineering,Engineering Manager,32.0,Female,Bachelor's,Divorced,5,1,74680.09,2.0,No,4.0,4.0,4,0,5,No,0-1 yrs,0,0
+EMP01465,Engineering,Engineering Manager,35.0,Male,PhD,Single,20,1,128699.76,0.2,No,2.0,4.0,4,0,2,No,0-1 yrs,0,0
+EMP00801,Support,Support Lead,39.0,Male,Master's,Married,16,0,86088.45,2.2,No,4.0,2.0,4,0,2,No,0-1 yrs,0,0
+EMP01448,Marketing,Marketing Manager,33.0,Male,Bachelor's,Divorced,7,2,63738.54,8.7,Yes,3.0,1.0,4,1,4,Yes,2-3 yrs,1,1
+EMP01353,Support,Support Executive,38.0,Female,Master's,Single,14,14,79364.69,8.7,No,2.0,3.0,3,1,4,No,10+ yrs,0,0
+EMP00670,Sales,Sales Manager,43.0,Female,Bachelor's,Married,16,4,91971.9,2.7,Yes,3.0,3.0,4,0,2,No,4-6 yrs,0,1
+EMP00081,Marketing,Marketing Manager,38.0,Female,Bachelor's,Married,16,1,84638.97,0.6,No,4.0,1.0,2,0,4,No,0-1 yrs,0,0
+EMP00704,Sales,Account Manager,34.0,Female,Bachelor's,Divorced,3,3,53673.49,1.4,No,1.0,2.0,3,1,1,No,2-3 yrs,0,0
+EMP00016,Marketing,Marketing Executive,35.0,Female,Master's,Single,9,0,78849.02,6.9,Yes,3.0,2.0,3,0,2,Yes,0-1 yrs,1,1
+EMP01284,Engineering,Software Engineer,32.0,Male,Bachelor's,Married,5,3,88038.64,3.0,No,1.0,3.0,4,1,1,Yes,2-3 yrs,1,0
+EMP00828,Hr,HR Executive,53.0,Male,High School,Divorced,30,12,93045.98,0.1,No,2.0,2.0,3,0,2,No,10+ yrs,0,0
+EMP00814,Support,Support Executive,27.0,Male,Bachelor's,Single,6,6,47403.85,1.2,No,3.0,2.0,3,0,2,No,4-6 yrs,0,0
+EMP00922,Engineering,Senior Engineer,29.0,Male,Bachelor's,Married,11,0,88900.11,18.7,No,2.0,4.0,4,1,4,Yes,0-1 yrs,1,0
+EMP00066,Engineering,Software Engineer,27.0,Male,Bachelor's,Married,0,0,74212.59,8.5,No,1.0,3.0,3,0,5,Yes,0-1 yrs,1,0
+EMP01071,Engineering,QA Engineer,40.0,Male,Bachelor's,Divorced,22,8,111742.84,4.6,No,4.0,2.0,3,1,4,No,7-10 yrs,0,0
+EMP01100,Hr,Recruiter,26.0,Male,Bachelor's,Single,1,0,59301.06,15.2,No,3.0,3.0,3,1,0,No,0-1 yrs,0,0
+EMP00687,Support,Support Lead,40.0,Female,Master's,Married,19,3,92005.9,21.2,Yes,4.0,3.0,3,0,1,No,2-3 yrs,0,1
+EMP01234,Engineering,Software Engineer,31.0,Female,Master's,Married,5,2,89762.25,6.9,Yes,2.0,1.0,3,0,3,Yes,2-3 yrs,1,1
+EMP00059,Support,Support Lead,24.0,Female,Master's,Married,0,0,49979.7,26.8,No,4.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP01191,Sales,Account Manager,33.0,Male,Master's,Single,7,1,80762.33,3.1,No,1.0,2.0,3,1,2,Yes,0-1 yrs,1,0
+EMP00089,Engineering,Software Engineer,36.0,Male,Master's,Single,12,1,107238.01,2.6,Yes,1.0,3.0,2,0,1,No,0-1 yrs,0,1
+EMP00054,Support,Support Lead,51.0,Female,High School,Married,28,0,81865.62,3.7,No,2.0,2.0,2,1,5,Yes,0-1 yrs,1,0
+EMP00026,Marketing,Content Specialist,26.0,Male,Bachelor's,Married,5,1,63808.8,9.2,No,4.0,3.0,2,0,2,Yes,0-1 yrs,1,0
+EMP00690,Hr,HR Executive,33.0,Male,Master's,Single,9,6,81655.93,0.0,No,2.0,1.0,1,0,1,Yes,4-6 yrs,1,0
+EMP00255,Engineering,Engineering Manager,41.0,Female,Bachelor's,Divorced,18,4,97028.54,0.7,Yes,3.0,3.0,4,0,3,No,4-6 yrs,0,1
+EMP00486,Engineering,Senior Engineer,41.0,Female,Master's,Single,21,1,120170.03,0.2,No,3.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00650,Marketing,Marketing Executive,22.0,Female,Master's,Divorced,0,0,60610.19,2.6,No,3.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00386,Engineering,QA Engineer,33.0,Male,Bachelor's,Married,13,5,99683.82,3.0,No,4.0,1.0,4,0,4,No,4-6 yrs,0,0
+EMP00018,Sales,Sales Manager,30.0,Female,Bachelor's,Single,11,0,77938.8,1.8,No,3.0,2.0,3,0,1,Yes,0-1 yrs,1,0
+EMP00720,Finance,Accountant,35.0,Male,Master's,Single,13,4,92921.44,18.1,No,1.0,1.0,2,1,2,Yes,4-6 yrs,1,0
+EMP00644,Engineering,Engineering Manager,32.0,Female,PhD,Divorced,8,2,113135.2,43.2,No,2.0,3.0,3,1,5,Yes,2-3 yrs,1,0
+EMP01079,Finance,Accountant,37.0,Male,Bachelor's,Married,16,4,86463.28,0.8,Yes,4.0,3.0,2,0,1,No,4-6 yrs,0,1
+EMP00790,Marketing,Marketing Executive,31.0,Female,Bachelor's,Single,13,1,70177.17,5.2,No,4.0,2.0,3,0,4,Yes,0-1 yrs,1,0
+EMP00939,Marketing,Marketing Manager,33.0,Female,Master's,Divorced,10,3,86628.56,6.5,No,2.0,3.0,3,0,3,No,2-3 yrs,0,0
+EMP01459,Engineering,Engineering Manager,36.0,Female,Master's,Divorced,14,2,103420.8,1.8,No,2.0,4.0,3,0,1,Yes,2-3 yrs,1,0
+EMP01340,Finance,Finance Manager,33.0,Male,Master's,Single,5,1,82680.9,15.2,No,3.0,3.0,3,0,4,No,0-1 yrs,0,0
+EMP00652,Engineering,Engineering Manager,30.0,Male,Bachelor's,Married,9,9,89406.62,2.9,No,2.0,4.0,2,1,4,No,7-10 yrs,0,0
+EMP00979,Support,Support Executive,37.0,Female,Master's,Divorced,12,0,75461.88,10.4,Yes,4.0,2.0,4,1,4,No,0-1 yrs,0,1
+EMP00097,Sales,Account Manager,29.0,Male,Master's,Single,7,3,72498.75,22.4,Yes,2.0,1.0,3,0,4,No,2-3 yrs,0,1
+EMP00537,Support,Support Executive,21.0,Female,Bachelor's,Single,0,0,40674.09,4.1,Yes,4.0,3.0,3,1,1,No,0-1 yrs,0,1
+EMP01054,Engineering,Engineering Manager,47.0,Female,Bachelor's,Divorced,25,5,125029.58,0.8,Yes,3.0,1.0,4,0,1,No,4-6 yrs,0,1
+EMP00352,Sales,Sales Executive,46.0,Female,Bachelor's,Divorced,18,0,100220.39,3.5,No,2.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP01144,Engineering,Software Engineer,33.0,Male,Bachelor's,Single,9,6,84721.71,21.3,No,3.0,3.0,3,1,4,No,4-6 yrs,0,0
+EMP00351,Sales,Sales Executive,27.0,Male,Bachelor's,Married,7,2,67554.15,4.4,Yes,4.0,2.0,2,1,0,No,2-3 yrs,0,1
+EMP01021,Hr,HR Manager,34.0,Male,Master's,Single,9,0,74494.94,3.3,No,3.0,3.0,3,0,3,No,0-1 yrs,0,0
+EMP01414,Support,Support Lead,38.0,Male,Master's,Married,19,0,96813.38,12.2,No,4.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00138,Engineering,Senior Engineer,21.0,Female,Bachelor's,Married,0,0,76197.47,5.6,Yes,4.0,4.0,3,1,1,No,0-1 yrs,0,1
+EMP00250,Marketing,Marketing Manager,26.0,Female,Bachelor's,Divorced,2,1,55478.22,13.1,No,2.0,3.0,2,1,3,No,0-1 yrs,0,0
+EMP00976,Sales,Sales Manager,44.0,Male,Bachelor's,Married,17,1,80229.44,0.1,No,2.0,1.0,4,0,3,Yes,0-1 yrs,1,0
+EMP01336,Hr,HR Manager,51.0,Female,Bachelor's,Divorced,31,8,111889.62,0.9,No,4.0,3.0,3,0,4,No,7-10 yrs,0,0
+EMP00100,Engineering,Engineering Manager,30.0,Male,Bachelor's,Divorced,8,1,92222.77,18.9,No,1.0,4.0,4,0,5,Yes,0-1 yrs,1,0
+EMP01343,Sales,Sales Manager,33.0,Female,High School,Divorced,11,2,67842.6,42.9,No,3.0,1.0,3,1,0,No,2-3 yrs,0,0
+EMP00295,Engineering,Software Engineer,21.0,Male,Bachelor's,Married,0,0,75037.85,1.3,No,4.0,4.0,3,1,4,Yes,0-1 yrs,1,0
+EMP00499,Marketing,Marketing Manager,41.0,Male,PhD,Divorced,16,4,110974.3,2.9,No,2.0,2.0,4,0,0,Yes,4-6 yrs,1,0
+EMP00224,Sales,Account Manager,52.0,Male,Bachelor's,Married,34,5,120829.35,13.4,No,3.0,2.0,3,0,2,Yes,4-6 yrs,1,0
+EMP00155,Sales,Sales Manager,36.0,Female,Master's,Divorced,9,2,84102.17,11.1,No,2.0,3.0,4,0,5,Yes,2-3 yrs,1,0
+EMP01432,Engineering,Software Engineer,22.0,Male,PhD,Married,1,0,96029.58,19.3,No,2.0,3.0,4,0,1,No,0-1 yrs,0,0
+EMP00611,Finance,Accountant,26.0,Female,Bachelor's,Married,0,0,59254.74,17.0,No,2.0,1.0,3,1,3,No,0-1 yrs,0,0
+EMP01090,Sales,Sales Executive,39.0,Female,Master's,Married,19,6,97773.53,3.5,No,1.0,1.0,2,0,1,No,4-6 yrs,0,0
+EMP01276,Sales,Account Manager,25.0,Male,Master's,Divorced,0,0,55370.43,9.2,No,4.0,4.0,4,0,4,No,0-1 yrs,0,0
+EMP01208,Support,Support Executive,39.0,Male,Bachelor's,Married,16,0,79327.85,2.6,No,3.0,1.0,3,1,3,No,0-1 yrs,0,0
+EMP00944,Sales,Sales Executive,60.0,Female,PhD,Divorced,38,9,148863.57,26.0,No,1.0,1.0,3,0,3,No,7-10 yrs,0,0
+EMP01425,Engineering,Senior Engineer,25.0,Female,High School,Married,7,5,81869.76,25.3,No,2.0,4.0,4,1,0,No,4-6 yrs,0,0
+EMP01053,Engineering,Software Engineer,35.0,Male,Bachelor's,Married,15,0,98031.96,2.3,Yes,4.0,4.0,2,0,2,No,0-1 yrs,0,1
+EMP01480,Engineering,Senior Engineer,30.0,Female,Master's,Married,0,0,82714.53,8.0,No,4.0,2.0,2,1,3,No,0-1 yrs,0,0
+EMP00526,Engineering,Senior Engineer,32.0,Female,Bachelor's,Divorced,10,10,96313.5,4.5,Yes,2.0,2.0,1,0,1,No,7-10 yrs,0,1
+EMP00168,Engineering,Senior Engineer,35.0,Male,Bachelor's,Married,17,0,94445.3,7.3,Yes,1.0,4.0,3,0,0,Yes,0-1 yrs,1,1
+EMP00530,Sales,Sales Executive,28.0,Male,Master's,Divorced,6,6,71609.56,14.7,Yes,1.0,2.0,2,0,3,Yes,4-6 yrs,1,1
+EMP00784,Marketing,Content Specialist,31.0,Female,PhD,Divorced,5,0,87314.86,1.1,No,2.0,4.0,3,1,4,No,0-1 yrs,0,0
+EMP00549,Finance,Financial Analyst,43.0,Female,Master's,Single,25,3,126819.03,0.3,No,2.0,1.0,4,0,3,No,2-3 yrs,0,0
+EMP00024,Support,Support Lead,42.0,Female,Bachelor's,Married,21,5,93887.09,3.1,Yes,4.0,1.0,3,0,5,No,4-6 yrs,0,1
+EMP00604,Marketing,Content Specialist,30.0,Male,Bachelor's,Married,9,0,75295.96,9.2,Yes,1.0,4.0,2,0,1,Yes,0-1 yrs,1,1
+EMP00200,Sales,Account Manager,26.0,Female,High School,Divorced,8,0,65701.94,6.5,No,2.0,1.0,3,1,3,No,0-1 yrs,0,0
+EMP00954,Finance,Financial Analyst,34.0,Female,High School,Single,12,1,82380.69,39.0,No,1.0,4.0,4,1,4,Yes,0-1 yrs,1,0
+EMP00246,Finance,Finance Manager,34.0,Female,Master's,Divorced,14,14,100880.74,5.5,No,1.0,4.0,3,0,2,No,10+ yrs,0,0
+EMP01034,Support,Support Lead,26.0,Female,Bachelor's,Single,6,3,56674.02,1.5,No,3.0,1.0,2,0,0,No,2-3 yrs,0,0
+EMP00895,Engineering,Senior Engineer,33.0,Female,Master's,Divorced,15,6,114871.39,27.1,No,3.0,2.0,4,0,0,No,4-6 yrs,0,0
+EMP01381,Support,Support Executive,35.0,Male,Bachelor's,Single,11,4,68334.02,6.6,No,4.0,4.0,4,0,4,No,4-6 yrs,0,0
+EMP00144,Sales,Sales Executive,34.0,Female,Bachelor's,Married,10,2,75190.1,12.5,No,2.0,3.0,3,0,3,Yes,2-3 yrs,1,0
+EMP01297,Marketing,Marketing Manager,38.0,Female,Bachelor's,Single,13,4,77445.19,19.0,No,3.0,3.0,2,0,2,No,4-6 yrs,0,0
+EMP00378,Support,Support Executive,40.0,Male,Bachelor's,Divorced,22,9,89286.52,13.2,No,4.0,4.0,4,0,2,No,7-10 yrs,0,0
+EMP00391,Marketing,Marketing Executive,25.0,Male,Bachelor's,Divorced,7,0,62376.28,10.4,No,1.0,3.0,4,0,0,No,0-1 yrs,0,0
+EMP00977,Sales,Account Manager,28.0,Female,High School,Single,3,1,49380.95,2.3,Yes,1.0,1.0,3,1,2,Yes,0-1 yrs,1,1
+EMP00727,Marketing,Marketing Executive,42.0,Male,Bachelor's,Divorced,16,0,90936.68,3.2,No,3.0,4.0,4,0,5,No,0-1 yrs,0,0
+EMP01133,Sales,Sales Executive,33.0,Female,PhD,Married,13,1,94124.56,13.0,No,4.0,4.0,4,0,0,Yes,0-1 yrs,1,0
+EMP00955,Hr,HR Manager,21.0,Male,Master's,Single,0,0,58574.66,13.3,Yes,1.0,4.0,4,0,0,No,0-1 yrs,0,1
+EMP01291,Marketing,Content Specialist,21.0,Male,Master's,Married,0,0,65230.14,11.2,Yes,2.0,2.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00226,Engineering,Software Engineer,36.0,Female,Bachelor's,Single,13,3,100496.03,38.2,Yes,3.0,3.0,3,1,5,No,2-3 yrs,0,1
+EMP00667,Engineering,QA Engineer,21.0,Male,Bachelor's,Married,0,0,74999.18,9.2,No,1.0,4.0,3,0,2,No,0-1 yrs,0,0
+EMP01376,Engineering,QA Engineer,27.0,Female,Bachelor's,Single,4,1,87251.91,1.9,No,1.0,4.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00272,Finance,Financial Analyst,24.0,Female,PhD,Divorced,0,0,83328.02,61.9,No,3.0,2.0,3,0,4,Yes,0-1 yrs,1,0
+EMP01335,Finance,Finance Manager,38.0,Male,Bachelor's,Single,17,2,88372.22,3.8,No,1.0,2.0,3,0,3,No,2-3 yrs,0,0
+EMP01479,Engineering,Senior Engineer,37.0,Male,Bachelor's,Married,14,0,106373.13,31.9,No,2.0,1.0,3,0,4,No,0-1 yrs,0,0
+EMP00886,Engineering,Software Engineer,36.0,Female,Master's,Single,15,3,111152.19,13.8,Yes,4.0,1.0,3,0,5,Yes,2-3 yrs,1,1
+EMP00443,Sales,Sales Executive,31.0,Female,Master's,Single,4,0,65909.8,0.5,No,3.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP00739,Hr,HR Manager,35.0,Female,Master's,Divorced,17,11,86851.55,4.4,No,2.0,2.0,3,0,3,Yes,10+ yrs,1,0
+EMP00743,Hr,HR Executive,23.0,Female,Master's,Divorced,0,0,57061.66,10.6,No,3.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP00249,Engineering,QA Engineer,44.0,Male,Bachelor's,Married,13,13,97023.86,7.9,No,2.0,4.0,4,1,2,No,10+ yrs,0,0
+EMP00826,Engineering,Engineering Manager,33.0,Male,Bachelor's,Single,11,11,93967.92,2.0,No,2.0,1.0,2,1,2,No,10+ yrs,0,0
+EMP01262,Support,Support Lead,26.0,Male,Bachelor's,Married,5,1,53487.47,12.4,Yes,2.0,1.0,3,0,3,No,0-1 yrs,0,1
+EMP00668,Support,Support Lead,21.0,Male,Bachelor's,Divorced,0,0,47828.73,9.3,Yes,1.0,4.0,4,1,0,Yes,0-1 yrs,1,1
+EMP00306,Engineering,Senior Engineer,25.0,Male,Bachelor's,Divorced,3,2,73985.53,23.2,Yes,3.0,1.0,2,0,5,No,2-3 yrs,0,1
+EMP01365,Sales,Sales Manager,26.0,Female,Bachelor's,Married,6,0,63454.58,8.9,Yes,2.0,3.0,3,1,3,Yes,0-1 yrs,1,1
+EMP00852,Engineering,Software Engineer,42.0,Male,Bachelor's,Divorced,18,0,106991.71,0.4,No,2.0,4.0,4,0,5,No,0-1 yrs,0,0
+EMP00377,Engineering,Senior Engineer,40.0,Female,Bachelor's,Divorced,16,14,107717.41,3.8,No,3.0,4.0,2,0,2,Yes,10+ yrs,1,0
+EMP00302,Hr,Recruiter,26.0,Male,Bachelor's,Married,5,4,51375.78,11.1,No,3.0,2.0,2,1,2,No,4-6 yrs,0,0
+EMP01422,Support,Support Lead,22.0,Female,Bachelor's,Single,4,4,54130.45,12.7,No,4.0,3.0,3,0,0,Yes,4-6 yrs,1,0
+EMP00214,Support,Support Lead,22.0,Female,Bachelor's,Single,2,2,48064.6,0.3,No,3.0,4.0,3,1,0,No,2-3 yrs,0,0
+EMP00579,Marketing,Marketing Executive,27.0,Female,Bachelor's,Married,9,9,68528.33,0.6,No,1.0,4.0,3,0,5,No,7-10 yrs,0,0
+EMP00802,Support,Support Executive,33.0,Female,Bachelor's,Divorced,11,3,73123.42,26.2,No,3.0,3.0,1,0,1,Yes,2-3 yrs,1,0
+EMP00363,Engineering,QA Engineer,40.0,Female,Bachelor's,Divorced,20,7,117339.14,4.6,No,3.0,2.0,3,0,0,No,7-10 yrs,0,0
+EMP01212,Engineering,QA Engineer,26.0,Female,PhD,Divorced,3,3,93759.36,5.9,No,2.0,4.0,4,0,2,Yes,2-3 yrs,1,0
+EMP01206,Sales,Sales Executive,43.0,Female,PhD,Divorced,18,5,100825.7,15.8,No,1.0,3.0,2,0,4,Yes,4-6 yrs,1,0
+EMP00102,Hr,HR Manager,41.0,Male,Bachelor's,Single,18,5,78619.01,4.8,Yes,2.0,2.0,2,0,0,No,4-6 yrs,0,1
+EMP00021,Support,Support Lead,23.0,Male,Bachelor's,Married,5,3,50121.15,5.3,Yes,2.0,2.0,3,1,2,No,2-3 yrs,0,1
+EMP00023,Sales,Account Manager,40.0,Female,High School,Single,17,0,76477.03,1.3,Yes,2.0,2.0,3,1,3,No,0-1 yrs,0,1
+EMP01014,Support,Support Executive,58.0,Female,Bachelor's,Divorced,40,2,125448.33,2.1,No,2.0,4.0,3,0,3,Yes,2-3 yrs,1,0
+EMP00702,Marketing,Content Specialist,29.0,Male,Master's,Married,5,0,68904.51,0.4,Yes,1.0,3.0,3,1,3,Yes,0-1 yrs,1,1
+EMP00899,Engineering,Engineering Manager,32.0,Female,Master's,Single,8,2,96024.88,10.6,No,3.0,4.0,3,1,5,No,2-3 yrs,0,0
+EMP00237,Sales,Sales Manager,28.0,Male,Bachelor's,Single,4,0,55816.35,9.8,No,3.0,3.0,4,1,5,No,0-1 yrs,0,0
+EMP00858,Engineering,Software Engineer,48.0,Male,Master's,Married,27,1,132919.19,16.1,No,4.0,4.0,3,1,2,No,0-1 yrs,0,0
+EMP00832,Hr,HR Executive,44.0,Male,Bachelor's,Divorced,26,1,93309.21,1.9,Yes,4.0,3.0,3,0,4,Yes,0-1 yrs,1,1
+EMP00804,Hr,HR Executive,30.0,Male,Master's,Married,11,1,87430.39,6.2,No,1.0,2.0,3,0,0,No,0-1 yrs,0,0
+EMP00172,Sales,Sales Executive,42.0,Male,Bachelor's,Married,21,1,88143.73,4.1,No,4.0,2.0,3,1,2,Yes,0-1 yrs,1,0
+EMP01469,Finance,Accountant,39.0,Male,Master's,Married,11,0,93118.5,0.2,No,4.0,1.0,3,1,4,No,0-1 yrs,0,0
+EMP01264,Finance,Finance Manager,25.0,Female,Master's,Divorced,3,1,79359.97,4.7,No,1.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP00505,Sales,Sales Manager,25.0,Male,Bachelor's,Married,1,1,56023.11,0.7,No,2.0,4.0,4,1,4,Yes,0-1 yrs,1,0
+EMP00737,Engineering,Senior Engineer,21.0,Male,Bachelor's,Divorced,0,0,71692.1,0.8,No,3.0,4.0,4,0,1,No,0-1 yrs,0,0
+EMP00566,Finance,Financial Analyst,36.0,Female,Master's,Divorced,16,6,87201.65,27.3,No,2.0,4.0,2,0,2,Yes,4-6 yrs,1,0
+EMP01195,Sales,Account Manager,31.0,Female,Bachelor's,Divorced,11,0,73951.75,8.6,No,1.0,4.0,3,0,1,Yes,0-1 yrs,1,0
+EMP01454,Marketing,Marketing Executive,21.0,Female,Master's,Single,0,0,71405.14,18.4,Yes,4.0,1.0,3,0,1,No,0-1 yrs,0,1
+EMP00725,Marketing,Content Specialist,43.0,Female,Bachelor's,Single,25,8,101925.52,8.2,No,2.0,2.0,4,0,0,Yes,7-10 yrs,1,0
+EMP00969,Hr,HR Executive,34.0,Female,Master's,Divorced,16,0,88124.96,10.1,No,2.0,4.0,3,0,2,Yes,0-1 yrs,1,0
+EMP01198,Finance,Finance Manager,38.0,Male,Bachelor's,Married,20,4,105044.04,3.4,No,1.0,3.0,4,0,2,No,4-6 yrs,0,0
+EMP00318,Sales,Account Manager,28.0,Male,Master's,Married,0,0,61284.94,19.3,No,4.0,1.0,3,1,2,Yes,0-1 yrs,1,0
+EMP00641,Hr,Recruiter,32.0,Male,Master's,Married,8,5,70578.7,2.9,No,4.0,1.0,1,0,1,No,4-6 yrs,0,0
+EMP00368,Finance,Finance Manager,39.0,Male,Bachelor's,Divorced,21,7,98878.39,3.6,No,1.0,2.0,3,0,2,Yes,7-10 yrs,1,0
+EMP01495,Support,Support Executive,43.0,Male,Master's,Divorced,18,4,89357.71,19.9,Yes,4.0,2.0,3,0,4,No,4-6 yrs,0,1
+EMP00713,Marketing,Content Specialist,34.0,Female,Master's,Married,15,0,97791.19,4.5,No,1.0,2.0,3,0,0,Yes,0-1 yrs,1,0
+EMP00300,Finance,Financial Analyst,35.0,Male,Bachelor's,Single,8,1,76919.63,4.0,No,4.0,4.0,3,0,5,No,0-1 yrs,0,0
+EMP01319,Engineering,QA Engineer,31.0,Male,Bachelor's,Single,2,2,72138.78,0.2,Yes,4.0,4.0,4,0,0,No,2-3 yrs,0,1
+EMP00049,Engineering,Software Engineer,31.0,Male,Master's,Divorced,6,2,96821.45,7.3,Yes,4.0,1.0,3,1,0,Yes,2-3 yrs,1,1
+EMP00561,Engineering,Engineering Manager,34.0,Female,Bachelor's,Married,15,2,101749.33,14.3,Yes,2.0,1.0,2,1,5,Yes,2-3 yrs,1,1
+EMP00260,Marketing,Marketing Manager,35.0,Female,Bachelor's,Married,17,2,90354.6,0.7,Yes,3.0,3.0,2,0,2,No,2-3 yrs,0,1
+EMP00148,Sales,Sales Executive,30.0,Male,Master's,Single,12,1,80989.63,4.2,No,4.0,4.0,4,0,0,No,0-1 yrs,0,0
+EMP00135,Engineering,QA Engineer,39.0,Male,Master's,Married,19,0,123033.18,8.0,No,3.0,4.0,3,1,0,No,0-1 yrs,0,0
+EMP01275,Finance,Financial Analyst,33.0,Female,Master's,Married,4,4,70207.14,8.5,No,4.0,3.0,3,0,2,No,4-6 yrs,0,0
+EMP01357,Finance,Finance Manager,35.0,Female,Bachelor's,Married,9,0,77836.78,7.5,No,1.0,3.0,4,1,2,No,0-1 yrs,0,0
+EMP00997,Hr,HR Executive,54.0,Female,Master's,Divorced,36,2,126397.7,0.9,Yes,3.0,2.0,1,1,2,No,2-3 yrs,0,1
+EMP00379,Sales,Account Manager,30.0,Male,Bachelor's,Divorced,3,3,51991.01,7.8,No,1.0,2.0,3,0,4,No,2-3 yrs,0,0
+EMP00613,Engineering,Engineering Manager,38.0,Female,Bachelor's,Divorced,14,4,94908.81,5.1,No,3.0,2.0,3,0,4,No,4-6 yrs,0,0
+EMP00931,Engineering,Engineering Manager,37.0,Female,Bachelor's,Divorced,12,6,91541.95,2.3,Yes,3.0,3.0,3,0,0,No,4-6 yrs,0,1
+EMP00194,Sales,Sales Manager,38.0,Female,Bachelor's,Divorced,13,3,78961.95,35.2,Yes,4.0,1.0,4,0,4,No,2-3 yrs,0,1
+EMP00408,Support,Support Executive,41.0,Female,Bachelor's,Married,19,2,82436.06,3.7,No,4.0,1.0,2,1,1,No,2-3 yrs,0,0
+EMP01309,Engineering,Senior Engineer,23.0,Female,High School,Single,0,0,59394.74,5.0,Yes,4.0,3.0,3,1,4,No,0-1 yrs,0,1
+EMP00571,Engineering,Senior Engineer,32.0,Male,Master's,Married,9,0,107344.17,0.6,No,3.0,3.0,4,1,1,No,0-1 yrs,0,0
+EMP00031,Sales,Sales Executive,47.0,Male,Bachelor's,Divorced,29,9,101310.26,4.7,No,2.0,3.0,4,0,3,No,7-10 yrs,0,0
+EMP00004,Engineering,QA Engineer,38.0,Female,Bachelor's,Married,20,2,100183.22,33.2,No,4.0,2.0,3,0,2,No,2-3 yrs,0,0
+EMP00137,Sales,Sales Manager,23.0,Male,Master's,Married,5,5,75598.41,1.7,No,2.0,1.0,1,0,3,No,4-6 yrs,0,0
+EMP00822,Marketing,Content Specialist,46.0,Male,Bachelor's,Divorced,21,0,102399.74,5.3,No,4.0,2.0,1,1,3,Yes,0-1 yrs,1,0
+EMP01307,Sales,Account Manager,40.0,Male,Bachelor's,Married,20,7,93271.52,1.2,Yes,3.0,2.0,3,0,5,No,7-10 yrs,0,1
+EMP00393,Engineering,Software Engineer,50.0,Male,Bachelor's,Single,29,15,121903.46,10.9,No,2.0,2.0,3,0,5,Yes,10+ yrs,1,0
+EMP00116,Support,Support Executive,45.0,Male,Master's,Divorced,15,6,82004.66,10.8,No,3.0,4.0,2,0,3,No,4-6 yrs,0,0
+EMP00685,Engineering,Engineering Manager,38.0,Female,High School,Divorced,15,0,93326.72,32.3,No,2.0,4.0,4,0,0,No,0-1 yrs,0,0
+EMP01352,Finance,Financial Analyst,32.0,Female,Master's,Divorced,5,1,83989.01,3.8,Yes,2.0,4.0,4,0,3,No,0-1 yrs,0,1
+EMP01134,Finance,Finance Manager,45.0,Male,Bachelor's,Married,21,0,98019.81,2.1,No,1.0,2.0,3,1,1,No,0-1 yrs,0,0
+EMP00811,Support,Support Lead,42.0,Male,Bachelor's,Married,15,7,76520.39,10.8,Yes,1.0,2.0,4,0,1,No,7-10 yrs,0,1
+EMP01391,Support,Support Executive,39.0,Male,Master's,Divorced,17,0,84199.14,4.5,No,1.0,3.0,3,0,5,No,0-1 yrs,0,0
+EMP00847,Sales,Sales Executive,40.0,Female,Bachelor's,Married,13,0,83212.97,19.8,Yes,3.0,1.0,4,1,4,Yes,0-1 yrs,1,1
+EMP00078,Engineering,Engineering Manager,33.0,Female,Bachelor's,Married,12,10,91245.64,29.3,Yes,4.0,2.0,4,0,1,No,7-10 yrs,0,1
+EMP00279,Sales,Sales Executive,23.0,Female,Bachelor's,Divorced,0,0,51208.23,0.5,Yes,4.0,1.0,3,0,4,No,0-1 yrs,0,1
+EMP00978,Marketing,Marketing Executive,56.0,Male,Bachelor's,Divorced,28,1,106927.68,18.6,No,4.0,4.0,3,0,1,Yes,0-1 yrs,1,0
+EMP00911,Marketing,Marketing Manager,33.0,Male,Bachelor's,Divorced,7,3,77929.7,1.9,No,2.0,3.0,3,1,3,No,2-3 yrs,0,0
+EMP00717,Sales,Sales Manager,48.0,Female,Bachelor's,Divorced,29,18,98956.48,38.3,Yes,1.0,3.0,4,0,5,Yes,10+ yrs,1,1
+EMP01346,Engineering,Marketing Manager,21.0,Male,High School,Single,0,0,53371.31,3.9,No,2.0,1.0,2,1,0,No,0-1 yrs,0,0
+EMP00949,Marketing,Marketing Executive,32.0,Male,Bachelor's,Married,11,0,76340.93,4.6,No,1.0,2.0,2,0,3,No,0-1 yrs,0,0
+EMP01031,Sales,Sales Manager,46.0,Male,Master's,Divorced,28,3,105828.9,11.6,No,2.0,3.0,3,0,5,No,2-3 yrs,0,0
+EMP00890,Engineering,Engineering Manager,28.0,Male,Master's,Married,3,2,79916.0,6.1,No,3.0,1.0,3,1,1,Yes,2-3 yrs,1,0
+EMP00881,Marketing,Content Specialist,21.0,Male,Master's,Single,3,3,73523.39,9.4,No,2.0,1.0,3,0,0,Yes,2-3 yrs,1,0
+EMP00649,Engineering,Engineering Manager,37.0,Female,Bachelor's,Single,17,1,106286.72,1.0,No,3.0,2.0,4,1,4,No,0-1 yrs,0,0
+EMP01190,Finance,Finance Manager,36.0,Female,PhD,Married,15,10,110900.09,5.8,No,2.0,4.0,4,0,0,No,7-10 yrs,0,0
+EMP00082,Finance,Finance Manager,42.0,Female,Bachelor's,Married,17,4,95384.0,15.1,No,4.0,3.0,3,1,2,No,4-6 yrs,0,0
+EMP00841,Marketing,Marketing Manager,21.0,Male,Master's,Single,0,0,69933.65,6.3,Yes,3.0,1.0,3,0,3,Yes,0-1 yrs,1,1
+EMP00017,Sales,Sales Manager,48.0,Male,Master's,Divorced,14,2,81415.8,2.4,No,4.0,2.0,3,0,5,No,2-3 yrs,0,0
+EMP00203,Sales,Account Manager,49.0,Female,Master's,Single,30,15,109294.54,23.3,No,3.0,3.0,4,0,5,No,10+ yrs,0,0
+EMP01323,Marketing,Marketing Manager,41.0,Male,Bachelor's,Single,13,8,79488.44,3.1,No,2.0,4.0,3,0,5,No,7-10 yrs,0,0
+EMP01483,Marketing,Marketing Manager,37.0,Female,Bachelor's,Divorced,14,1,78734.98,8.6,No,2.0,3.0,3,0,4,Yes,0-1 yrs,1,0
+EMP00141,Engineering,QA Engineer,40.0,Male,Master's,Single,18,3,100516.19,2.1,No,4.0,2.0,4,1,4,No,2-3 yrs,0,0
+EMP01171,Support,Support Lead,39.0,Male,Bachelor's,Divorced,16,7,73023.63,9.8,No,3.0,2.0,2,1,2,No,7-10 yrs,0,0
+EMP00917,Sales,Sales Executive,29.0,Female,Bachelor's,Single,10,0,63927.32,1.8,No,1.0,4.0,3,0,5,Yes,0-1 yrs,1,0
+EMP01465,Engineering,Engineering Manager,40.0,Male,PhD,Single,20,1,128699.76,0.2,No,2.0,4.0,4,0,2,No,0-1 yrs,0,0
+EMP00833,Sales,Account Manager,27.0,Male,Bachelor's,Married,2,1,54111.95,7.3,No,2.0,2.0,4,1,2,No,0-1 yrs,0,0
+EMP00548,Finance,Financial Analyst,41.0,Male,Bachelor's,Divorced,15,10,96265.13,15.5,Yes,2.0,3.0,3,0,0,No,7-10 yrs,0,1
+EMP00924,Engineering,QA Engineer,30.0,Female,Bachelor's,Married,11,4,91980.39,12.1,No,4.0,2.0,3,0,4,Yes,4-6 yrs,1,0
+EMP00671,Support,Support Lead,40.0,Female,Bachelor's,Divorced,22,1,87658.65,0.7,No,3.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP00163,Engineering,Engineering Manager,37.0,Male,Master's,Divorced,13,0,101553.99,9.5,Yes,3.0,2.0,2,0,1,Yes,0-1 yrs,1,1
+EMP00114,Engineering,Senior Engineer,24.0,Female,PhD,Single,0,0,96327.16,9.7,No,4.0,3.0,3,0,4,No,0-1 yrs,0,0
+EMP00755,Sales,Sales Manager,45.0,Female,Bachelor's,Single,18,0,87814.39,1.0,No,3.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00076,Hr,HR Manager,44.0,Female,High School,Divorced,25,6,87445.52,5.9,No,1.0,4.0,3,1,4,No,4-6 yrs,0,0
+EMP00208,Sales,Account Manager,34.0,Male,Master's,Single,16,5,89709.3,7.7,No,3.0,3.0,3,0,3,Yes,4-6 yrs,1,0
+EMP00859,Engineering,Engineering Manager,30.0,Female,Master's,Married,0,0,73749.79,2.4,Yes,4.0,3.0,3,0,1,No,0-1 yrs,0,1
+EMP00523,Sales,Account Manager,23.0,Male,Bachelor's,Single,0,0,54540.56,2.5,No,3.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP01272,Finance,Accountant,27.0,Male,Master's,Married,2,2,83559.65,0.4,No,2.0,4.0,2,0,4,No,2-3 yrs,0,0
+EMP01374,Sales,Sales Manager,40.0,Female,Master's,Single,21,1,98624.63,6.9,No,3.0,4.0,4,1,5,No,0-1 yrs,0,0
+EMP01290,Support,Support Executive,25.0,Female,Bachelor's,Divorced,7,2,52871.24,5.3,No,2.0,1.0,3,1,2,No,2-3 yrs,0,0
+EMP00455,Engineering,Engineering Manager,26.0,Female,Bachelor's,Married,2,0,71572.89,26.7,Yes,4.0,2.0,3,1,3,Yes,0-1 yrs,1,1
+EMP00431,Engineering,Engineering Manager,31.0,Male,Master's,Divorced,7,0,83928.93,7.3,No,4.0,1.0,3,0,5,No,0-1 yrs,0,0
+EMP00477,Engineering,QA Engineer,38.0,Female,PhD,Single,17,6,130942.17,0.4,Yes,2.0,4.0,1,0,4,Yes,4-6 yrs,1,1
+EMP00984,Support,Support Executive,37.0,Male,Master's,Married,18,0,91795.39,1.9,No,4.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP00577,Engineering,QA Engineer,48.0,Male,Bachelor's,Divorced,30,0,120312.97,8.5,Yes,1.0,2.0,3,1,1,No,0-1 yrs,0,1
+EMP00708,Engineering,Senior Engineer,31.0,Male,Bachelor's,Single,12,0,98147.07,5.4,No,3.0,2.0,2,0,5,No,0-1 yrs,0,0
+EMP00006,Support,Support Executive,27.0,Female,High School,Single,9,3,53547.55,0.7,Yes,3.0,2.0,3,1,5,No,2-3 yrs,0,1
+EMP01167,Support,Support Lead,44.0,Male,Bachelor's,Single,18,3,76459.78,1.6,No,2.0,2.0,3,1,2,No,2-3 yrs,0,0
+EMP00421,Support,Support Executive,27.0,Female,Master's,Married,6,1,69726.72,9.1,No,4.0,1.0,3,1,2,Yes,0-1 yrs,1,0
+EMP01220,Finance,Finance Manager,21.0,Female,Master's,Single,3,1,66735.22,3.7,No,4.0,3.0,3,1,1,Yes,0-1 yrs,1,0
+EMP00370,Engineering,QA Engineer,43.0,Male,Bachelor's,Divorced,17,0,102556.15,4.0,Yes,2.0,4.0,3,0,0,No,0-1 yrs,0,1
+EMP00273,Finance,Accountant,35.0,Male,PhD,Married,13,0,121039.68,13.6,No,3.0,2.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00276,Sales,Account Manager,57.0,Male,High School,Divorced,28,2,96718.61,0.7,No,3.0,1.0,3,0,1,No,2-3 yrs,0,0
+EMP00270,Finance,Financial Analyst,42.0,Male,Master's,Married,18,2,94857.1,19.9,Yes,3.0,1.0,3,1,5,Yes,2-3 yrs,1,1
+EMP00354,Sales,Sales Manager,42.0,Female,Bachelor's,Married,24,0,99471.14,16.7,No,4.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP00326,Marketing,Content Specialist,42.0,Male,PhD,Married,21,4,119550.92,31.9,No,4.0,1.0,3,1,5,No,4-6 yrs,0,0
+EMP01499,Sales,Sales Executive,28.0,Male,Bachelor's,Divorced,9,2,67437.38,19.9,Yes,4.0,3.0,3,1,5,No,2-3 yrs,0,1
+EMP00071,Engineering,Senior Engineer,31.0,Male,Bachelor's,Married,8,3,78181.2,4.4,No,1.0,1.0,2,0,3,No,2-3 yrs,0,0
+EMP00467,Hr,Recruiter,49.0,Male,Bachelor's,Married,28,3,104886.95,6.0,Yes,3.0,4.0,3,0,2,No,2-3 yrs,0,1
+EMP00047,Engineering,Engineering Manager,22.0,Male,Bachelor's,Divorced,0,0,78275.61,9.4,Yes,1.0,2.0,3,1,2,Yes,0-1 yrs,1,1
+EMP01263,Support,Support Executive,27.0,Female,Master's,Divorced,6,5,64224.11,11.1,No,1.0,4.0,3,1,1,No,4-6 yrs,0,0
+EMP00655,Sales,Sales Manager,38.0,Male,Bachelor's,Divorced,12,1,80632.26,2.6,Yes,4.0,3.0,3,0,0,Yes,0-1 yrs,1,1
+EMP00398,Engineering,Senior Engineer,50.0,Male,Bachelor's,Single,31,7,122860.48,10.1,No,4.0,4.0,3,1,0,No,7-10 yrs,0,0
+EMP00051,Sales,Account Manager,30.0,Male,Bachelor's,Divorced,5,0,57334.35,1.1,Yes,2.0,3.0,4,0,0,No,0-1 yrs,0,1
+EMP00409,Marketing,Marketing Manager,29.0,Male,Master's,Married,7,0,88903.02,5.2,Yes,4.0,4.0,3,1,2,Yes,0-1 yrs,1,1
+EMP01038,Support,Support Executive,28.0,Female,PhD,Single,0,0,67563.51,3.8,No,3.0,1.0,2,0,2,No,0-1 yrs,0,0
+EMP00540,Support,Support Lead,30.0,Male,PhD,Single,9,0,78737.76,9.4,No,2.0,2.0,2,1,1,Yes,0-1 yrs,1,0
+EMP00005,Marketing,Marketing Manager,28.0,Female,PhD,Divorced,0,0,74786.81,8.9,No,1.0,2.0,4,1,2,Yes,0-1 yrs,1,0
+EMP00517,Sales,Sales Manager,43.0,Male,Bachelor's,Divorced,21,2,82934.9,0.5,No,4.0,3.0,3,0,1,Yes,2-3 yrs,1,0
+EMP00966,Sales,Sales Manager,27.0,Male,Bachelor's,Divorced,2,2,52219.28,6.9,No,3.0,1.0,3,0,0,No,2-3 yrs,0,0
+EMP01419,Engineering,QA Engineer,40.0,Male,High School,Married,16,0,99788.32,4.9,No,3.0,1.0,4,0,0,No,0-1 yrs,0,0
+EMP01377,Marketing,Marketing Manager,24.0,Male,PhD,Divorced,5,0,74758.62,0.1,No,3.0,1.0,2,0,5,Yes,0-1 yrs,1,0
+EMP00533,Engineering,Software Engineer,39.0,Female,High School,Married,17,4,91465.02,20.1,Yes,1.0,2.0,3,1,5,No,4-6 yrs,0,1
+EMP00680,Sales,Sales Executive,31.0,Female,Bachelor's,Divorced,11,1,65664.64,19.2,No,1.0,2.0,2,0,4,No,0-1 yrs,0,0
+EMP01117,Engineering,Software Engineer,44.0,Female,Bachelor's,Divorced,20,1,90320.66,4.7,No,1.0,2.0,2,1,3,Yes,0-1 yrs,1,0
+EMP01412,Finance,Financial Analyst,28.0,Female,PhD,Divorced,7,3,97004.26,0.7,Yes,2.0,2.0,1,0,0,Yes,2-3 yrs,1,1
+EMP00586,Marketing,Content Specialist,27.0,Female,Master's,Single,1,1,70000.53,2.9,No,3.0,4.0,1,0,1,No,0-1 yrs,0,0
+EMP00475,Marketing,Marketing Executive,21.0,Female,Master's,Divorced,0,0,67985.54,4.6,No,1.0,2.0,3,0,5,Yes,0-1 yrs,1,0
+EMP01439,Finance,Accountant,32.0,Female,Master's,Single,14,8,97869.46,1.9,No,4.0,2.0,3,1,2,No,7-10 yrs,0,0
+EMP00726,Marketing,Marketing Manager,42.0,Female,High School,Married,18,0,87781.19,8.2,Yes,2.0,4.0,3,0,0,No,0-1 yrs,0,1
+EMP00359,Engineering,Senior Engineer,41.0,Male,Bachelor's,Divorced,22,22,114661.76,8.0,Yes,1.0,2.0,1,1,3,No,10+ yrs,0,1
+EMP00918,Support,Support Lead,45.0,Male,Master's,Married,27,2,114155.25,2.0,No,4.0,2.0,2,0,5,No,2-3 yrs,0,0
+EMP00435,Marketing,Marketing Manager,44.0,Female,Bachelor's,Single,22,5,97099.65,10.8,No,2.0,4.0,3,0,5,No,4-6 yrs,0,0
+EMP01373,Support,Support Lead,31.0,Female,High School,Divorced,11,1,60572.08,32.0,No,2.0,2.0,3,0,0,Yes,0-1 yrs,1,0
+EMP01464,Support,Support Lead,35.0,Male,Bachelor's,Divorced,13,7,74787.55,3.2,No,2.0,3.0,2,0,2,No,7-10 yrs,0,0
+EMP00765,Finance,Finance Manager,44.0,Female,High School,Single,23,3,102675.51,14.5,Yes,2.0,3.0,4,0,5,No,2-3 yrs,0,1
+EMP00809,Engineering,Software Engineer,27.0,Male,Master's,Divorced,4,0,92065.15,11.5,No,2.0,4.0,3,1,1,Yes,0-1 yrs,1,0
+EMP01111,Finance,Finance Manager,46.0,Male,PhD,Married,25,4,128308.76,0.3,No,2.0,2.0,2,0,0,No,4-6 yrs,0,0
+EMP00905,Engineering,Engineering Manager,27.0,Male,Master's,Single,9,0,97077.69,8.1,Yes,4.0,3.0,3,0,3,No,0-1 yrs,0,1
+EMP01332,Marketing,Content Specialist,40.0,Female,Master's,Divorced,18,0,99829.28,4.0,No,4.0,2.0,3,1,3,Yes,0-1 yrs,1,0
+EMP00679,Engineering,Software Engineer,32.0,Male,Master's,Divorced,14,1,110133.58,5.1,No,2.0,3.0,4,1,1,Yes,0-1 yrs,1,0
+EMP00595,Sales,Sales Manager,52.0,Male,Bachelor's,Married,32,2,119637.45,3.1,No,2.0,2.0,3,1,4,No,2-3 yrs,0,0
+EMP01015,Marketing,Marketing Manager,52.0,Male,Bachelor's,Divorced,34,4,105555.98,1.1,Yes,2.0,3.0,3,0,1,Yes,4-6 yrs,1,1
+EMP00896,Finance,Financial Analyst,21.0,Male,Bachelor's,Single,0,0,72804.08,12.0,Yes,1.0,1.0,3,1,5,Yes,0-1 yrs,1,1
+EMP01105,Sales,Sales Executive,40.0,Male,High School,Single,13,0,69920.58,17.5,Yes,4.0,2.0,3,0,3,Yes,0-1 yrs,1,1
+EMP00189,Sales,Sales Executive,51.0,Female,Master's,Single,25,3,108049.46,7.1,No,4.0,1.0,3,0,4,Yes,2-3 yrs,1,0
+EMP01271,Support,Support Executive,35.0,Female,PhD,Divorced,12,0,87649.85,6.6,No,2.0,4.0,1,0,2,Yes,0-1 yrs,1,0
+EMP01349,Marketing,Content Specialist,45.0,Female,Master's,Single,20,0,104846.59,58.0,No,2.0,3.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00581,Engineering,QA Engineer,22.0,Male,Bachelor's,Single,4,2,73422.27,1.4,Yes,2.0,2.0,3,0,0,No,2-3 yrs,0,1
+EMP01436,Engineering,Engineering Manager,39.0,Female,Bachelor's,Single,15,2,101059.0,5.2,No,2.0,1.0,3,0,3,Yes,2-3 yrs,1,0
+EMP00344,Support,Support Executive,40.0,Female,Master's,Married,16,1,83961.84,2.6,No,1.0,4.0,4,0,3,No,0-1 yrs,0,0
+EMP00799,Support,Support Executive,22.0,Female,Master's,Married,0,0,50169.07,1.2,No,1.0,2.0,3,0,2,No,0-1 yrs,0,0
+EMP00008,Engineering,QA Engineer,29.0,Male,High School,Divorced,10,1,86864.04,7.2,No,3.0,1.0,3,0,0,No,0-1 yrs,0,0
+EMP00825,Engineering,Engineering Manager,29.0,Male,Master's,Married,7,7,97561.1,14.2,No,3.0,4.0,4,0,2,No,7-10 yrs,0,0
+EMP01065,Support,Support Lead,32.0,Male,Master's,Married,14,7,79388.36,0.2,No,3.0,3.0,2,0,2,No,7-10 yrs,0,0
+EMP00216,Finance,Accountant,21.0,Male,Master's,Single,3,3,81573.35,7.3,No,2.0,3.0,3,0,0,No,2-3 yrs,0,0
+EMP00110,Engineering,Engineering Manager,29.0,Female,Master's,Single,10,9,100928.84,0.3,No,2.0,4.0,3,0,0,No,7-10 yrs,0,0
+EMP00220,Hr,Recruiter,27.0,Male,Bachelor's,Single,0,0,44442.51,10.6,No,1.0,1.0,3,1,5,Yes,0-1 yrs,1,0
+EMP01039,Engineering,Software Engineer,25.0,Female,Bachelor's,Married,7,2,90271.37,1.7,No,1.0,4.0,2,0,3,No,2-3 yrs,0,0
+EMP00645,Engineering,Engineering Manager,35.0,Female,Master's,Single,4,3,87059.47,14.8,Yes,4.0,4.0,3,1,4,No,2-3 yrs,0,1
+EMP01237,Finance,Accountant,26.0,Female,Master's,Married,3,1,78700.84,5.1,No,2.0,3.0,3,1,5,No,0-1 yrs,0,0
+EMP00616,Support,Support Lead,40.0,Female,Bachelor's,Single,7,3,58667.21,5.1,Yes,1.0,1.0,3,0,0,No,2-3 yrs,0,1
+EMP00028,Finance,Accountant,39.0,Female,Bachelor's,Single,13,0,83618.45,22.6,Yes,1.0,3.0,3,0,0,Yes,0-1 yrs,1,1
+EMP00231,Support,Support Lead,28.0,Male,Master's,Married,6,3,64678.68,5.3,Yes,1.0,1.0,4,0,4,Yes,2-3 yrs,1,1
+EMP00507,Finance,Accountant,58.0,Female,Bachelor's,Divorced,40,1,126206.35,43.1,Yes,4.0,1.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00416,Engineering,Engineering Manager,21.0,Female,PhD,Single,0,0,84373.93,1.5,No,1.0,1.0,4,0,5,No,0-1 yrs,0,0
+EMP00053,Engineering,QA Engineer,41.0,Male,Master's,Single,14,0,111778.67,1.0,No,4.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP01283,Support,Support Executive,32.0,Male,Master's,Married,7,0,68791.16,7.3,No,3.0,2.0,3,1,5,No,0-1 yrs,0,0
+EMP00945,Marketing,Marketing Manager,40.0,Male,Bachelor's,Divorced,15,3,71019.04,0.8,No,4.0,2.0,3,0,3,No,2-3 yrs,0,0
+EMP00587,Marketing,Marketing Executive,36.0,Male,Master's,Single,16,11,93091.24,21.1,No,4.0,4.0,4,1,4,No,10+ yrs,0,0
+EMP01028,Finance,Finance Manager,45.0,Female,Bachelor's,Single,27,6,111238.75,2.9,Yes,3.0,2.0,3,0,3,Yes,4-6 yrs,1,1
+EMP00559,Engineering,Senior Engineer,47.0,Female,Master's,Married,26,1,131377.84,2.9,No,3.0,3.0,4,0,4,No,0-1 yrs,0,0
+EMP00197,Engineering,Software Engineer,32.0,Female,Bachelor's,Married,6,0,79972.86,9.5,Yes,2.0,3.0,4,0,4,Yes,0-1 yrs,1,1
+EMP00781,Marketing,Marketing Executive,34.0,Male,Master's,Married,11,2,89690.24,14.1,No,1.0,4.0,4,0,2,No,2-3 yrs,0,0
+EMP01040,Support,Support Executive,21.0,Female,Bachelor's,Married,0,0,50684.84,7.5,No,4.0,1.0,3,0,0,Yes,0-1 yrs,1,0
+EMP00981,Sales,Account Manager,35.0,Female,Master's,Married,13,0,88027.05,12.4,No,2.0,1.0,2,1,3,Yes,0-1 yrs,1,0
+EMP00065,Hr,HR Manager,34.0,Male,Bachelor's,Divorced,8,6,71928.96,2.8,No,2.0,2.0,4,0,4,No,4-6 yrs,0,0
+EMP00656,Engineering,Engineering Manager,21.0,Male,Bachelor's,Divorced,0,0,73263.98,1.0,No,3.0,2.0,3,0,4,Yes,0-1 yrs,1,0
+EMP00070,Engineering,QA Engineer,31.0,Female,High School,Single,11,3,90295.64,5.7,Yes,4.0,2.0,3,0,1,Yes,2-3 yrs,1,1
+EMP01247,Sales,Sales Manager,37.0,Female,Bachelor's,Single,18,0,84543.46,6.2,Yes,1.0,2.0,3,1,1,Yes,0-1 yrs,1,1
+EMP01209,Hr,Recruiter,25.0,Female,Master's,Married,4,1,73233.32,4.8,No,3.0,3.0,3,0,2,Yes,0-1 yrs,1,0
+EMP01048,Engineering,Engineering Manager,36.0,Female,Bachelor's,Divorced,6,5,76395.73,1.6,No,3.0,4.0,3,1,0,No,4-6 yrs,0,0
+EMP00380,Support,Support Lead,32.0,Male,Bachelor's,Divorced,11,5,63333.02,18.4,Yes,1.0,3.0,2,0,1,No,4-6 yrs,0,1
+EMP00268,Engineering,Engineering Manager,32.0,Female,Bachelor's,Married,4,4,75185.83,2.6,Yes,2.0,1.0,3,0,0,Yes,4-6 yrs,1,1
+EMP01239,Finance,Accountant,39.0,Female,Bachelor's,Married,15,3,90725.58,3.5,No,3.0,1.0,3,0,3,Yes,2-3 yrs,1,0
+EMP01157,Support,Support Executive,21.0,Female,Bachelor's,Single,0,0,45723.57,3.6,No,3.0,1.0,3,0,1,Yes,0-1 yrs,1,0
+EMP00139,Sales,Sales Manager,30.0,Female,Bachelor's,Divorced,12,3,84145.51,12.3,No,3.0,4.0,3,1,0,No,2-3 yrs,0,0
+EMP00575,Engineering,QA Engineer,29.0,Male,Bachelor's,Married,5,1,95171.81,9.3,Yes,2.0,2.0,3,1,3,No,0-1 yrs,0,1
+EMP00219,Engineering,Engineering Manager,35.0,Female,High School,Married,4,3,78951.73,6.8,Yes,3.0,3.0,3,1,2,No,2-3 yrs,0,1
+EMP00762,Support,Support Lead,35.0,Male,Bachelor's,Single,12,12,70325.47,3.0,Yes,3.0,1.0,3,0,1,No,10+ yrs,0,1
+EMP00358,Marketing,Marketing Executive,45.0,Male,Master's,Divorced,23,2,107090.93,2.2,No,2.0,1.0,3,0,3,No,2-3 yrs,0,0
+EMP00484,Marketing,Marketing Manager,45.0,Female,High School,Divorced,17,0,78315.29,25.7,Yes,2.0,1.0,1,0,0,No,0-1 yrs,0,1
+EMP01052,Sales,Sales Executive,36.0,Female,High School,Single,13,1,68373.33,7.2,No,4.0,4.0,1,0,2,No,0-1 yrs,0,0
+EMP00236,Marketing,Marketing Manager,40.0,Female,Bachelor's,Divorced,20,0,86016.29,0.5,No,4.0,4.0,4,0,3,No,0-1 yrs,0,0
+EMP00697,Engineering,Senior Engineer,29.0,Female,Bachelor's,Married,7,4,82094.95,6.6,No,3.0,2.0,3,0,2,No,4-6 yrs,0,0
+EMP00238,Sales,Sales Executive,24.0,Male,Bachelor's,Married,0,0,49677.53,18.0,No,4.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00788,Engineering,QA Engineer,43.0,Male,Master's,Divorced,16,0,121020.88,7.8,Yes,1.0,2.0,3,0,0,Yes,0-1 yrs,1,1
+EMP00923,Marketing,Marketing Manager,43.0,Male,Bachelor's,Divorced,20,4,92105.06,0.5,Yes,2.0,2.0,3,1,2,Yes,4-6 yrs,1,1
+EMP01033,Support,Support Executive,41.0,Male,High School,Married,23,1,82670.53,28.1,No,1.0,3.0,3,1,4,Yes,0-1 yrs,1,0
+EMP01196,Sales,Sales Executive,38.0,Female,Master's,Divorced,10,5,79691.56,0.9,Yes,1.0,4.0,4,1,0,No,4-6 yrs,0,1
+EMP00101,Support,Support Lead,34.0,Male,Master's,Married,16,2,84697.24,15.1,Yes,4.0,3.0,1,0,2,Yes,2-3 yrs,1,1
+EMP00591,Sales,Sales Manager,21.0,Male,PhD,Single,0,0,71041.64,13.5,No,3.0,3.0,4,0,0,Yes,0-1 yrs,1,0
+EMP00333,Sales,Account Manager,40.0,Male,PhD,Divorced,14,2,92905.17,15.7,Yes,2.0,1.0,3,1,0,Yes,2-3 yrs,1,1
+EMP01081,Hr,HR Executive,34.0,Male,Bachelor's,Married,8,6,70218.35,1.0,Yes,2.0,4.0,4,1,1,No,4-6 yrs,0,1
+EMP00607,Sales,Sales Manager,35.0,Male,High School,Single,15,0,75475.98,6.0,Yes,4.0,1.0,2,0,0,No,0-1 yrs,0,1
+EMP00971,Engineering,QA Engineer,45.0,Female,Master's,Divorced,17,0,116371.59,29.1,No,2.0,2.0,4,0,5,No,0-1 yrs,0,0
+EMP01367,Sales,Sales Manager,32.0,Male,Bachelor's,Single,7,3,66692.55,6.6,Yes,2.0,4.0,2,0,0,No,2-3 yrs,0,1
+EMP01088,Support,Support Lead,30.0,Male,High School,Married,10,3,57482.83,2.2,Yes,3.0,3.0,2,1,0,No,2-3 yrs,0,1
+EMP00259,Support,Support Lead,21.0,Male,Bachelor's,Single,0,0,50848.27,11.1,Yes,2.0,1.0,3,0,2,No,0-1 yrs,0,1
+EMP00764,Engineering,Software Engineer,22.0,Male,Bachelor's,Married,0,0,74865.19,0.2,No,4.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP01331,Support,Support Executive,35.0,Male,Master's,Single,11,3,80825.05,13.6,Yes,1.0,1.0,4,0,5,Yes,2-3 yrs,1,1
+EMP00882,Engineering,QA Engineer,36.0,Female,Master's,Married,14,0,106013.08,5.8,Yes,3.0,4.0,2,1,1,Yes,0-1 yrs,1,1
+EMP01400,Sales,Sales Executive,48.0,Female,Bachelor's,Married,26,5,106253.97,16.7,Yes,4.0,4.0,3,0,5,No,4-6 yrs,0,1
+EMP00871,Sales,Sales Manager,22.0,Male,Master's,Single,0,0,61296.64,5.3,No,2.0,3.0,3,1,4,No,0-1 yrs,0,0
+EMP00438,Marketing,Marketing Manager,46.0,Female,Bachelor's,Divorced,15,2,76981.74,1.4,No,3.0,1.0,4,0,0,No,2-3 yrs,0,0
+EMP00553,Sales,Sales Executive,23.0,Female,Bachelor's,Single,0,0,45746.41,12.8,No,2.0,3.0,4,1,0,Yes,0-1 yrs,1,0
+EMP00972,Engineering,Senior Engineer,32.0,Female,Bachelor's,Married,8,0,94345.66,3.9,No,1.0,4.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00073,Engineering,Software Engineer,47.0,Female,Master's,Married,29,4,143496.84,11.5,Yes,2.0,4.0,4,0,4,No,4-6 yrs,0,1
+EMP00779,Finance,Financial Analyst,25.0,Male,High School,Single,0,0,56516.31,5.0,No,3.0,4.0,2,0,1,No,0-1 yrs,0,0
+EMP00085,Engineering,Engineering Manager,42.0,Female,PhD,Divorced,18,0,130296.85,0.5,No,1.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP00545,Hr,Recruiter,44.0,Male,Bachelor's,Divorced,18,4,83018.17,22.4,Yes,4.0,3.0,2,0,0,No,4-6 yrs,0,1
+EMP00818,Support,Support Executive,35.0,Male,High School,Divorced,14,7,59816.68,1.5,Yes,4.0,4.0,3,0,3,No,7-10 yrs,0,1
+EMP01178,Hr,Recruiter,21.0,Male,Bachelor's,Single,0,0,53022.95,12.7,No,1.0,2.0,3,0,3,No,0-1 yrs,0,0
+EMP01350,Finance,Finance Manager,49.0,Male,Bachelor's,Single,25,2,106469.77,1.4,Yes,3.0,2.0,4,0,2,No,2-3 yrs,0,1
+EMP01042,Support,Support Executive,39.0,Female,Bachelor's,Married,21,2,87282.82,24.9,Yes,4.0,2.0,2,0,3,Yes,2-3 yrs,1,1
+EMP00909,Marketing,Content Specialist,44.0,Male,Bachelor's,Divorced,25,1,103171.8,1.2,No,2.0,1.0,3,0,2,Yes,0-1 yrs,1,0
+EMP01328,Sales,Sales Executive,40.0,Male,Master's,Divorced,21,1,95385.87,2.4,No,3.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP01361,Sales,Account Manager,31.0,Female,Bachelor's,Divorced,7,1,57767.79,1.4,No,3.0,4.0,3,0,4,No,0-1 yrs,0,0
+EMP00698,Engineering,Senior Engineer,48.0,Female,Master's,Married,28,4,133252.39,1.8,No,1.0,4.0,2,1,5,No,4-6 yrs,0,0
+EMP00369,Finance,Finance Manager,26.0,Female,Master's,Married,8,8,81661.23,8.5,No,2.0,1.0,4,0,3,No,7-10 yrs,0,0
+EMP00451,Engineering,QA Engineer,46.0,Female,Master's,Married,23,5,133664.2,3.7,No,2.0,1.0,3,0,1,No,4-6 yrs,0,0
+EMP00278,Finance,Finance Manager,42.0,Female,Master's,Married,23,0,117475.0,5.0,Yes,1.0,3.0,3,1,4,No,0-1 yrs,0,1
+EMP00723,Sales,Sales Manager,42.0,Female,Bachelor's,Divorced,16,0,82860.64,6.3,Yes,1.0,4.0,3,0,0,No,0-1 yrs,0,1
+EMP01460,Sales,Sales Executive,21.0,Male,Master's,Divorced,3,3,63930.9,3.9,No,3.0,4.0,4,0,3,No,2-3 yrs,0,0
+EMP01022,Sales,Account Manager,22.0,Male,Bachelor's,Divorced,0,0,50830.16,4.6,Yes,1.0,4.0,3,0,2,No,0-1 yrs,0,1
+EMP00863,Sales,Sales Executive,21.0,Male,Bachelor's,Single,0,0,54694.74,40.2,No,2.0,3.0,4,1,1,No,0-1 yrs,0,0
+EMP00572,Sales,Sales Manager,34.0,Female,Master's,Married,10,4,76564.28,6.7,No,1.0,3.0,4,0,1,No,4-6 yrs,0,0
+EMP01160,Support,Support Executive,45.0,Male,Bachelor's,Married,17,9,81116.63,4.2,No,2.0,1.0,3,0,5,No,7-10 yrs,0,0
+EMP00694,Engineering,Senior Engineer,27.0,Male,Master's,Divorced,9,9,94556.72,5.4,No,1.0,2.0,4,0,2,No,7-10 yrs,0,0
+EMP00133,Support,Support Executive,30.0,Male,PhD,Single,5,0,75201.66,0.9,No,1.0,3.0,4,0,5,No,0-1 yrs,0,0
+EMP00092,Hr,HR Manager,38.0,Female,Bachelor's,Married,20,1,84816.23,9.1,No,3.0,3.0,3,0,3,No,0-1 yrs,0,0
+EMP01233,Sales,Account Manager,21.0,Male,Bachelor's,Divorced,0,0,56423.73,0.6,No,3.0,4.0,3,1,5,No,0-1 yrs,0,0
+EMP00594,Engineering,Senior Engineer,21.0,Male,Master's,Married,0,0,80521.25,2.1,Yes,4.0,2.0,4,0,5,Yes,0-1 yrs,1,1
+EMP00628,Sales,Sales Manager,35.0,Female,Bachelor's,Single,10,0,76244.32,12.2,No,3.0,3.0,2,0,5,No,0-1 yrs,0,0
+EMP00429,Engineering,Engineering Manager,33.0,Female,Bachelor's,Single,13,0,89673.33,3.4,No,2.0,4.0,3,0,0,No,0-1 yrs,0,0
+EMP01170,Marketing,Content Specialist,26.0,Female,Bachelor's,Divorced,1,0,59848.32,5.9,Yes,1.0,2.0,3,0,2,No,0-1 yrs,0,1
+EMP01179,Support,Support Executive,54.0,Male,Bachelor's,Divorced,28,2,100061.7,2.7,Yes,4.0,4.0,4,0,2,Yes,2-3 yrs,1,1
+EMP00345,Support,Support Executive,53.0,Female,Bachelor's,Divorced,24,5,91039.6,8.5,No,3.0,1.0,4,0,1,Yes,4-6 yrs,1,0
+EMP01324,Support,Support Executive,39.0,Female,PhD,Single,12,2,92613.35,1.3,No,1.0,4.0,2,1,2,No,2-3 yrs,0,0
+EMP00830,Sales,Account Manager,44.0,Female,Bachelor's,Single,24,2,100682.09,16.5,No,3.0,3.0,3,0,3,No,2-3 yrs,0,0
+EMP01489,Engineering,Software Engineer,40.0,Male,Master's,Divorced,11,1,98602.27,5.4,No,1.0,3.0,3,1,0,No,0-1 yrs,0,0
+EMP00426,Support,Support Executive,37.0,Male,Master's,Divorced,8,7,68040.38,1.5,No,1.0,3.0,3,0,0,No,7-10 yrs,0,0
+EMP00913,Marketing,Marketing Manager,40.0,Male,Bachelor's,Married,13,1,76132.19,2.3,Yes,2.0,3.0,1,0,2,Yes,0-1 yrs,1,1
+EMP00820,Hr,HR Executive,31.0,Male,PhD,Married,13,0,89593.48,6.4,No,4.0,2.0,4,0,1,Yes,0-1 yrs,1,0
+EMP00181,Finance,Finance Manager,54.0,Female,Bachelor's,Divorced,22,0,97112.61,4.5,No,1.0,3.0,3,0,2,Yes,0-1 yrs,1,0
+EMP00705,Sales,Sales Manager,31.0,Male,Bachelor's,Married,6,2,60766.83,2.2,No,3.0,2.0,3,1,0,No,2-3 yrs,0,0
+EMP01073,Engineering,Software Engineer,40.0,Female,Bachelor's,Married,20,0,107445.32,4.7,No,2.0,1.0,3,0,2,Yes,0-1 yrs,1,0
+EMP00839,Finance,Finance Manager,34.0,Male,Master's,Divorced,12,7,100228.51,39.5,Yes,3.0,3.0,3,0,4,No,7-10 yrs,0,1
+EMP00107,Finance,Accountant,22.0,Female,Master's,Married,4,2,82250.13,4.8,No,2.0,4.0,3,0,4,No,2-3 yrs,0,0
+EMP00519,Sales,Sales Executive,46.0,Male,High School,Single,22,11,83596.3,3.6,Yes,1.0,3.0,3,1,5,Yes,10+ yrs,1,1
+EMP01137,Engineering,QA Engineer,31.0,Male,Bachelor's,Single,6,1,83030.42,23.9,Yes,3.0,4.0,4,1,0,Yes,0-1 yrs,1,1
+EMP00095,Sales,Sales Executive,45.0,Female,Bachelor's,Married,27,3,101370.43,6.3,No,3.0,2.0,4,0,1,No,2-3 yrs,0,0
+EMP00772,Hr,Recruiter,23.0,Male,Master's,Divorced,0,0,59551.99,1.9,No,2.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP00850,Finance,Finance Manager,34.0,Female,Bachelor's,Divorced,11,0,85293.79,4.7,No,1.0,3.0,3,0,4,Yes,0-1 yrs,1,0
+EMP01301,Hr,HR Executive,31.0,Male,Master's,Married,13,13,93522.69,2.4,No,3.0,1.0,3,0,5,No,10+ yrs,0,0
+EMP00376,Finance,Finance Manager,23.0,Male,Bachelor's,Single,3,3,62216.16,20.9,No,1.0,4.0,3,0,3,No,2-3 yrs,0,0
+EMP00817,Sales,Sales Manager,50.0,Female,Master's,Married,25,5,109702.64,3.4,Yes,1.0,1.0,3,1,1,Yes,4-6 yrs,1,1
+EMP00027,Sales,Account Manager,60.0,Female,PhD,Married,33,1,126708.22,7.3,No,2.0,2.0,4,0,2,Yes,0-1 yrs,1,0
+EMP01287,Hr,Recruiter,40.0,Female,Bachelor's,Married,14,0,65345.81,0.2,No,1.0,3.0,4,0,5,Yes,0-1 yrs,1,0
+EMP01175,Sales,Sales Executive,39.0,Female,Bachelor's,Divorced,18,12,77057.99,4.7,No,4.0,4.0,3,0,4,No,10+ yrs,0,0
+EMP01219,Finance,Accountant,21.0,Female,Bachelor's,Divorced,2,0,62738.34,3.6,No,1.0,4.0,3,0,3,Yes,0-1 yrs,1,0
+EMP01455,Engineering,QA Engineer,39.0,Female,Bachelor's,Married,16,12,108614.93,16.2,No,2.0,3.0,4,1,4,Yes,10+ yrs,1,0
+EMP01277,Engineering,QA Engineer,35.0,Female,Master's,Married,15,6,114530.33,7.7,No,4.0,1.0,3,0,4,No,4-6 yrs,0,0
+EMP00346,Finance,Finance Manager,37.0,Male,Bachelor's,Divorced,17,3,83654.9,19.7,No,1.0,1.0,2,1,5,No,2-3 yrs,0,0
+EMP01427,Finance,Financial Analyst,44.0,Male,Bachelor's,Married,25,6,111683.11,37.0,No,4.0,4.0,2,0,5,No,4-6 yrs,0,0
+EMP00233,Support,Support Executive,38.0,Female,Master's,Divorced,15,13,80915.58,2.7,No,4.0,3.0,2,0,4,No,10+ yrs,0,0
+EMP01426,Sales,Sales Manager,31.0,Male,Bachelor's,Married,3,0,49815.01,22.2,No,4.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP01446,Marketing,Marketing Manager,35.0,Female,Bachelor's,Married,9,9,75261.82,10.5,No,1.0,1.0,3,1,5,No,7-10 yrs,0,0
+EMP00567,Hr,HR Manager,28.0,Male,Bachelor's,Single,1,1,59478.06,3.0,No,4.0,3.0,3,1,2,Yes,0-1 yrs,1,0
+EMP01249,Sales,Account Manager,30.0,Female,Bachelor's,Single,0,0,56641.65,8.3,No,3.0,3.0,4,1,0,No,0-1 yrs,0,0
+EMP00696,Engineering,Software Engineer,44.0,Male,Master's,Single,26,1,116928.24,6.4,No,4.0,2.0,2,1,5,Yes,0-1 yrs,1,0
+EMP01221,Engineering,QA Engineer,32.0,Male,Bachelor's,Married,4,4,83475.08,1.2,No,3.0,1.0,1,1,3,Yes,4-6 yrs,1,0
+EMP01124,Engineering,Software Engineer,28.0,Male,Master's,Single,10,2,94447.38,6.1,No,1.0,4.0,4,0,0,No,2-3 yrs,0,0
+EMP00289,Hr,HR Manager,45.0,Female,Bachelor's,Married,25,7,98909.93,3.6,No,2.0,3.0,3,1,4,No,7-10 yrs,0,0
+EMP00310,Engineering,Software Engineer,30.0,Male,Bachelor's,Single,6,6,86636.72,5.5,Yes,2.0,4.0,3,0,0,No,4-6 yrs,0,1
+EMP01286,Support,Support Executive,48.0,Female,Master's,Single,28,5,102577.77,29.0,No,1.0,3.0,3,0,1,Yes,4-6 yrs,1,0
+EMP01075,Marketing,Marketing Manager,36.0,Male,Bachelor's,Married,7,7,63869.58,16.7,No,4.0,2.0,4,0,1,No,7-10 yrs,0,0
+EMP00365,Sales,Account Manager,24.0,Female,Bachelor's,Married,0,0,56957.33,16.1,No,3.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP00284,Engineering,Senior Engineer,40.0,Female,Bachelor's,Married,13,0,93788.58,10.2,No,2.0,3.0,4,0,1,No,0-1 yrs,0,0
+EMP00813,Finance,Finance Manager,22.0,Female,PhD,Divorced,0,0,85910.5,5.6,No,4.0,2.0,3,0,5,No,0-1 yrs,0,0
+EMP01366,Hr,HR Manager,25.0,Male,Master's,Married,6,0,60403.42,16.7,Yes,4.0,3.0,3,0,1,No,0-1 yrs,0,1
+EMP00079,Engineering,Software Engineer,24.0,Male,Bachelor's,Single,0,0,70392.31,10.9,No,4.0,4.0,2,0,4,No,0-1 yrs,0,0
+EMP01474,Marketing,Content Specialist,33.0,Female,Master's,Married,8,1,85062.93,1.8,No,3.0,2.0,3,0,1,Yes,0-1 yrs,1,0
+EMP00502,Finance,Finance Manager,33.0,Female,Master's,Divorced,10,0,92862.59,1.0,No,3.0,2.0,3,1,5,No,0-1 yrs,0,0
+EMP01229,Sales,Sales Manager,37.0,Female,PhD,Married,13,6,102505.18,1.6,No,4.0,1.0,3,0,4,No,4-6 yrs,0,0
+EMP00528,Hr,HR Manager,21.0,Female,Bachelor's,Married,0,0,48677.64,18.9,No,3.0,2.0,3,0,3,No,0-1 yrs,0,0
+EMP00222,Marketing,Marketing Executive,40.0,Female,Master's,Divorced,22,0,116401.05,5.4,No,4.0,2.0,1,1,0,No,0-1 yrs,0,0
+EMP01098,Sales,Sales Manager,60.0,Female,Bachelor's,Divorced,33,2,117827.25,2.0,Yes,1.0,3.0,4,1,1,Yes,2-3 yrs,1,1
+EMP00805,Sales,Sales Executive,42.0,Female,Bachelor's,Divorced,24,0,104362.01,14.4,No,2.0,4.0,3,0,0,No,0-1 yrs,0,0
+EMP00888,Engineering,Engineering Manager,36.0,Male,Bachelor's,Divorced,10,0,82181.37,3.1,No,1.0,4.0,2,0,0,Yes,0-1 yrs,1,0
+EMP00500,Support,Support Executive,36.0,Female,Master's,Single,8,0,69340.8,13.4,No,4.0,1.0,3,0,3,No,0-1 yrs,0,0
+EMP00282,Finance,Accountant,33.0,Female,Bachelor's,Divorced,3,2,64517.71,3.1,No,3.0,4.0,4,0,3,No,2-3 yrs,0,0
+EMP00495,Marketing,Content Specialist,31.0,Male,Bachelor's,Single,0,0,50285.02,11.0,No,4.0,2.0,3,0,4,Yes,0-1 yrs,1,0
+EMP00958,Marketing,Marketing Manager,37.0,Male,Bachelor's,Married,15,7,79480.59,19.4,No,1.0,3.0,4,1,3,No,7-10 yrs,0,0
+EMP00038,Marketing,Marketing Manager,46.0,Female,High School,Single,27,2,96469.77,5.7,No,1.0,3.0,3,0,5,No,2-3 yrs,0,0
+EMP00707,Engineering,Senior Engineer,31.0,Male,Bachelor's,Married,11,5,96715.9,2.8,Yes,4.0,3.0,2,0,1,No,4-6 yrs,0,1
+EMP01008,Engineering,QA Engineer,41.0,Female,Master's,Divorced,12,2,108908.44,1.3,No,1.0,3.0,3,0,4,Yes,2-3 yrs,1,0
+EMP00489,Sales,Sales Executive,34.0,Female,Master's,Divorced,9,0,81871.17,5.1,Yes,1.0,3.0,4,0,2,Yes,0-1 yrs,1,1
+EMP01202,Engineering,Software Engineer,36.0,Female,Bachelor's,Single,17,3,97867.79,4.9,No,4.0,2.0,3,0,5,No,2-3 yrs,0,0
+EMP00758,Sales,Sales Executive,47.0,Female,Bachelor's,Single,27,0,94732.76,5.1,No,1.0,4.0,3,0,4,No,0-1 yrs,0,0
+EMP00647,Engineering,QA Engineer,32.0,Female,Bachelor's,Married,8,0,88290.06,1.3,Yes,4.0,4.0,2,0,0,No,0-1 yrs,0,1
+EMP00106,Engineering,Engineering Manager,29.0,Male,Master's,Married,6,3,91452.76,1.6,No,2.0,4.0,3,0,0,No,2-3 yrs,0,0
+EMP00996,Hr,HR Manager,29.0,Female,Bachelor's,Divorced,2,1,54871.84,9.3,No,2.0,4.0,2,0,4,No,0-1 yrs,0,0
+EMP00734,Finance,Financial Analyst,36.0,Female,High School,Married,12,3,81142.56,7.0,No,3.0,4.0,1,0,4,No,2-3 yrs,0,0
+EMP00938,Engineering,Content Specialist,38.0,Male,Bachelor's,Single,12,7,73424.08,4.8,Yes,1.0,3.0,1,0,0,Yes,7-10 yrs,1,1
+EMP00126,Marketing,Marketing Executive,32.0,Male,Bachelor's,Married,9,7,75967.41,47.6,No,3.0,2.0,3,1,4,No,7-10 yrs,0,0
+EMP00884,Sales,Sales Manager,47.0,Female,Bachelor's,Single,26,0,101113.06,2.2,Yes,2.0,1.0,3,1,2,No,0-1 yrs,0,1
+EMP01311,Engineering,Senior Engineer,37.0,Male,Bachelor's,Single,18,7,98891.93,7.8,No,3.0,3.0,4,0,3,No,7-10 yrs,0,0
+EMP01364,Sales,Sales Executive,25.0,Male,Bachelor's,Divorced,0,0,41593.5,24.6,No,1.0,3.0,2,0,5,Yes,0-1 yrs,1,0
+EMP00336,Sales,Account Manager,39.0,Male,Bachelor's,Married,11,0,66019.19,18.1,No,3.0,4.0,3,1,5,No,0-1 yrs,0,0
+EMP00385,Sales,Account Manager,35.0,Female,High School,Married,17,0,75737.32,0.3,Yes,3.0,2.0,4,0,2,Yes,0-1 yrs,1,1
+EMP01200,Hr,Recruiter,53.0,Female,High School,Married,32,2,100258.64,14.9,No,4.0,3.0,3,0,1,No,2-3 yrs,0,0
+EMP00162,Engineering,QA Engineer,35.0,Male,Master's,Single,5,0,98464.47,1.4,Yes,3.0,1.0,3,0,4,No,0-1 yrs,0,1
+EMP01104,Marketing,Marketing Manager,37.0,Male,Bachelor's,Married,15,0,95634.45,3.8,Yes,4.0,1.0,1,1,2,Yes,0-1 yrs,1,1
+EMP00490,Marketing,Marketing Executive,38.0,Male,Bachelor's,Married,18,2,81816.1,5.4,Yes,3.0,1.0,3,0,2,No,2-3 yrs,0,1
+EMP00712,Marketing,Content Specialist,33.0,Male,Bachelor's,Married,12,1,76981.51,1.1,No,4.0,1.0,3,1,1,Yes,0-1 yrs,1,0
+EMP00806,Engineering,Engineering Manager,27.0,Female,Bachelor's,Married,9,2,85102.88,3.1,No,2.0,3.0,3,0,2,No,2-3 yrs,0,0
+EMP00374,Hr,HR Manager,41.0,Male,Bachelor's,Divorced,23,7,95286.54,2.1,Yes,2.0,2.0,3,0,2,Yes,7-10 yrs,1,1
+EMP00442,Finance,Financial Analyst,37.0,Male,High School,Married,18,1,82857.0,11.6,Yes,3.0,2.0,4,0,5,Yes,0-1 yrs,1,1
+EMP00632,Engineering,Software Engineer,33.0,Female,Bachelor's,Single,15,0,102838.98,3.4,Yes,4.0,2.0,4,0,5,Yes,0-1 yrs,1,1
+EMP00821,Engineering,QA Engineer,43.0,Male,PhD,Divorced,17,6,132278.33,2.0,No,1.0,1.0,3,1,0,Yes,4-6 yrs,1,0
+EMP01166,Sales,Sales Manager,23.0,Male,Bachelor's,Married,1,0,56807.68,4.0,Yes,4.0,4.0,2,1,1,No,0-1 yrs,0,1
+EMP00640,Support,Support Executive,21.0,Male,High School,Single,3,0,39961.2,6.2,No,2.0,4.0,2,1,4,No,0-1 yrs,0,0
+EMP01032,Finance,Financial Analyst,21.0,Male,Bachelor's,Single,0,0,65204.09,9.2,Yes,4.0,2.0,2,0,0,Yes,0-1 yrs,1,1
+EMP01061,Engineering,Senior Engineer,21.0,Female,Master's,Divorced,0,0,77289.57,8.5,No,1.0,2.0,4,0,3,Yes,0-1 yrs,1,0
+EMP00375,Finance,Finance Manager,21.0,Female,Bachelor's,Married,0,0,83596.3,33.8,Yes,2.0,4.0,3,1,4,Yes,0-1 yrs,1,1
+EMP00724,Sales,Sales Executive,42.0,Male,Master's,Married,18,0,90387.33,22.8,Yes,1.0,4.0,2,0,4,No,0-1 yrs,0,1
+EMP00856,Support,Support Executive,48.0,Female,Bachelor's,Divorced,23,4,86170.07,0.3,Yes,2.0,3.0,3,1,3,No,4-6 yrs,0,1
+EMP00775,Marketing,Marketing Executive,46.0,Male,Master's,Divorced,24,1,114384.08,0.4,No,3.0,2.0,4,0,0,No,0-1 yrs,0,0
+EMP00991,Hr,Recruiter,35.0,Male,Master's,Single,7,0,75352.66,9.3,No,1.0,4.0,4,0,2,No,0-1 yrs,0,0
+EMP00119,Engineering,Software Engineer,34.0,Male,Bachelor's,Divorced,7,4,83596.3,2.2,Yes,1.0,1.0,3,0,2,No,4-6 yrs,0,1
+EMP01085,Engineering,QA Engineer,32.0,Male,Master's,Married,10,5,100231.34,1.6,Yes,2.0,3.0,3,0,4,No,4-6 yrs,0,1
+EMP01250,Support,Support Executive,21.0,Female,Master's,Married,0,0,68944.07,3.4,Yes,2.0,4.0,3,0,0,No,0-1 yrs,0,1
+EMP01473,Sales,Account Manager,37.0,Female,Bachelor's,Divorced,18,1,93743.69,8.2,Yes,4.0,2.0,3,0,0,No,0-1 yrs,0,1
+EMP01213,Marketing,Marketing Executive,29.0,Male,High School,Married,11,1,72898.53,8.7,No,2.0,2.0,2,0,5,No,0-1 yrs,0,0
+EMP01165,Marketing,Marketing Manager,25.0,Female,Bachelor's,Married,0,0,54989.08,2.8,No,2.0,2.0,3,1,4,Yes,0-1 yrs,1,0
+EMP00415,Hr,Recruiter,44.0,Male,Master's,Divorced,24,0,100315.9,8.9,Yes,4.0,2.0,4,0,2,No,0-1 yrs,0,1
+EMP00867,Sales,Account Manager,46.0,Male,High School,Married,25,4,96583.98,17.6,No,1.0,4.0,3,0,0,No,4-6 yrs,0,0
+EMP01005,Support,Support Lead,21.0,Male,Bachelor's,Divorced,0,0,39925.51,13.0,Yes,3.0,1.0,4,0,0,No,0-1 yrs,0,1
+EMP00771,Support,Support Executive,28.0,Male,Bachelor's,Divorced,3,3,52477.76,3.0,Yes,1.0,2.0,4,0,2,Yes,2-3 yrs,1,1
+EMP00128,Marketing,Marketing Manager,22.0,Male,Bachelor's,Married,0,0,53236.26,15.8,No,3.0,1.0,4,1,0,No,0-1 yrs,0,0
+EMP01260,Finance,Financial Analyst,40.0,Female,Bachelor's,Married,21,12,98583.98,0.9,No,3.0,4.0,3,1,3,No,10+ yrs,0,0
+EMP00946,Finance,Accountant,25.0,Male,Bachelor's,Divorced,0,0,70320.9,10.0,No,2.0,2.0,4,0,0,Yes,0-1 yrs,1,0
+EMP00573,Engineering,Engineering Manager,37.0,Male,Master's,Divorced,10,10,97660.37,13.6,No,4.0,4.0,1,0,2,No,7-10 yrs,0,0
+EMP01099,Engineering,QA Engineer,45.0,Male,Bachelor's,Married,23,22,112259.52,4.2,Yes,4.0,3.0,1,1,1,No,10+ yrs,0,1
+EMP00947,Finance,Finance Manager,37.0,Male,Master's,Single,19,0,109233.17,5.8,No,2.0,2.0,3,0,5,Yes,0-1 yrs,1,0
+EMP00673,Sales,Account Manager,35.0,Female,Bachelor's,Married,10,4,71721.38,4.1,No,3.0,2.0,4,0,0,No,4-6 yrs,0,0
+EMP01159,Support,Support Executive,41.0,Female,Bachelor's,Married,23,8,91141.05,0.4,Yes,4.0,2.0,3,0,3,No,7-10 yrs,0,1
+EMP00400,Engineering,QA Engineer,38.0,Male,Master's,Married,13,1,108755.7,0.5,Yes,3.0,4.0,4,0,0,Yes,0-1 yrs,1,1
+EMP00789,Marketing,Content Specialist,35.0,Male,Bachelor's,Married,11,5,86564.42,0.5,No,3.0,3.0,3,0,2,No,4-6 yrs,0,0
+EMP00552,Sales,Sales Manager,31.0,Female,Bachelor's,Single,12,1,68940.46,13.5,Yes,4.0,1.0,3,0,2,No,0-1 yrs,0,1
+EMP00565,Support,Support Lead,34.0,Male,Master's,Single,7,6,65506.5,0.8,Yes,2.0,4.0,3,0,5,Yes,4-6 yrs,1,1
+EMP00175,Support,Support Executive,41.0,Male,Bachelor's,Married,20,0,77487.2,31.6,No,4.0,4.0,2,0,2,No,0-1 yrs,0,0
+EMP00321,Support,Support Executive,38.0,Female,Bachelor's,Divorced,14,6,71235.46,8.4,No,2.0,2.0,3,0,1,Yes,4-6 yrs,1,0
+EMP00525,Support,Support Lead,28.0,Female,High School,Divorced,4,4,49449.44,0.6,No,2.0,1.0,4,1,4,No,4-6 yrs,0,0
+EMP00470,Finance,Finance Manager,24.0,Female,Master's,Married,6,1,92816.01,10.1,No,1.0,4.0,2,0,5,No,0-1 yrs,0,0
+EMP01235,Engineering,Software Engineer,24.0,Female,Master's,Married,6,4,89972.25,4.4,No,3.0,3.0,4,0,0,No,4-6 yrs,0,0
+EMP01458,Engineering,Content Specialist,37.0,Female,Bachelor's,Single,12,12,77253.03,5.1,No,1.0,1.0,3,0,4,Yes,10+ yrs,1,0
+EMP00853,Support,Support Executive,25.0,Female,Bachelor's,Divorced,7,2,66296.15,4.4,Yes,3.0,2.0,3,0,1,No,2-3 yrs,0,1
+EMP00080,Sales,Sales Manager,30.0,Female,Master's,Single,3,3,60911.39,1.7,Yes,3.0,1.0,4,0,1,No,2-3 yrs,0,1
+EMP00534,Engineering,Software Engineer,38.0,Female,Bachelor's,Married,14,14,94475.17,11.8,No,4.0,1.0,3,1,1,No,10+ yrs,0,0
+EMP01050,Engineering,Sales Executive,29.0,Female,PhD,Divorced,7,0,95825.97,4.7,No,2.0,1.0,3,0,4,Yes,0-1 yrs,1,0
+EMP00458,Finance,Financial Analyst,23.0,Female,Bachelor's,Divorced,4,4,69120.33,6.8,No,4.0,2.0,3,0,2,No,4-6 yrs,0,0
+EMP00291,Support,Support Executive,44.0,Female,Master's,Divorced,19,7,89159.16,5.6,Yes,4.0,4.0,3,0,1,Yes,7-10 yrs,1,1
+EMP00371,Engineering,QA Engineer,49.0,Female,Master's,Divorced,31,3,137843.75,0.5,Yes,3.0,1.0,2,1,4,No,2-3 yrs,0,1
+EMP00266,Support,Support Executive,28.0,Male,Bachelor's,Divorced,4,3,52181.46,2.6,No,2.0,4.0,3,0,5,No,2-3 yrs,0,0
+EMP00589,Sales,Sales Executive,27.0,Female,Bachelor's,Married,2,2,54629.4,20.8,No,3.0,1.0,1,0,2,No,2-3 yrs,0,0
+EMP00478,Engineering,Software Engineer,31.0,Female,Master's,Single,3,3,86315.32,2.8,Yes,1.0,4.0,3,0,1,No,2-3 yrs,0,1
+EMP00165,Sales,Sales Executive,41.0,Male,Bachelor's,Single,23,0,94462.07,6.1,No,2.0,2.0,4,0,5,Yes,0-1 yrs,1,0
+EMP01300,Support,Support Executive,26.0,Male,Bachelor's,Married,0,0,43773.37,7.5,No,1.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP00094,Marketing,Content Specialist,49.0,Female,High School,Divorced,22,1,93564.25,10.4,No,4.0,1.0,3,0,0,No,0-1 yrs,0,0
+EMP00474,Finance,Financial Analyst,27.0,Female,PhD,Divorced,4,3,92428.66,41.1,Yes,3.0,1.0,4,0,4,No,2-3 yrs,0,1
+EMP00198,Finance,Finance Manager,37.0,Male,PhD,Divorced,19,1,121508.72,2.4,Yes,1.0,1.0,3,0,3,Yes,0-1 yrs,1,1
+EMP00186,Support,Support Executive,46.0,Female,Bachelor's,Married,22,2,83158.61,1.5,No,3.0,2.0,2,1,1,No,2-3 yrs,0,0
+EMP01010,Sales,Sales Executive,43.0,Male,Master's,Single,21,3,96419.51,0.2,Yes,4.0,2.0,4,0,5,No,2-3 yrs,0,1
+EMP00422,Engineering,Engineering Manager,39.0,Female,Bachelor's,Divorced,21,3,110820.39,0.2,No,4.0,1.0,4,1,2,No,2-3 yrs,0,0
+EMP00452,Engineering,Engineering Manager,42.0,Female,Bachelor's,Single,24,2,118099.12,4.7,No,1.0,2.0,3,1,1,No,2-3 yrs,0,0
+EMP00257,Marketing,Marketing Executive,35.0,Male,Bachelor's,Married,13,10,84873.04,1.4,Yes,1.0,4.0,4,0,3,No,7-10 yrs,0,1
+EMP00136,Engineering,Engineering Manager,39.0,Male,Master's,Single,21,0,117174.11,0.3,Yes,3.0,3.0,4,0,3,Yes,0-1 yrs,1,1
+EMP01072,Finance,Financial Analyst,21.0,Female,Bachelor's,Divorced,0,0,64638.22,3.2,No,1.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP00982,Marketing,Marketing Manager,35.0,Male,PhD,Single,11,5,97098.78,0.9,Yes,3.0,1.0,4,1,0,No,4-6 yrs,0,1
+EMP00052,Finance,Accountant,48.0,Female,High School,Divorced,30,9,112040.72,0.6,No,4.0,1.0,3,0,1,Yes,7-10 yrs,1,0
+EMP00866,Sales,Sales Manager,43.0,Female,Bachelor's,Divorced,25,1,97022.64,7.2,Yes,1.0,1.0,4,0,3,No,0-1 yrs,0,1
+EMP00584,Sales,Sales Executive,24.0,Female,Master's,Divorced,0,0,55854.78,23.7,No,4.0,3.0,3,1,0,No,0-1 yrs,0,0
+EMP01112,Marketing,Marketing Executive,50.0,Male,Bachelor's,Divorced,23,1,94992.86,2.4,Yes,3.0,2.0,3,0,3,Yes,0-1 yrs,1,1
+EMP01369,Hr,HR Manager,36.0,Female,Bachelor's,Single,16,3,83749.28,10.8,No,4.0,1.0,3,1,5,No,2-3 yrs,0,0
+EMP01415,Hr,HR Manager,35.0,Male,Bachelor's,Divorced,13,2,72461.0,16.5,No,1.0,2.0,3,1,1,Yes,2-3 yrs,1,0
+EMP00050,Marketing,Marketing Manager,21.0,Male,Bachelor's,Single,0,0,64753.84,13.7,No,2.0,1.0,4,0,5,Yes,0-1 yrs,1,0
+EMP00342,Support,Support Lead,21.0,Male,Bachelor's,Married,0,0,38151.85,0.0,No,1.0,4.0,2,1,4,Yes,0-1 yrs,1,0
+EMP00798,Engineering,Engineering Manager,33.0,Female,PhD,Single,14,4,125829.9,3.8,No,4.0,2.0,3,0,5,No,4-6 yrs,0,0
+EMP00986,Engineering,Senior Engineer,31.0,Male,PhD,Married,8,0,105842.08,1.4,No,1.0,1.0,4,1,4,Yes,0-1 yrs,1,0
+EMP00527,Engineering,QA Engineer,36.0,Female,Bachelor's,Divorced,9,4,83596.3,2.1,No,3.0,3.0,2,0,5,No,4-6 yrs,0,0
+EMP00960,Marketing,Content Specialist,25.0,Male,Bachelor's,Single,4,2,52365.32,0.6,No,3.0,3.0,3,0,4,No,2-3 yrs,0,0
+EMP01498,Engineering,Engineering Manager,21.0,Female,PhD,Single,0,0,96527.24,10.9,No,2.0,2.0,2,1,2,Yes,0-1 yrs,1,0
+EMP00683,Marketing,Marketing Executive,47.0,Female,Master's,Married,20,10,94577.35,0.5,Yes,4.0,3.0,3,1,3,No,7-10 yrs,0,1
+EMP00463,Engineering,Senior Engineer,45.0,Male,Master's,Divorced,27,2,123960.68,0.4,Yes,3.0,1.0,3,1,4,No,2-3 yrs,0,1
+EMP01325,Engineering,Software Engineer,35.0,Female,Bachelor's,Single,11,0,98720.54,2.3,No,4.0,4.0,4,0,0,No,0-1 yrs,0,0
+EMP00973,Support,Support Executive,54.0,Male,Bachelor's,Divorced,31,4,106589.31,0.3,Yes,3.0,4.0,3,0,2,Yes,4-6 yrs,1,1
+EMP01303,Engineering,Software Engineer,48.0,Female,Master's,Divorced,22,7,127507.5,2.8,No,3.0,4.0,3,0,4,No,7-10 yrs,0,0
+EMP00469,Hr,HR Manager,40.0,Male,Master's,Single,17,2,84098.44,1.7,No,3.0,4.0,3,0,2,Yes,2-3 yrs,1,0
+EMP00648,Finance,Accountant,30.0,Male,Bachelor's,Married,4,4,75370.08,3.2,Yes,3.0,4.0,4,0,0,No,4-6 yrs,0,1
+EMP01475,Marketing,Marketing Executive,35.0,Female,Bachelor's,Married,9,0,65429.86,1.9,Yes,1.0,3.0,4,0,0,No,0-1 yrs,0,1
+EMP00034,Support,Support Executive,36.0,Male,Master's,Single,9,0,77523.29,7.4,No,2.0,3.0,3,0,3,No,0-1 yrs,0,0
+EMP00417,Sales,Account Manager,21.0,Male,Master's,Divorced,0,0,60454.3,46.0,Yes,4.0,4.0,2,1,3,Yes,0-1 yrs,1,1
+EMP00810,Finance,Finance Manager,21.0,Male,Master's,Married,0,0,71193.51,0.3,No,3.0,2.0,3,0,5,No,0-1 yrs,0,0
+EMP00248,Engineering,QA Engineer,27.0,Male,Bachelor's,Divorced,5,5,83596.3,21.1,No,4.0,1.0,3,0,3,No,4-6 yrs,0,0
+EMP00877,Hr,Recruiter,39.0,Male,Bachelor's,Divorced,15,2,77307.8,13.9,No,1.0,1.0,4,1,2,No,2-3 yrs,0,0
+EMP00968,Support,Support Executive,21.0,Male,Bachelor's,Single,0,0,40659.25,2.4,No,4.0,3.0,2,0,5,No,0-1 yrs,0,0
+EMP00440,Engineering,QA Engineer,21.0,Female,Master's,Divorced,0,0,79218.77,39.3,No,4.0,3.0,1,0,2,No,0-1 yrs,0,0
+EMP01356,Support,Support Executive,21.0,Female,Bachelor's,Single,3,3,47228.03,2.7,No,1.0,3.0,3,0,4,No,2-3 yrs,0,0
+EMP01154,Sales,Account Manager,28.0,Female,High School,Divorced,0,0,55002.9,6.6,No,2.0,3.0,2,1,4,No,0-1 yrs,0,0
+EMP00217,Engineering,Engineering Manager,31.0,Female,Bachelor's,Divorced,13,5,88831.09,8.0,No,3.0,1.0,4,1,4,No,4-6 yrs,0,0
+EMP01494,Sales,Sales Manager,26.0,Female,Bachelor's,Single,6,6,66139.47,24.9,No,3.0,2.0,3,0,0,No,4-6 yrs,0,0
+EMP01261,Finance,Financial Analyst,42.0,Female,Bachelor's,Married,15,0,93739.71,3.4,No,1.0,3.0,3,0,3,No,0-1 yrs,0,0
+EMP00544,Marketing,Marketing Manager,41.0,Male,Master's,Single,23,0,104956.84,0.0,No,1.0,1.0,3,0,3,Yes,0-1 yrs,1,0
+EMP01129,Hr,Recruiter,46.0,Male,Bachelor's,Married,24,17,92512.31,4.5,No,4.0,2.0,4,0,0,No,10+ yrs,0,0
+EMP01355,Sales,Sales Executive,26.0,Female,Bachelor's,Single,6,6,55006.24,31.8,No,3.0,2.0,3,1,1,No,4-6 yrs,0,0
+EMP00494,Support,Support Executive,43.0,Female,Bachelor's,Divorced,22,1,80897.36,5.1,No,3.0,4.0,3,1,0,No,0-1 yrs,0,0
+EMP01211,Support,Support Lead,54.0,Female,Master's,Divorced,34,11,127517.84,3.8,No,4.0,1.0,2,1,5,No,10+ yrs,0,0
+EMP00465,Engineering,QA Engineer,42.0,Female,Bachelor's,Single,22,7,112703.5,14.2,Yes,3.0,4.0,2,1,4,No,7-10 yrs,0,1
+EMP00392,Engineering,Senior Engineer,40.0,Male,Bachelor's,Divorced,15,2,101437.76,2.0,No,4.0,1.0,3,0,5,No,2-3 yrs,0,0
+EMP01327,Support,Support Executive,31.0,Female,PhD,Married,8,4,88604.09,0.2,No,3.0,1.0,3,0,1,Yes,4-6 yrs,1,0
+EMP00439,Finance,Finance Manager,44.0,Female,PhD,Married,25,2,136459.68,19.3,No,4.0,3.0,4,0,5,No,2-3 yrs,0,0
+EMP01470,Finance,Financial Analyst,22.0,Male,Bachelor's,Married,4,1,67698.33,2.1,Yes,1.0,3.0,3,1,0,Yes,0-1 yrs,1,1
+EMP00583,Engineering,Senior Engineer,31.0,Female,Bachelor's,Single,12,1,96926.32,9.1,No,2.0,3.0,2,1,5,No,0-1 yrs,0,0
+EMP00693,Engineering,Senior Engineer,21.0,Male,Master's,Single,1,1,88012.06,7.5,No,1.0,1.0,3,1,1,No,0-1 yrs,0,0
+EMP00861,Sales,Sales Executive,41.0,Male,Master's,Married,15,0,89094.45,4.7,Yes,3.0,1.0,4,1,0,Yes,0-1 yrs,1,1
+EMP00327,Finance,Accountant,39.0,Male,Master's,Single,11,1,95839.11,11.5,No,4.0,1.0,2,0,2,Yes,0-1 yrs,1,0
+EMP00227,Sales,Sales Manager,21.0,Male,Master's,Divorced,2,2,60586.41,0.9,No,1.0,4.0,3,0,2,Yes,2-3 yrs,1,0
+EMP01270,Sales,Sales Manager,29.0,Male,Bachelor's,Divorced,11,2,73993.78,9.1,Yes,1.0,1.0,3,1,3,Yes,2-3 yrs,1,1
+EMP00466,Engineering,Senior Engineer,38.0,Female,Master's,Single,15,0,116490.4,0.5,No,4.0,4.0,3,0,1,Yes,0-1 yrs,1,0
+EMP00554,Hr,HR Executive,46.0,Male,Bachelor's,Single,28,0,100734.48,5.4,No,3.0,3.0,3,1,5,No,0-1 yrs,0,0
+EMP00062,Finance,Finance Manager,38.0,Male,Bachelor's,Divorced,8,0,78377.19,18.2,No,2.0,4.0,2,0,3,No,0-1 yrs,0,0
+EMP00419,Hr,Recruiter,38.0,Male,Bachelor's,Single,10,2,71384.02,4.8,No,3.0,3.0,4,0,0,No,2-3 yrs,0,0
+EMP01132,Sales,Sales Manager,39.0,Male,Master's,Married,14,0,84793.77,11.6,No,3.0,1.0,4,0,0,No,0-1 yrs,0,0
+EMP00709,Hr,HR Executive,30.0,Male,Bachelor's,Single,7,0,73173.72,23.3,Yes,1.0,4.0,4,0,3,Yes,0-1 yrs,1,1
+EMP01481,Support,Support Executive,22.0,Male,Bachelor's,Single,4,0,45578.6,13.9,No,4.0,1.0,3,0,5,Yes,0-1 yrs,1,0
+EMP00539,Finance,Financial Analyst,28.0,Male,Master's,Married,4,1,72237.0,2.0,No,2.0,3.0,4,0,0,Yes,0-1 yrs,1,0
+EMP00156,Support,Support Executive,30.0,Male,Bachelor's,Married,6,0,58491.22,8.6,No,4.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP00797,Engineering,Software Engineer,38.0,Female,Master's,Married,16,16,115546.47,1.3,Yes,3.0,2.0,4,0,1,Yes,10+ yrs,1,1
+EMP01485,Sales,Sales Manager,34.0,Female,Bachelor's,Single,13,2,79986.59,24.5,No,4.0,1.0,2,0,5,Yes,2-3 yrs,1,0
+EMP00983,Engineering,Senior Engineer,44.0,Male,Master's,Single,17,0,112254.63,25.9,No,2.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP01205,Sales,Account Manager,33.0,Male,Bachelor's,Married,5,5,64273.41,2.0,No,4.0,3.0,4,0,5,No,4-6 yrs,0,0
+EMP00083,Engineering,Engineering Manager,37.0,Female,Master's,Married,7,4,91527.05,12.2,No,3.0,4.0,3,0,5,Yes,4-6 yrs,1,0
+EMP00933,Finance,Finance Manager,35.0,Female,Master's,Single,13,1,92014.85,16.8,Yes,2.0,2.0,4,1,2,Yes,0-1 yrs,1,1
+EMP01256,Engineering,Software Engineer,23.0,Female,Bachelor's,Divorced,1,1,67897.53,24.0,No,1.0,1.0,3,0,5,No,0-1 yrs,0,0
+EMP00367,Sales,Account Manager,49.0,Male,Bachelor's,Married,27,2,105172.74,0.2,Yes,3.0,3.0,2,1,5,No,2-3 yrs,0,1
+EMP01013,Sales,Sales Manager,27.0,Male,Bachelor's,Single,0,0,50346.79,1.4,Yes,1.0,1.0,1,0,1,Yes,0-1 yrs,1,1
+EMP00862,Finance,Accountant,46.0,Female,Master's,Divorced,26,14,115047.44,10.5,Yes,2.0,4.0,2,0,1,Yes,10+ yrs,1,1
+EMP00993,Hr,Recruiter,37.0,Male,Bachelor's,Married,17,3,77398.69,3.2,No,1.0,4.0,4,1,1,Yes,2-3 yrs,1,0
+EMP00612,Support,Support Executive,33.0,Male,High School,Single,13,11,57894.69,4.1,Yes,4.0,4.0,3,1,0,No,10+ yrs,0,1
+EMP00349,Finance,Accountant,46.0,Male,Master's,Married,24,1,113156.53,6.5,No,1.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP01214,Engineering,Engineering Manager,41.0,Female,Master's,Divorced,17,14,117929.89,24.4,No,2.0,3.0,2,0,4,Yes,10+ yrs,1,0
+EMP01380,Sales,Account Manager,34.0,Female,High School,Married,9,0,48140.76,2.3,Yes,2.0,1.0,2,0,0,Yes,0-1 yrs,1,1
+EMP00167,Hr,HR Manager,37.0,Female,Master's,Divorced,19,0,80130.13,2.9,No,2.0,1.0,4,0,5,No,0-1 yrs,0,0
+EMP00857,Engineering,QA Engineer,44.0,Male,Bachelor's,Single,19,3,105936.94,7.8,No,2.0,3.0,3,1,4,No,2-3 yrs,0,0
+EMP01390,Marketing,Marketing Executive,37.0,Male,High School,Single,14,8,64715.46,3.0,No,4.0,3.0,2,0,5,No,7-10 yrs,0,0
+EMP01443,Support,Support Lead,35.0,Female,Bachelor's,Married,11,11,71254.27,3.0,Yes,1.0,2.0,3,0,2,No,10+ yrs,0,1
+EMP00547,Engineering,QA Engineer,40.0,Male,Master's,Married,22,4,125372.09,9.2,Yes,1.0,1.0,3,0,3,Yes,4-6 yrs,1,1
+EMP00205,Marketing,Marketing Executive,25.0,Female,Bachelor's,Single,2,2,54458.96,3.1,No,4.0,1.0,3,0,3,Yes,2-3 yrs,1,0
+EMP01188,Support,Support Lead,40.0,Female,Master's,Married,22,11,99259.6,2.0,No,1.0,1.0,3,1,0,Yes,10+ yrs,1,0
+EMP00710,Sales,Sales Manager,30.0,Male,Bachelor's,Married,9,2,65798.86,0.4,No,3.0,3.0,1,1,3,No,2-3 yrs,0,0
+EMP00606,Support,Support Lead,38.0,Female,Bachelor's,Divorced,20,0,81813.73,13.1,No,2.0,3.0,3,0,5,No,0-1 yrs,0,0
+EMP01379,Sales,Sales Manager,42.0,Female,Bachelor's,Divorced,17,1,95225.12,0.9,No,2.0,2.0,3,0,2,Yes,0-1 yrs,1,0
+EMP00187,Finance,Accountant,53.0,Male,Master's,Single,29,0,125673.87,5.5,No,3.0,1.0,3,1,3,No,0-1 yrs,0,0
+EMP00778,Finance,Finance Manager,35.0,Female,Bachelor's,Single,17,5,93502.82,17.4,No,2.0,1.0,4,0,1,No,4-6 yrs,0,0
+EMP01476,Engineering,Engineering Manager,38.0,Female,High School,Married,13,0,93966.21,8.6,No,3.0,4.0,2,0,2,Yes,0-1 yrs,1,0
+EMP01288,Finance,Finance Manager,38.0,Female,Bachelor's,Divorced,16,0,87867.36,0.2,No,1.0,4.0,4,1,1,Yes,0-1 yrs,1,0
+EMP00010,Engineering,QA Engineer,39.0,Male,Bachelor's,Single,17,2,106211.91,4.6,Yes,4.0,1.0,4,0,1,No,2-3 yrs,0,1
+EMP00011,Finance,Financial Analyst,27.0,Female,Bachelor's,Married,4,3,70846.27,10.8,Yes,2.0,1.0,4,1,4,No,2-3 yrs,0,1
+EMP01150,Marketing,Content Specialist,25.0,Female,Bachelor's,Divorced,3,3,67618.29,2.3,No,2.0,2.0,4,0,5,No,2-3 yrs,0,0
+EMP00722,Sales,Sales Executive,23.0,Female,High School,Divorced,0,0,40897.02,8.2,No,2.0,1.0,3,1,3,Yes,0-1 yrs,1,0
+EMP00631,Finance,Finance Manager,21.0,Female,Bachelor's,Divorced,0,0,59016.39,0.8,Yes,2.0,1.0,3,0,2,Yes,0-1 yrs,1,1
+EMP00987,Sales,Account Manager,33.0,Female,Master's,Married,7,1,75729.52,3.0,No,4.0,1.0,2,0,3,No,0-1 yrs,0,0
+EMP00747,Hr,HR Manager,22.0,Female,Bachelor's,Divorced,0,0,52840.02,4.8,Yes,3.0,2.0,4,0,2,No,0-1 yrs,0,1
+EMP01080,Support,Support Executive,26.0,Female,Bachelor's,Single,0,0,38313.64,17.8,Yes,2.0,2.0,4,0,3,Yes,0-1 yrs,1,1
+EMP00556,Hr,HR Executive,24.0,Male,High School,Single,6,0,51938.49,1.7,No,3.0,2.0,2,1,5,Yes,0-1 yrs,1,0
+EMP00290,Sales,Sales Manager,29.0,Male,Master's,Divorced,6,0,76065.68,0.3,Yes,1.0,2.0,3,0,1,Yes,0-1 yrs,1,1
+EMP00729,Support,Support Executive,34.0,Male,Bachelor's,Married,8,0,59346.8,3.2,Yes,1.0,3.0,4,1,0,Yes,0-1 yrs,1,1
+EMP00428,Sales,Sales Manager,42.0,Male,Bachelor's,Divorced,17,0,79944.63,2.1,Yes,2.0,3.0,4,1,4,No,0-1 yrs,0,1
+EMP00562,Sales,Sales Executive,41.0,Female,Bachelor's,Married,19,7,84477.73,22.3,No,4.0,2.0,3,0,3,No,7-10 yrs,0,0
+EMP00794,Marketing,Marketing Executive,31.0,Male,High School,Divorced,10,2,69297.54,1.5,No,3.0,4.0,3,1,4,No,2-3 yrs,0,0
+EMP01009,Hr,HR Executive,35.0,Male,Master's,Single,13,6,80323.75,5.3,No,2.0,4.0,2,1,3,No,4-6 yrs,0,0
+EMP01442,Engineering,Senior Engineer,49.0,Female,Master's,Single,29,8,137525.74,8.8,No,3.0,3.0,4,0,0,Yes,7-10 yrs,1,0
+EMP01062,Finance,Accountant,33.0,Female,Master's,Divorced,12,12,92803.08,11.4,No,3.0,2.0,4,0,4,Yes,10+ yrs,1,0
+EMP00122,Engineering,Software Engineer,21.0,Male,Bachelor's,Single,0,0,69039.42,10.4,No,3.0,2.0,3,0,0,No,0-1 yrs,0,0
+EMP00657,Sales,Account Manager,24.0,Male,PhD,Married,1,1,75298.32,0.5,No,3.0,2.0,4,1,3,Yes,0-1 yrs,1,0
+EMP01078,Finance,Financial Analyst,21.0,Male,Master's,Single,0,0,65748.13,17.6,No,2.0,3.0,2,0,4,Yes,0-1 yrs,1,0
+EMP00768,Support,Support Executive,24.0,Female,Master's,Single,0,0,55350.14,14.1,Yes,1.0,4.0,3,0,4,Yes,0-1 yrs,1,1
+EMP00152,Engineering,Software Engineer,21.0,Male,Bachelor's,Divorced,0,0,73922.94,22.1,No,1.0,2.0,3,0,0,Yes,0-1 yrs,1,0
+EMP01169,Hr,HR Executive,25.0,Female,Master's,Divorced,0,0,60964.89,0.1,No,1.0,3.0,3,1,4,Yes,0-1 yrs,1,0
+EMP00113,Finance,Financial Analyst,38.0,Female,Master's,Married,19,1,105407.8,5.4,Yes,3.0,1.0,3,1,2,Yes,0-1 yrs,1,1
+EMP00834,Marketing,Marketing Executive,44.0,Female,Bachelor's,Divorced,23,2,103369.69,3.2,Yes,4.0,4.0,4,0,3,No,2-3 yrs,0,1
+EMP01180,Support,Support Lead,51.0,Male,Bachelor's,Married,33,0,103902.93,4.2,Yes,3.0,4.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00424,Support,Support Executive,33.0,Female,Bachelor's,Single,11,5,66974.05,22.9,Yes,3.0,2.0,2,1,2,No,4-6 yrs,0,1
+EMP00873,Sales,Sales Executive,35.0,Male,Bachelor's,Divorced,9,9,62613.69,1.2,No,4.0,2.0,3,0,4,No,7-10 yrs,0,0
+EMP00915,Sales,Sales Manager,47.0,Male,Bachelor's,Divorced,19,1,87814.04,2.9,No,1.0,2.0,3,0,3,No,0-1 yrs,0,0
+EMP00919,Support,Support Executive,25.0,Female,High School,Married,0,0,40481.83,23.3,Yes,4.0,3.0,3,1,0,No,0-1 yrs,0,1
+EMP01227,Marketing,Marketing Executive,31.0,Male,Master's,Divorced,7,2,72500.96,1.6,No,1.0,3.0,3,0,5,Yes,2-3 yrs,1,0
+EMP00131,Marketing,Marketing Manager,43.0,Male,Master's,Married,17,11,104125.79,1.8,Yes,3.0,3.0,3,0,4,No,10+ yrs,0,1
+EMP00462,Marketing,Marketing Executive,34.0,Male,Bachelor's,Single,11,11,79839.46,1.9,No,3.0,4.0,3,0,5,No,10+ yrs,0,0
+EMP01330,Support,Support Executive,25.0,Male,Master's,Married,5,2,63702.47,11.5,No,3.0,2.0,4,0,5,Yes,2-3 yrs,1,0
+EMP00851,Marketing,Marketing Manager,32.0,Male,Bachelor's,Divorced,5,0,58933.71,40.4,Yes,3.0,1.0,3,0,0,Yes,0-1 yrs,1,1
+EMP00134,Engineering,QA Engineer,21.0,Female,Bachelor's,Single,0,0,69060.35,14.9,Yes,1.0,3.0,3,1,0,Yes,0-1 yrs,1,1
+EMP00001,Sales,Sales Executive,34.0,Male,Bachelor's,Divorced,13,1,67351.04,15.9,Yes,3.0,2.0,4,0,1,No,0-1 yrs,0,1
+EMP01096,Sales,Sales Manager,33.0,Male,High School,Single,11,0,67210.92,2.9,Yes,1.0,1.0,4,0,3,No,0-1 yrs,0,1
+EMP01216,Finance,Accountant,58.0,Female,Bachelor's,Divorced,40,3,135669.04,2.5,No,4.0,3.0,4,0,4,No,2-3 yrs,0,0
+EMP01451,Engineering,Senior Engineer,28.0,Female,PhD,Married,9,8,107695.74,3.2,No,2.0,3.0,3,0,2,No,7-10 yrs,0,0
+EMP01207,Finance,Financial Analyst,34.0,Female,Master's,Divorced,13,12,89491.68,5.5,No,4.0,3.0,4,0,3,No,10+ yrs,0,0
+EMP00700,Sales,Sales Executive,43.0,Male,Bachelor's,Single,21,3,102657.1,6.1,No,3.0,2.0,3,1,0,No,2-3 yrs,0,0
+EMP01047,Sales,Sales Manager,32.0,Male,Bachelor's,Divorced,14,0,71354.97,10.3,Yes,2.0,4.0,3,0,1,Yes,0-1 yrs,1,1
+EMP00992,Sales,Sales Executive,29.0,Female,Master's,Single,9,1,76279.66,1.5,Yes,2.0,4.0,4,1,3,Yes,0-1 yrs,1,1
+EMP01006,Support,Support Lead,47.0,Male,Bachelor's,Divorced,29,2,108589.17,6.9,No,4.0,2.0,1,0,0,Yes,2-3 yrs,1,0
+EMP01313,Support,Support Lead,43.0,Male,Bachelor's,Divorced,21,0,86802.05,17.9,No,4.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00412,Sales,Account Manager,21.0,Female,Bachelor's,Divorced,0,0,44728.23,1.1,No,2.0,1.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00323,Engineering,QA Engineer,42.0,Female,Bachelor's,Divorced,21,1,83596.3,2.3,No,4.0,1.0,1,1,3,No,0-1 yrs,0,0
+EMP00002,Finance,Accountant,37.0,Male,Master's,Married,6,6,83556.67,4.0,No,1.0,3.0,4,0,3,Yes,4-6 yrs,1,0
+EMP00112,Sales,Account Manager,43.0,Male,High School,Married,23,1,93200.25,34.1,Yes,2.0,3.0,3,0,1,No,0-1 yrs,0,1
+EMP00436,Hr,Recruiter,40.0,Male,Master's,Divorced,18,3,93614.74,9.7,No,2.0,1.0,3,0,5,No,2-3 yrs,0,0
+EMP00957,Engineering,Engineering Manager,35.0,Female,Bachelor's,Single,17,0,87128.91,0.6,No,3.0,3.0,3,0,4,No,0-1 yrs,0,0
+EMP00453,Sales,Account Manager,30.0,Female,High School,Married,4,1,48587.21,19.8,Yes,4.0,3.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00039,Finance,Accountant,34.0,Male,High School,Divorced,6,4,58971.45,0.2,No,1.0,2.0,3,0,0,Yes,4-6 yrs,1,0
+EMP00184,Hr,HR Executive,29.0,Male,Master's,Married,7,2,69925.87,15.2,No,3.0,1.0,3,0,1,Yes,2-3 yrs,1,0
+EMP01125,Marketing,Marketing Manager,34.0,Female,Master's,Divorced,9,0,85764.02,2.5,No,4.0,1.0,3,1,0,No,0-1 yrs,0,0
+EMP00880,Marketing,Content Specialist,26.0,Female,PhD,Married,4,2,88696.84,1.2,No,1.0,1.0,3,0,0,Yes,2-3 yrs,1,0
+EMP00218,Engineering,QA Engineer,26.0,Female,Bachelor's,Single,7,5,90840.8,12.5,No,2.0,4.0,4,1,1,Yes,4-6 yrs,1,0
+EMP01253,Engineering,Senior Engineer,50.0,Female,PhD,Married,22,11,135429.68,1.5,No,2.0,1.0,3,0,3,No,10+ yrs,0,0
+EMP01471,Sales,Sales Executive,36.0,Male,Bachelor's,Single,11,1,75314.2,14.6,No,1.0,2.0,3,1,1,No,0-1 yrs,0,0
+EMP00855,Support,Support Lead,21.0,Male,Master's,Divorced,1,1,52580.11,0.3,No,2.0,3.0,2,0,2,No,0-1 yrs,0,0
+EMP00307,Support,Support Lead,30.0,Male,Master's,Single,11,1,73543.57,3.9,No,4.0,3.0,4,0,3,No,0-1 yrs,0,0
+EMP00730,Marketing,Marketing Manager,28.0,Female,Bachelor's,Single,0,0,51369.45,3.4,No,1.0,1.0,3,1,4,Yes,0-1 yrs,1,0
+EMP00441,Engineering,Senior Engineer,33.0,Male,Master's,Single,15,0,106004.6,2.3,Yes,1.0,1.0,4,1,1,Yes,0-1 yrs,1,1
+EMP01035,Sales,Account Manager,51.0,Female,Bachelor's,Divorced,32,0,109667.48,1.0,Yes,4.0,2.0,2,0,4,No,0-1 yrs,0,1
+EMP00550,Support,Support Lead,43.0,Female,Bachelor's,Single,25,7,92169.27,10.9,No,3.0,1.0,3,1,4,Yes,7-10 yrs,1,0
+EMP00314,Finance,Finance Manager,38.0,Male,PhD,Divorced,15,0,116978.21,0.3,No,3.0,4.0,4,0,1,No,0-1 yrs,0,0
+EMP00970,Hr,HR Manager,21.0,Female,Bachelor's,Married,0,0,35833.73,11.6,No,1.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP01156,Sales,Sales Manager,46.0,Female,Master's,Married,28,5,109607.77,1.1,No,3.0,1.0,3,0,1,Yes,4-6 yrs,1,0
+EMP00701,Support,Support Lead,30.0,Male,Master's,Divorced,1,1,55223.44,1.7,No,2.0,1.0,2,0,4,Yes,0-1 yrs,1,0
+EMP00332,Finance,Accountant,21.0,Male,Bachelor's,Married,0,0,56305.29,1.5,No,2.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00037,Support,Support Executive,42.0,Female,Bachelor's,Divorced,17,11,69297.35,19.4,Yes,2.0,3.0,2,0,3,No,10+ yrs,0,1
+EMP00111,Marketing,Marketing Manager,33.0,Female,Bachelor's,Divorced,15,2,78806.54,5.2,No,3.0,1.0,3,0,1,Yes,2-3 yrs,1,0
+EMP01069,Sales,Sales Executive,45.0,Female,Bachelor's,Single,21,1,89066.63,8.6,No,2.0,3.0,3,0,5,No,0-1 yrs,0,0
+EMP00889,Sales,Account Manager,26.0,Female,Bachelor's,Married,6,2,59782.89,2.5,No,4.0,4.0,3,0,3,No,2-3 yrs,0,0
+EMP01147,Support,Support Lead,40.0,Male,Bachelor's,Single,19,1,75998.19,9.3,No,4.0,2.0,2,0,1,No,0-1 yrs,0,0
+EMP00916,Support,Support Executive,35.0,Male,Bachelor's,Single,15,3,66839.0,14.1,No,1.0,3.0,4,1,4,No,2-3 yrs,0,0
+EMP01224,Support,Support Lead,37.0,Male,Bachelor's,Married,13,3,65452.67,18.1,No,4.0,2.0,3,1,3,No,2-3 yrs,0,0
+EMP00927,Finance,Finance Manager,21.0,Female,Bachelor's,Divorced,0,0,65970.01,5.9,No,4.0,2.0,3,0,5,Yes,0-1 yrs,1,0
+EMP00746,Finance,Financial Analyst,29.0,Female,Bachelor's,Married,5,5,68948.57,42.0,Yes,3.0,2.0,3,0,2,No,4-6 yrs,0,1
+EMP00615,Support,Support Executive,27.0,Male,PhD,Divorced,9,0,86562.63,4.1,Yes,1.0,1.0,4,0,5,Yes,0-1 yrs,1,1
+EMP00776,Support,Support Executive,48.0,Male,Bachelor's,Married,29,0,97312.61,2.3,No,2.0,4.0,4,1,4,No,0-1 yrs,0,0
+EMP01299,Support,Support Lead,27.0,Male,High School,Divorced,5,3,46444.41,8.4,No,4.0,3.0,4,0,1,No,2-3 yrs,0,0
+EMP00714,Marketing,Marketing Manager,23.0,Male,Bachelor's,Divorced,0,0,54572.47,26.5,No,2.0,1.0,2,1,2,No,0-1 yrs,0,0
+EMP00578,Support,Support Lead,27.0,Male,PhD,Divorced,5,2,83562.85,5.3,Yes,4.0,2.0,3,0,1,No,2-3 yrs,0,1
+EMP01251,Finance,Accountant,29.0,Female,Bachelor's,Single,4,2,73370.16,21.0,Yes,3.0,1.0,3,1,5,No,2-3 yrs,0,1
+EMP00434,Support,Support Lead,21.0,Male,Bachelor's,Married,0,0,44559.12,3.7,Yes,3.0,2.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00164,Engineering,Engineering Manager,49.0,Male,High School,Married,19,0,101588.04,4.3,No,2.0,3.0,3,1,2,Yes,0-1 yrs,1,0
+EMP00264,Sales,Sales Executive,43.0,Female,PhD,Married,18,0,97364.44,19.0,No,4.0,4.0,3,0,0,No,0-1 yrs,0,0
+EMP00232,Support,Support Executive,31.0,Female,Master's,Single,5,1,59074.63,20.7,No,1.0,2.0,4,0,2,Yes,0-1 yrs,1,0
+EMP00303,Support,Support Lead,24.0,Female,Bachelor's,Married,6,4,83596.3,2.5,Yes,4.0,3.0,2,0,4,No,4-6 yrs,0,1
+EMP01091,Engineering,Senior Engineer,40.0,Female,Master's,Married,17,11,111307.14,25.6,No,3.0,4.0,3,0,5,Yes,10+ yrs,1,0
+EMP00928,Finance,Finance Manager,50.0,Male,Bachelor's,Single,29,2,118115.9,3.6,No,3.0,2.0,3,1,5,No,2-3 yrs,0,0
+EMP00176,Engineering,Engineering Manager,31.0,Male,Bachelor's,Divorced,13,1,98112.2,4.2,No,3.0,3.0,1,1,4,No,0-1 yrs,0,0
+EMP01389,Engineering,Engineering Manager,26.0,Female,PhD,Single,0,0,92735.59,8.2,No,1.0,2.0,2,1,3,Yes,0-1 yrs,1,0
+EMP00150,Support,Support Lead,21.0,Male,Master's,Married,0,0,55901.57,0.3,No,2.0,2.0,3,0,2,No,0-1 yrs,0,0
+EMP01467,Sales,Sales Executive,39.0,Female,Master's,Married,18,8,88229.12,42.0,No,2.0,3.0,3,0,3,No,7-10 yrs,0,0
+EMP01103,Engineering,Engineering Manager,44.0,Male,Bachelor's,Single,20,2,112153.12,0.3,Yes,1.0,1.0,3,1,1,No,2-3 yrs,0,1
+EMP00072,Engineering,QA Engineer,48.0,Female,Bachelor's,Divorced,29,9,124680.1,1.1,Yes,4.0,1.0,1,0,4,No,7-10 yrs,0,1
+EMP00169,Support,Support Lead,50.0,Male,Bachelor's,Married,30,4,103535.04,0.3,No,3.0,2.0,2,0,4,Yes,4-6 yrs,1,0
+EMP00456,Marketing,Content Specialist,39.0,Male,Bachelor's,Divorced,7,6,69262.56,2.9,Yes,1.0,4.0,3,0,4,No,4-6 yrs,0,1
+EMP00090,Sales,Sales Manager,30.0,Male,Bachelor's,Divorced,2,0,59764.82,18.2,No,4.0,4.0,4,0,5,No,0-1 yrs,0,0
+EMP00118,Finance,Finance Manager,43.0,Male,Master's,Divorced,19,2,104832.01,1.8,No,2.0,1.0,4,0,0,Yes,2-3 yrs,1,0
+EMP00488,Engineering,Engineering Manager,21.0,Male,Bachelor's,Divorced,0,0,72592.38,4.8,No,1.0,2.0,4,0,1,No,0-1 yrs,0,0
+EMP00322,Marketing,Marketing Manager,36.0,Female,Master's,Single,13,13,96353.42,12.5,No,2.0,3.0,3,0,3,No,10+ yrs,0,0
+EMP01341,Marketing,Marketing Executive,34.0,Female,Master's,Divorced,9,3,83007.62,10.4,No,1.0,3.0,3,0,4,No,2-3 yrs,0,0
+EMP01429,Marketing,Content Specialist,40.0,Female,Bachelor's,Single,16,4,91158.81,5.8,No,3.0,2.0,3,1,2,No,4-6 yrs,0,0
+EMP00460,Engineering,Engineering Manager,39.0,Female,Master's,Married,20,4,122312.23,3.8,No,1.0,1.0,3,1,1,No,4-6 yrs,0,0
+EMP01493,Support,Support Lead,59.0,Female,High School,Divorced,36,7,108709.38,5.5,No,4.0,2.0,3,0,2,No,7-10 yrs,0,0
+EMP01106,Engineering,Senior Engineer,47.0,Female,Master's,Divorced,18,5,113275.71,3.4,No,2.0,2.0,3,1,4,No,4-6 yrs,0,0
+EMP01215,Engineering,Engineering Manager,40.0,Female,High School,Divorced,7,1,79369.85,9.2,No,2.0,1.0,3,1,0,Yes,0-1 yrs,1,0
+EMP00242,Hr,HR Manager,40.0,Male,Bachelor's,Divorced,16,0,75940.7,4.4,Yes,3.0,1.0,3,0,0,No,0-1 yrs,0,1
+EMP00699,Support,Support Lead,21.0,Female,Bachelor's,Single,0,0,51119.46,2.3,No,2.0,1.0,4,1,4,No,0-1 yrs,0,0
+EMP00842,Marketing,Marketing Executive,30.0,Male,Bachelor's,Married,2,2,63597.18,31.9,No,4.0,1.0,3,0,2,Yes,2-3 yrs,1,0
+EMP00914,Engineering,Senior Engineer,42.0,Male,Bachelor's,Divorced,20,2,102063.41,2.5,No,2.0,1.0,3,0,2,Yes,2-3 yrs,1,0
+EMP01387,Engineering,QA Engineer,27.0,Female,Bachelor's,Divorced,6,1,81880.99,12.3,No,3.0,4.0,3,1,5,No,0-1 yrs,0,0
+EMP00703,Engineering,QA Engineer,35.0,Female,Master's,Divorced,17,1,115744.34,16.2,Yes,2.0,3.0,3,1,5,No,0-1 yrs,0,1
+EMP01149,Engineering,QA Engineer,27.0,Female,Master's,Single,9,3,98807.99,0.1,No,3.0,4.0,3,0,3,No,2-3 yrs,0,0
+EMP00585,Sales,Account Manager,21.0,Female,Master's,Divorced,0,0,61502.57,0.8,No,3.0,4.0,1,0,3,Yes,0-1 yrs,1,0
+EMP00980,Engineering,Software Engineer,46.0,Male,Bachelor's,Married,20,17,108483.87,2.7,Yes,1.0,4.0,4,0,3,No,10+ yrs,0,1
+EMP00271,Support,Support Executive,34.0,Female,Master's,Single,8,0,65887.69,9.2,Yes,1.0,2.0,3,0,4,Yes,0-1 yrs,1,1
+EMP00596,Finance,Financial Analyst,22.0,Male,Bachelor's,Divorced,0,0,83596.3,1.7,No,1.0,3.0,3,1,0,Yes,0-1 yrs,1,0
+EMP00786,Support,Support Executive,33.0,Female,Bachelor's,Divorced,10,3,54747.73,2.2,No,1.0,2.0,3,0,2,Yes,2-3 yrs,1,0
+EMP00497,Support,Support Lead,42.0,Female,Master's,Divorced,24,5,103953.57,0.3,Yes,3.0,4.0,4,0,1,No,4-6 yrs,0,1
+EMP00221,Marketing,Marketing Executive,40.0,Male,PhD,Single,22,1,113427.57,12.9,No,4.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP00878,Engineering,Engineering Manager,37.0,Male,Master's,Married,18,0,117412.42,7.4,No,1.0,1.0,3,0,2,Yes,0-1 yrs,1,0
+EMP00921,Sales,Sales Manager,42.0,Female,Bachelor's,Married,21,1,85096.85,1.3,Yes,4.0,4.0,3,0,5,No,0-1 yrs,0,1
+EMP01089,Marketing,Marketing Executive,37.0,Female,High School,Married,19,2,87317.78,19.0,No,3.0,1.0,3,0,0,No,2-3 yrs,0,0
+EMP00985,Sales,Sales Executive,43.0,Male,Bachelor's,Single,21,0,78942.32,37.2,No,4.0,1.0,3,1,5,No,0-1 yrs,0,0
+EMP01161,Engineering,QA Engineer,45.0,Male,Bachelor's,Single,25,3,119809.7,3.6,Yes,4.0,2.0,1,0,2,Yes,2-3 yrs,1,1
+EMP00313,Engineering,Senior Engineer,35.0,Male,Bachelor's,Married,12,0,90992.54,21.2,Yes,4.0,4.0,2,0,4,No,0-1 yrs,0,1
+EMP01421,Engineering,QA Engineer,28.0,Male,Bachelor's,Divorced,10,3,89166.3,4.7,No,2.0,4.0,3,0,0,No,2-3 yrs,0,0
+EMP00508,Support,Support Executive,40.0,Female,Bachelor's,Divorced,18,2,81061.68,5.2,Yes,4.0,2.0,3,0,0,No,2-3 yrs,0,1
+EMP00394,Engineering,Engineering Manager,40.0,Female,Bachelor's,Married,19,0,103488.31,0.6,No,4.0,1.0,3,1,3,No,0-1 yrs,0,0
+EMP00410,Engineering,Senior Engineer,21.0,Female,Master's,Married,0,0,91396.87,3.7,No,2.0,4.0,4,1,4,Yes,0-1 yrs,1,0
+EMP00678,Sales,Account Manager,43.0,Female,Bachelor's,Married,22,2,101117.58,3.6,Yes,2.0,3.0,3,0,3,No,2-3 yrs,0,1
+EMP00953,Sales,Sales Executive,37.0,Male,High School,Single,10,1,65168.31,6.5,No,3.0,1.0,4,0,0,Yes,0-1 yrs,1,0
+EMP01440,Sales,Sales Manager,22.0,Male,Bachelor's,Married,0,0,55515.2,11.2,Yes,4.0,2.0,2,0,2,Yes,0-1 yrs,1,1
+EMP00329,Support,Support Lead,43.0,Female,Bachelor's,Married,18,0,90017.21,0.2,No,2.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP01037,Engineering,Senior Engineer,33.0,Male,Bachelor's,Divorced,11,1,86635.2,3.4,No,2.0,3.0,3,0,5,No,0-1 yrs,0,0
+EMP00086,Engineering,Engineering Manager,51.0,Male,Master's,Single,29,1,138197.58,8.0,No,3.0,1.0,3,0,4,No,0-1 yrs,0,0
+EMP00084,Support,Support Executive,24.0,Female,Bachelor's,Divorced,6,1,56935.92,0.9,No,3.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00207,Sales,Sales Executive,32.0,Male,Bachelor's,Divorced,14,1,78082.35,10.0,No,3.0,4.0,3,0,4,No,0-1 yrs,0,0
+EMP00104,Engineering,Senior Engineer,34.0,Female,Master's,Single,11,0,103541.65,6.8,No,3.0,4.0,3,0,1,Yes,0-1 yrs,1,0
+EMP00735,Hr,HR Manager,34.0,Male,Bachelor's,Married,9,1,66351.93,1.6,No,1.0,3.0,2,0,3,No,0-1 yrs,0,0
+EMP00695,Finance,Financial Analyst,27.0,Male,High School,Single,9,2,71847.1,1.9,Yes,3.0,2.0,3,0,0,No,2-3 yrs,0,1
+EMP00498,Engineering,Engineering Manager,26.0,Male,Master's,Married,5,1,97284.93,5.1,No,1.0,3.0,4,0,2,Yes,0-1 yrs,1,0
+EMP00328,Support,Support Lead,43.0,Female,Master's,Single,15,3,91487.58,8.5,Yes,3.0,4.0,3,0,2,No,2-3 yrs,0,1
+EMP01265,Support,Support Lead,33.0,Female,Bachelor's,Divorced,15,5,82862.95,1.0,No,4.0,3.0,3,1,3,No,4-6 yrs,0,0
+EMP00661,Engineering,Software Engineer,32.0,Male,Bachelor's,Married,5,5,77910.93,4.3,Yes,2.0,4.0,4,0,0,No,4-6 yrs,0,1
+EMP00347,Sales,Account Manager,48.0,Male,PhD,Married,30,1,133426.47,1.4,No,4.0,2.0,2,0,0,Yes,0-1 yrs,1,0
+EMP00211,Marketing,Marketing Executive,48.0,Male,High School,Married,25,5,90927.34,5.5,Yes,1.0,1.0,3,0,2,Yes,4-6 yrs,1,1
+EMP00568,Engineering,Senior Engineer,35.0,Male,Master's,Married,13,4,102484.88,0.8,No,4.0,1.0,2,0,5,No,4-6 yrs,0,0
+EMP00143,Finance,Finance Manager,46.0,Female,Bachelor's,Married,28,3,115210.58,6.7,No,4.0,4.0,2,0,0,No,2-3 yrs,0,0
+EMP00515,Hr,HR Executive,50.0,Female,Bachelor's,Divorced,24,0,92915.53,2.6,No,2.0,4.0,2,0,2,No,0-1 yrs,0,0
+EMP01029,Sales,Sales Manager,33.0,Female,Bachelor's,Single,10,2,70144.49,11.3,Yes,2.0,2.0,4,0,1,No,2-3 yrs,0,1
+EMP00865,Hr,Recruiter,29.0,Female,Bachelor's,Divorced,9,0,64553.05,21.9,No,2.0,1.0,3,0,0,Yes,0-1 yrs,1,0
+EMP00892,Engineering,Software Engineer,21.0,Female,Master's,Divorced,0,0,83596.3,2.6,Yes,2.0,2.0,3,0,4,No,0-1 yrs,0,1
+EMP00815,Sales,Account Manager,36.0,Female,Bachelor's,Divorced,17,0,83596.3,15.0,No,1.0,2.0,4,0,2,No,0-1 yrs,0,0
+EMP01140,Support,Support Executive,32.0,Female,High School,Divorced,8,5,49284.64,7.1,No,2.0,2.0,4,0,5,Yes,4-6 yrs,1,0
+EMP00564,Hr,HR Manager,22.0,Male,Master's,Divorced,0,0,65322.76,13.7,No,4.0,1.0,3,0,3,Yes,0-1 yrs,1,0
+EMP01086,Support,Support Lead,35.0,Male,Master's,Single,8,0,71373.67,0.1,No,4.0,3.0,4,1,1,No,0-1 yrs,0,0
+EMP00372,Marketing,Marketing Executive,36.0,Female,Master's,Married,16,4,98160.65,3.1,Yes,1.0,3.0,4,0,3,Yes,4-6 yrs,1,1
+EMP01012,Marketing,Marketing Manager,29.0,Male,High School,Divorced,4,4,58148.84,1.0,Yes,1.0,4.0,3,0,1,No,4-6 yrs,0,1
+EMP00891,Engineering,Software Engineer,57.0,Female,Bachelor's,Divorced,39,0,144002.37,11.5,No,1.0,4.0,3,1,3,No,0-1 yrs,0,0
+EMP00684,Support,Support Executive,31.0,Female,High School,Married,4,4,50211.66,1.4,No,1.0,2.0,4,0,4,No,4-6 yrs,0,0
+EMP00633,Support,Support Executive,29.0,Male,Bachelor's,Married,10,0,60062.66,2.4,No,2.0,1.0,2,1,4,No,0-1 yrs,0,0
+EMP00195,Engineering,Engineering Manager,21.0,Male,Master's,Divorced,3,1,92297.72,10.8,No,2.0,3.0,3,0,4,Yes,0-1 yrs,1,0
+EMP00514,Support,Support Executive,21.0,Female,Master's,Married,3,3,65683.11,1.3,No,1.0,2.0,4,0,3,Yes,2-3 yrs,1,0
+EMP00210,Engineering,QA Engineer,45.0,Male,Bachelor's,Divorced,27,9,114801.1,3.9,Yes,2.0,4.0,3,0,0,No,7-10 yrs,0,1
+EMP01001,Sales,Sales Executive,46.0,Female,Bachelor's,Single,21,0,81130.17,7.0,No,3.0,1.0,4,0,4,Yes,0-1 yrs,1,0
+EMP00636,Sales,Account Manager,21.0,Female,Bachelor's,Single,3,3,53186.29,4.9,No,3.0,1.0,3,0,2,No,2-3 yrs,0,0
+EMP00088,Hr,HR Executive,29.0,Female,Bachelor's,Divorced,10,10,66554.59,20.2,No,4.0,2.0,3,0,1,Yes,7-10 yrs,1,0
+EMP01192,Engineering,Engineering Manager,34.0,Male,Bachelor's,Married,9,7,87760.76,2.5,No,2.0,3.0,3,0,0,No,7-10 yrs,0,0
+EMP00910,Sales,Account Manager,38.0,Male,Master's,Single,12,0,82569.65,1.8,No,1.0,4.0,2,1,5,Yes,0-1 yrs,1,0
+EMP00191,Engineering,Senior Engineer,35.0,Female,High School,Divorced,13,2,90703.9,2.7,Yes,4.0,4.0,1,1,2,No,2-3 yrs,0,1
+EMP00179,Engineering,Senior Engineer,55.0,Female,Bachelor's,Divorced,26,2,123841.21,5.8,No,3.0,2.0,3,1,3,No,2-3 yrs,0,0
+EMP00557,Engineering,Engineering Manager,32.0,Female,Master's,Divorced,7,0,79949.21,5.2,Yes,2.0,3.0,3,0,5,Yes,0-1 yrs,1,1
+EMP01314,Sales,Sales Manager,29.0,Male,Master's,Married,7,2,73771.94,5.3,No,3.0,1.0,2,0,3,Yes,2-3 yrs,1,0
+EMP01411,Sales,Account Manager,38.0,Male,High School,Single,16,0,69014.94,0.2,Yes,2.0,1.0,4,1,5,No,0-1 yrs,0,1
+EMP01126,Support,Support Executive,35.0,Female,PhD,Married,14,0,101217.86,4.1,Yes,4.0,3.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00745,Support,Support Lead,34.0,Male,PhD,Single,11,9,81715.22,18.4,No,4.0,2.0,4,0,0,Yes,7-10 yrs,1,0
+EMP01143,Support,Support Lead,42.0,Female,Bachelor's,Divorced,21,7,74976.4,15.9,No,2.0,3.0,4,0,3,No,7-10 yrs,0,0
+EMP00512,Marketing,Marketing Executive,24.0,Female,Master's,Single,0,0,67630.01,1.6,Yes,2.0,4.0,3,0,2,No,0-1 yrs,0,1
+EMP01268,Support,Support Lead,29.0,Male,Master's,Divorced,11,6,76543.69,4.0,Yes,3.0,2.0,4,0,2,No,4-6 yrs,0,1
+EMP00472,Hr,Recruiter,46.0,Male,Bachelor's,Single,21,2,81916.86,21.6,No,3.0,2.0,3,0,1,No,2-3 yrs,0,0
+EMP00399,Finance,Accountant,50.0,Female,Master's,Single,17,8,110562.93,3.2,No,4.0,4.0,3,0,4,No,7-10 yrs,0,0
+EMP00036,Engineering,QA Engineer,32.0,Male,Bachelor's,Married,8,7,89232.13,7.2,No,3.0,3.0,3,0,0,No,7-10 yrs,0,0
+EMP00206,Support,Support Executive,32.0,Female,Bachelor's,Married,8,6,61954.3,4.4,No,4.0,1.0,3,0,4,No,4-6 yrs,0,0
+EMP00609,Sales,Account Manager,36.0,Female,High School,Married,10,1,69937.91,2.5,No,1.0,2.0,4,0,0,Yes,0-1 yrs,1,0
+EMP01312,Engineering,QA Engineer,30.0,Male,Master's,Single,1,1,92721.99,0.8,No,4.0,4.0,2,0,5,No,0-1 yrs,0,0
+EMP01130,Marketing,Marketing Executive,31.0,Male,Bachelor's,Divorced,7,3,69200.27,6.1,No,4.0,2.0,3,0,3,No,2-3 yrs,0,0
+EMP01068,Sales,Sales Manager,26.0,Female,Master's,Married,1,1,69368.49,3.5,No,2.0,1.0,3,0,3,Yes,0-1 yrs,1,0
+EMP00430,Engineering,QA Engineer,37.0,Male,Master's,Divorced,17,9,116689.04,0.2,No,3.0,3.0,4,0,5,No,7-10 yrs,0,0
+EMP01258,Engineering,QA Engineer,35.0,Male,Master's,Single,14,3,98111.4,28.3,Yes,3.0,1.0,3,0,2,No,2-3 yrs,0,1
+EMP00229,Sales,Account Manager,39.0,Female,Bachelor's,Divorced,6,2,66505.09,21.5,Yes,4.0,1.0,4,0,2,Yes,2-3 yrs,1,1
+EMP01004,Hr,HR Executive,28.0,Female,Bachelor's,Married,7,7,65350.7,1.4,No,4.0,4.0,3,0,1,No,7-10 yrs,0,0
+EMP01030,Finance,Financial Analyst,39.0,Female,PhD,Single,16,0,83596.3,2.4,Yes,2.0,4.0,3,0,5,Yes,0-1 yrs,1,1
+EMP01488,Finance,Finance Manager,27.0,Male,Master's,Married,4,4,83373.67,8.6,No,1.0,4.0,2,0,0,Yes,4-6 yrs,1,0
+EMP00170,Marketing,Marketing Manager,28.0,Male,High School,Divorced,0,0,44264.29,9.0,No,3.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00728,Engineering,Senior Engineer,58.0,Male,Bachelor's,Divorced,35,3,137710.24,3.1,No,3.0,2.0,4,0,3,No,2-3 yrs,0,0
+EMP00319,Sales,Account Manager,21.0,Male,Bachelor's,Single,0,0,58105.55,1.8,No,4.0,3.0,3,1,3,No,0-1 yrs,0,0
+EMP00630,Support,Support Lead,48.0,Male,Bachelor's,Married,27,0,101459.62,1.8,Yes,3.0,3.0,4,0,1,Yes,0-1 yrs,1,1
+EMP00926,Marketing,Content Specialist,39.0,Female,Master's,Single,18,13,104560.88,16.0,No,1.0,1.0,4,1,3,No,10+ yrs,0,0
+EMP00894,Finance,Finance Manager,34.0,Male,High School,Divorced,16,8,70782.67,1.2,No,3.0,2.0,3,0,5,Yes,7-10 yrs,1,0
+EMP01020,Sales,Sales Manager,37.0,Male,Bachelor's,Married,13,4,78585.61,3.9,No,1.0,3.0,3,0,4,No,4-6 yrs,0,0
+EMP01407,Engineering,Software Engineer,32.0,Male,Bachelor's,Divorced,12,7,87481.88,4.8,Yes,1.0,3.0,3,0,2,No,7-10 yrs,0,1
+EMP00035,Sales,Sales Manager,33.0,Female,Master's,Single,15,1,93864.99,6.7,No,3.0,1.0,3,0,4,No,0-1 yrs,0,0
+EMP00076,Hr,HR Manager,44.0,Female,High School,Divorced,25,6,87445.52,5.9,No,1.0,4.0,3,1,4,No,4-6 yrs,0,0
+EMP00174,Hr,HR Executive,48.0,Female,High School,Divorced,22,0,84724.19,3.3,No,4.0,4.0,4,0,0,No,0-1 yrs,0,0
+EMP01395,Sales,Sales Manager,23.0,Male,Bachelor's,Married,3,3,63741.66,2.0,Yes,3.0,4.0,4,1,5,No,2-3 yrs,0,1
+EMP01076,Support,Support Executive,41.0,Female,High School,Married,17,1,69017.11,0.0,No,3.0,1.0,2,1,5,No,0-1 yrs,0,0
+EMP01225,Support,Support Executive,28.0,Female,High School,Single,4,1,36939.09,11.1,No,2.0,3.0,3,0,3,No,0-1 yrs,0,0
+EMP01354,Sales,Sales Executive,26.0,Female,Bachelor's,Divorced,0,0,42371.63,1.1,No,4.0,3.0,4,0,5,No,0-1 yrs,0,0
+EMP01452,Engineering,Senior Engineer,35.0,Female,Bachelor's,Single,16,3,104221.0,13.2,No,2.0,1.0,1,0,3,No,2-3 yrs,0,0
+EMP00748,Marketing,Marketing Manager,46.0,Male,Master's,Single,23,0,83596.3,0.7,No,3.0,2.0,2,1,0,No,0-1 yrs,0,0
+EMP00509,Support,Support Executive,21.0,Male,Master's,Married,0,0,59528.48,0.3,No,3.0,3.0,3,0,0,No,0-1 yrs,0,0
+EMP00711,Finance,Accountant,32.0,Female,Bachelor's,Divorced,7,4,72509.98,3.1,No,1.0,4.0,2,1,4,No,4-6 yrs,0,0
+EMP00608,Sales,Account Manager,51.0,Female,PhD,Divorced,26,0,117899.72,3.3,No,2.0,3.0,4,0,1,No,0-1 yrs,0,0
+EMP00388,Marketing,Marketing Executive,45.0,Female,Bachelor's,Divorced,22,1,94849.16,3.4,No,2.0,2.0,3,0,2,Yes,0-1 yrs,1,0
+EMP01118,Engineering,Software Engineer,21.0,Female,Bachelor's,Single,0,0,74646.24,0.5,No,4.0,1.0,2,0,5,No,0-1 yrs,0,0
+EMP01492,Engineering,Software Engineer,40.0,Male,Master's,Divorced,13,4,112518.6,3.0,No,1.0,2.0,3,1,0,No,4-6 yrs,0,0
+EMP00752,Hr,HR Executive,31.0,Male,High School,Married,8,8,54995.28,3.0,Yes,1.0,3.0,2,0,2,No,7-10 yrs,0,1
+EMP00912,Engineering,Engineering Manager,33.0,Male,Bachelor's,Single,15,5,105697.0,1.8,No,1.0,4.0,4,0,0,Yes,4-6 yrs,1,0
+EMP00149,Support,Support Lead,34.0,Male,Bachelor's,Divorced,13,0,65420.09,14.4,No,2.0,3.0,4,1,1,Yes,0-1 yrs,1,0
+EMP00754,Support,Support Lead,21.0,Female,Master's,Married,0,0,54689.29,2.1,No,1.0,2.0,3,0,0,Yes,0-1 yrs,1,0
+EMP00403,Engineering,Software Engineer,42.0,Female,Bachelor's,Married,23,8,113482.23,3.4,Yes,4.0,4.0,3,0,0,No,7-10 yrs,0,1
+EMP00341,Marketing,Marketing Executive,36.0,Female,Bachelor's,Married,13,1,77298.87,7.6,Yes,3.0,1.0,3,0,1,No,0-1 yrs,0,1
+EMP01257,Finance,Finance Manager,27.0,Female,Bachelor's,Single,6,2,72634.42,4.5,No,4.0,2.0,4,0,5,No,2-3 yrs,0,0
+EMP00988,Engineering,QA Engineer,24.0,Female,Bachelor's,Single,1,1,70129.05,20.6,Yes,3.0,4.0,3,1,5,Yes,0-1 yrs,1,1
+EMP00201,Marketing,Marketing Executive,47.0,Female,High School,Married,27,1,98147.64,19.7,No,1.0,4.0,4,0,1,No,0-1 yrs,0,0
+EMP01116,Hr,HR Executive,27.0,Female,Bachelor's,Divorced,3,0,52489.81,8.4,No,2.0,2.0,2,0,1,No,0-1 yrs,0,0
+EMP00733,Finance,Finance Manager,34.0,Male,Bachelor's,Married,11,1,70145.61,9.4,No,3.0,1.0,3,0,2,Yes,0-1 yrs,1,0
+EMP00541,Marketing,Marketing Manager,27.0,Male,Master's,Divorced,3,1,71246.54,14.9,No,2.0,4.0,3,1,2,No,0-1 yrs,0,0
+EMP00692,Sales,Sales Executive,39.0,Female,PhD,Divorced,18,3,83596.3,1.6,No,3.0,2.0,4,1,1,Yes,2-3 yrs,1,0
+EMP00610,Marketing,Marketing Executive,34.0,Female,Bachelor's,Divorced,13,0,86388.59,0.3,No,2.0,4.0,3,0,0,No,0-1 yrs,0,0
+EMP00331,Sales,Sales Manager,23.0,Male,Bachelor's,Divorced,4,0,60333.93,4.6,No,1.0,1.0,3,0,5,No,0-1 yrs,0,0
+EMP00956,Marketing,Content Specialist,40.0,Male,Bachelor's,Single,22,8,102413.95,5.2,No,2.0,2.0,3,0,2,No,7-10 yrs,0,0
+EMP00281,Engineering,Software Engineer,47.0,Female,Bachelor's,Single,28,1,130611.52,2.6,No,3.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP00411,Support,Support Executive,33.0,Female,Bachelor's,Married,5,2,50212.03,29.9,Yes,1.0,3.0,4,1,2,No,2-3 yrs,0,1
+EMP01201,Engineering,Engineering Manager,33.0,Male,Bachelor's,Divorced,10,10,88925.15,6.8,Yes,4.0,2.0,3,0,2,Yes,7-10 yrs,1,1
+EMP01305,Support,Support Executive,47.0,Female,Master's,Married,26,7,96332.58,1.7,No,2.0,3.0,3,0,0,No,7-10 yrs,0,0
+EMP00688,Sales,Sales Executive,21.0,Female,High School,Married,0,0,42729.44,1.5,No,4.0,2.0,4,0,4,No,0-1 yrs,0,0
+EMP00336,Sales,Account Manager,39.0,Male,Bachelor's,Married,11,0,66019.19,18.1,No,3.0,4.0,3,1,5,No,0-1 yrs,0,0
+EMP00643,Hr,HR Manager,29.0,Male,Bachelor's,Single,8,0,73300.81,5.0,No,3.0,4.0,2,1,3,No,0-1 yrs,0,0
+EMP00315,Marketing,Marketing Manager,34.0,Male,Bachelor's,Divorced,7,6,77222.05,0.3,Yes,1.0,4.0,2,1,4,Yes,4-6 yrs,1,1
+EMP00783,Finance,Finance Manager,39.0,Male,High School,Single,12,3,71948.31,4.1,Yes,2.0,2.0,1,0,3,Yes,2-3 yrs,1,1
+EMP01199,Engineering,Senior Engineer,37.0,Female,Master's,Single,13,4,113473.51,23.5,No,2.0,1.0,3,0,3,Yes,4-6 yrs,1,0
+EMP01461,Finance,Accountant,30.0,Male,Bachelor's,Married,9,9,78655.27,16.6,No,4.0,3.0,3,0,0,No,7-10 yrs,0,0
+EMP01457,Marketing,Marketing Manager,34.0,Female,Bachelor's,Married,6,3,65515.1,6.8,No,4.0,3.0,4,0,5,No,2-3 yrs,0,0
+EMP01326,Support,Support Executive,32.0,Female,Bachelor's,Divorced,7,0,56212.58,14.4,Yes,1.0,2.0,3,0,5,Yes,0-1 yrs,1,1
+EMP00093,Engineering,QA Engineer,43.0,Female,Bachelor's,Divorced,22,3,113970.11,18.7,No,2.0,3.0,4,0,5,No,2-3 yrs,0,0
+EMP00835,Hr,Recruiter,44.0,Female,Bachelor's,Single,24,2,90153.15,18.6,No,2.0,4.0,4,0,1,No,2-3 yrs,0,0
+EMP00593,Engineering,Software Engineer,27.0,Male,Bachelor's,Single,9,2,80484.68,8.2,No,2.0,2.0,3,1,4,Yes,2-3 yrs,1,0
+EMP01491,Support,Support Executive,50.0,Female,High School,Single,19,5,72787.64,4.5,No,3.0,4.0,3,0,2,No,4-6 yrs,0,0
+EMP00395,Sales,Account Manager,37.0,Male,Bachelor's,Married,17,6,76605.06,6.4,Yes,3.0,2.0,4,0,3,Yes,4-6 yrs,1,1
+EMP01317,Engineering,Software Engineer,36.0,Male,Master's,Single,15,6,112630.99,7.6,No,2.0,3.0,3,1,0,Yes,4-6 yrs,1,0
+EMP01070,Engineering,Senior Engineer,28.0,Male,Bachelor's,Divorced,8,0,85393.03,2.3,Yes,2.0,3.0,3,0,0,Yes,0-1 yrs,1,1
+EMP00576,Hr,HR Manager,24.0,Female,Bachelor's,Single,0,0,49324.7,37.4,No,2.0,1.0,1,0,0,No,0-1 yrs,0,0
+EMP00574,Sales,Account Manager,21.0,Female,Bachelor's,Single,0,0,57987.97,2.6,No,4.0,1.0,4,0,4,No,0-1 yrs,0,0
+EMP01405,Hr,HR Executive,44.0,Male,Bachelor's,Divorced,25,13,91646.43,0.7,Yes,1.0,4.0,1,0,2,Yes,10+ yrs,1,1
+EMP00736,Support,Support Executive,35.0,Male,Bachelor's,Single,8,3,56155.9,10.3,No,4.0,3.0,3,0,5,No,2-3 yrs,0,0
+EMP01360,Sales,Sales Executive,31.0,Female,PhD,Married,0,0,63786.88,7.2,No,1.0,2.0,3,0,3,No,0-1 yrs,0,0
+EMP00280,Sales,Sales Manager,37.0,Male,Bachelor's,Divorced,9,9,81754.65,15.1,No,1.0,1.0,3,0,5,No,7-10 yrs,0,0
+EMP00338,Sales,Sales Manager,25.0,Female,Bachelor's,Divorced,5,4,62413.5,31.0,No,3.0,4.0,3,0,1,No,4-6 yrs,0,0
+EMP00228,Engineering,Software Engineer,26.0,Female,Bachelor's,Married,2,2,81800.53,1.5,No,2.0,3.0,4,1,5,Yes,2-3 yrs,1,0
+EMP00009,Engineering,QA Engineer,32.0,Male,Bachelor's,Single,14,8,96889.34,13.7,No,3.0,2.0,3,1,1,No,7-10 yrs,0,0
+EMP01110,Engineering,Engineering Manager,25.0,Male,Master's,Single,1,1,76562.54,4.2,Yes,2.0,2.0,3,0,2,No,0-1 yrs,0,1
+EMP01318,Engineering,Software Engineer,50.0,Female,Bachelor's,Married,26,1,119741.47,4.1,No,4.0,1.0,3,0,3,Yes,0-1 yrs,1,0
+EMP01194,Engineering,Software Engineer,55.0,Female,High School,Divorced,29,2,113189.66,3.5,Yes,1.0,4.0,4,0,5,No,2-3 yrs,0,1
+EMP00069,Marketing,Marketing Executive,38.0,Male,Master's,Single,20,1,102672.71,7.4,No,2.0,1.0,4,0,3,No,0-1 yrs,0,0
+EMP01394,Engineering,Software Engineer,36.0,Female,Bachelor's,Married,10,1,90497.3,0.8,No,3.0,1.0,3,0,5,No,0-1 yrs,0,0
+EMP01121,Finance,Finance Manager,32.0,Female,Master's,Married,4,4,74591.59,4.5,No,2.0,4.0,3,0,1,Yes,4-6 yrs,1,0
+EMP01146,Marketing,Content Specialist,40.0,Female,Master's,Single,14,0,88744.76,6.0,No,3.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP01181,Sales,Account Manager,44.0,Male,Bachelor's,Single,22,7,89821.12,20.4,No,2.0,3.0,4,0,3,No,7-10 yrs,0,0
+EMP01320,Engineering,Engineering Manager,45.0,Female,High School,Single,27,0,121852.65,0.6,No,3.0,1.0,2,0,2,No,0-1 yrs,0,0
+EMP01217,Engineering,QA Engineer,48.0,Female,Bachelor's,Married,22,0,100950.81,5.5,No,3.0,4.0,3,0,3,No,0-1 yrs,0,0
+EMP00025,Marketing,Content Specialist,24.0,Male,High School,Divorced,6,6,50341.02,1.4,No,1.0,3.0,3,0,5,No,4-6 yrs,0,0
+EMP00634,Sales,Sales Executive,41.0,Female,Bachelor's,Divorced,22,2,83596.3,6.6,No,4.0,2.0,3,0,5,No,2-3 yrs,0,0
+EMP00471,Hr,Recruiter,31.0,Female,Bachelor's,Married,12,10,71010.62,4.1,No,2.0,4.0,4,1,4,No,7-10 yrs,0,0
+EMP00558,Sales,Sales Executive,21.0,Male,Master's,Single,0,0,63724.4,15.8,No,2.0,2.0,3,0,4,Yes,0-1 yrs,1,0
+EMP00294,Engineering,Software Engineer,33.0,Male,Master's,Single,8,4,101423.91,0.2,No,3.0,4.0,3,0,1,No,4-6 yrs,0,0
+EMP00773,Marketing,Marketing Executive,32.0,Male,Master's,Single,10,3,84689.74,13.9,No,3.0,3.0,3,1,1,No,2-3 yrs,0,0
+EMP01447,Engineering,QA Engineer,22.0,Male,Bachelor's,Married,0,0,76478.02,17.1,Yes,4.0,2.0,4,1,5,No,0-1 yrs,0,1
+EMP01189,Hr,HR Executive,45.0,Female,PhD,Married,27,3,113037.13,1.5,No,2.0,3.0,4,1,5,Yes,2-3 yrs,1,0
+EMP01023,Engineering,QA Engineer,21.0,Female,Master's,Single,3,3,93456.61,2.8,No,3.0,1.0,4,1,3,Yes,2-3 yrs,1,0
+EMP00121,Engineering,QA Engineer,37.0,Male,Bachelor's,Married,19,13,117192.84,33.1,Yes,4.0,4.0,4,1,5,Yes,10+ yrs,1,1
+EMP00906,Engineering,Software Engineer,57.0,Male,Master's,Divorced,27,1,135388.07,4.9,No,4.0,2.0,3,0,2,Yes,0-1 yrs,1,0
+EMP00511,Marketing,Content Specialist,35.0,Male,Bachelor's,Single,15,6,88890.65,9.2,No,4.0,2.0,3,0,0,No,4-6 yrs,0,0
+EMP00180,Marketing,Marketing Manager,26.0,Male,Master's,Single,6,1,71003.39,0.4,No,2.0,4.0,3,1,5,Yes,0-1 yrs,1,0
+EMP01094,Support,Support Lead,29.0,Male,Bachelor's,Married,5,5,55959.0,3.0,No,2.0,4.0,3,1,2,No,4-6 yrs,0,0
+EMP01184,Finance,Accountant,32.0,Female,Master's,Married,13,0,99131.22,10.1,No,3.0,2.0,3,0,1,No,0-1 yrs,0,0
+EMP00816,Sales,Sales Executive,21.0,Female,Master's,Divorced,3,0,68758.65,5.0,No,4.0,3.0,3,1,2,No,0-1 yrs,0,0
+EMP01478,Marketing,Marketing Manager,48.0,Female,Master's,Divorced,29,6,119616.7,8.4,Yes,3.0,4.0,3,0,3,No,4-6 yrs,0,1
+EMP00864,Sales,Sales Executive,38.0,Female,Master's,Married,18,6,83596.3,2.1,Yes,4.0,4.0,2,0,2,No,4-6 yrs,0,1
+EMP01083,Engineering,Software Engineer,21.0,Female,Bachelor's,Divorced,0,0,65684.15,1.7,No,4.0,3.0,4,0,4,No,0-1 yrs,0,0
+EMP01337,Support,Support Lead,40.0,Male,Master's,Married,22,0,102749.44,2.8,No,4.0,4.0,1,0,4,Yes,0-1 yrs,1,0
+EMP00381,Engineering,QA Engineer,21.0,Male,Master's,Married,0,0,81597.68,1.2,No,4.0,1.0,3,1,5,No,0-1 yrs,0,0
+EMP00605,Sales,Sales Manager,56.0,Female,Bachelor's,Divorced,28,0,105186.86,6.3,No,4.0,3.0,3,0,2,Yes,0-1 yrs,1,0
+EMP01252,Engineering,Senior Engineer,38.0,Male,Master's,Single,20,4,117538.34,10.8,No,3.0,3.0,2,0,4,Yes,4-6 yrs,1,0
+EMP01333,Engineering,Senior Engineer,44.0,Female,Bachelor's,Divorced,16,2,104605.23,2.7,No,4.0,2.0,2,0,2,No,2-3 yrs,0,0
+EMP00551,Engineering,Senior Engineer,36.0,Female,Master's,Single,8,5,90156.21,15.1,Yes,4.0,1.0,3,0,4,Yes,4-6 yrs,1,1
+EMP01172,Hr,Recruiter,24.0,Female,Master's,Single,0,0,61696.41,13.6,No,4.0,1.0,3,1,5,No,0-1 yrs,0,0
+EMP00252,Engineering,Senior Engineer,46.0,Male,Bachelor's,Married,18,8,117818.7,18.7,Yes,3.0,4.0,3,1,5,No,7-10 yrs,0,1
+EMP01437,Sales,Account Manager,38.0,Female,Bachelor's,Divorced,12,1,68488.56,2.5,Yes,4.0,2.0,4,0,2,No,0-1 yrs,0,1
+EMP00213,Engineering,Software Engineer,45.0,Female,High School,Married,16,1,93938.67,7.2,No,4.0,1.0,4,0,2,No,0-1 yrs,0,0
+EMP01304,Sales,Sales Manager,33.0,Male,Master's,Single,15,1,100133.25,2.4,No,2.0,2.0,3,1,0,No,0-1 yrs,0,0
+EMP00433,Support,Support Executive,30.0,Female,PhD,Divorced,11,1,88311.82,0.5,No,4.0,4.0,3,1,3,No,0-1 yrs,0,0
+EMP00277,Marketing,Marketing Executive,23.0,Male,Bachelor's,Divorced,5,5,69443.75,1.0,No,4.0,1.0,3,0,4,No,4-6 yrs,0,0
+EMP01359,Marketing,Marketing Manager,25.0,Male,Bachelor's,Single,0,0,47850.42,3.5,No,1.0,2.0,2,0,0,Yes,0-1 yrs,1,0
+EMP00292,Marketing,Marketing Manager,35.0,Female,Bachelor's,Divorced,12,1,83596.3,1.6,No,2.0,4.0,3,1,3,No,0-1 yrs,0,0
+EMP00902,Sales,Account Manager,35.0,Male,Bachelor's,Divorced,17,2,85099.28,4.4,No,4.0,3.0,3,0,2,Yes,2-3 yrs,1,0
+EMP00449,Sales,Sales Executive,50.0,Male,Bachelor's,Married,25,2,93130.6,1.3,Yes,4.0,1.0,3,1,0,Yes,2-3 yrs,1,1
+EMP01399,Engineering,Engineering Manager,45.0,Female,Bachelor's,Single,27,8,130081.51,9.0,No,2.0,1.0,3,1,1,No,7-10 yrs,0,0
+EMP01348,Hr,Recruiter,29.0,Male,Bachelor's,Single,1,1,44298.85,27.3,No,4.0,1.0,4,1,1,No,0-1 yrs,0,0
+EMP00304,Support,Support Executive,45.0,Male,Master's,Divorced,21,2,97311.38,0.3,No,3.0,2.0,4,1,0,No,2-3 yrs,0,0
+EMP01308,Engineering,Engineering Manager,28.0,Female,Bachelor's,Divorced,1,1,73808.49,8.4,Yes,3.0,3.0,3,0,2,No,0-1 yrs,0,1
+EMP01430,Sales,Sales Executive,43.0,Female,Master's,Married,23,6,95086.52,4.1,Yes,3.0,1.0,3,1,4,No,4-6 yrs,0,1
+EMP00941,Marketing,Content Specialist,25.0,Male,Master's,Single,3,0,75242.24,32.1,Yes,2.0,1.0,4,0,1,Yes,0-1 yrs,1,1
+EMP00068,Engineering,Engineering Manager,39.0,Male,Bachelor's,Divorced,14,5,97191.99,11.8,No,2.0,2.0,4,0,2,No,4-6 yrs,0,0
+EMP00020,Sales,Sales Manager,22.0,Male,Bachelor's,Divorced,4,4,63202.03,3.8,No,3.0,4.0,3,0,5,No,4-6 yrs,0,0
+EMP00325,Sales,Account Manager,37.0,Male,Bachelor's,Divorced,13,6,78002.0,5.0,No,2.0,2.0,3,1,3,Yes,4-6 yrs,1,0
+EMP01398,Hr,HR Executive,38.0,Female,Bachelor's,Single,20,0,86241.16,0.1,No,4.0,4.0,4,0,2,No,0-1 yrs,0,0
+EMP00055,Hr,Recruiter,29.0,Male,High School,Single,6,2,56317.95,2.5,Yes,3.0,2.0,3,0,1,No,2-3 yrs,0,1
+EMP00964,Hr,Recruiter,21.0,Female,Bachelor's,Divorced,0,0,44405.21,4.0,No,3.0,3.0,3,0,3,No,0-1 yrs,0,0
+EMP00932,Engineering,Engineering Manager,40.0,Female,Master's,Married,22,0,115852.48,20.2,No,3.0,2.0,3,1,3,No,0-1 yrs,0,0
+EMP01434,Engineering,Engineering Manager,47.0,Male,Bachelor's,Single,21,0,111995.31,13.7,No,1.0,3.0,2,0,3,Yes,0-1 yrs,1,0
+EMP00151,Sales,Sales Manager,23.0,Female,Master's,Divorced,5,5,73119.05,3.9,Yes,4.0,3.0,3,0,4,No,4-6 yrs,0,1
+EMP01269,Support,Support Executive,43.0,Male,Master's,Single,20,6,83243.92,7.3,No,1.0,2.0,3,1,3,Yes,4-6 yrs,1,0
+EMP01122,Marketing,Content Specialist,43.0,Female,Master's,Single,17,4,100623.48,2.8,Yes,1.0,2.0,3,0,0,Yes,4-6 yrs,1,1
+EMP01278,Engineering,Engineering Manager,37.0,Female,Bachelor's,Divorced,17,1,112366.7,29.9,No,1.0,3.0,4,1,1,No,0-1 yrs,0,0
+EMP01131,Sales,Account Manager,51.0,Male,High School,Married,33,0,104975.14,9.7,No,1.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP00744,Sales,Sales Executive,21.0,Female,Bachelor's,Single,0,0,53935.58,6.5,No,3.0,2.0,2,1,1,No,0-1 yrs,0,0
+EMP00750,Finance,Accountant,27.0,Male,Bachelor's,Divorced,9,4,80523.18,15.0,No,4.0,3.0,4,0,3,No,4-6 yrs,0,0
+EMP00756,Engineering,Senior Engineer,32.0,Female,High School,Married,9,6,72168.75,7.3,No,1.0,2.0,4,0,5,No,4-6 yrs,0,0
+EMP01049,Sales,Sales Manager,34.0,Male,High School,Single,16,1,69539.14,0.9,No,1.0,2.0,3,0,3,No,0-1 yrs,0,0
+EMP00812,Support,Support Executive,43.0,Male,Master's,Single,23,3,103948.49,0.8,Yes,4.0,3.0,1,1,1,No,2-3 yrs,0,1
+EMP00662,Sales,Sales Executive,21.0,Female,Master's,Married,0,0,58739.42,1.5,No,3.0,1.0,3,0,5,No,0-1 yrs,0,0
+EMP01397,Engineering,Senior Engineer,28.0,Female,High School,Single,6,1,82661.69,16.2,Yes,1.0,4.0,3,1,2,Yes,0-1 yrs,1,1
+EMP01107,Engineering,Engineering Manager,21.0,Female,PhD,Single,0,0,103512.33,1.4,Yes,1.0,3.0,4,0,3,Yes,0-1 yrs,1,1
+EMP00256,Sales,Account Manager,31.0,Male,Bachelor's,Married,8,8,60157.56,4.1,No,4.0,2.0,4,1,0,No,7-10 yrs,0,0
+EMP00935,Sales,Sales Manager,43.0,Male,PhD,Single,25,1,123366.41,2.0,Yes,1.0,2.0,4,1,0,Yes,0-1 yrs,1,1
+EMP00870,Sales,Sales Executive,45.0,Male,Bachelor's,Married,27,3,102967.82,4.0,No,4.0,4.0,4,1,0,No,2-3 yrs,0,0
+EMP00893,Sales,Account Manager,38.0,Male,Bachelor's,Divorced,10,4,66739.95,1.7,No,4.0,1.0,3,1,2,No,4-6 yrs,0,0
+EMP00874,Support,Support Lead,44.0,Male,Bachelor's,Divorced,14,5,83596.3,13.0,No,1.0,4.0,4,1,2,No,4-6 yrs,0,0
+EMP00614,Sales,Sales Manager,21.0,Male,Bachelor's,Divorced,0,0,46538.18,8.3,No,1.0,2.0,3,0,4,Yes,0-1 yrs,1,0
+EMP01101,Engineering,Sales Manager,43.0,Female,Bachelor's,Single,20,3,87299.21,5.1,No,2.0,3.0,1,0,0,No,2-3 yrs,0,0
+EMP00389,Marketing,Marketing Manager,38.0,Male,Bachelor's,Married,10,9,72733.67,6.0,Yes,2.0,2.0,3,1,4,No,7-10 yrs,0,1
+EMP00937,Finance,Finance Manager,21.0,Male,Master's,Divorced,0,0,80129.38,0.9,Yes,2.0,3.0,4,1,3,No,0-1 yrs,0,1
+EMP00407,Engineering,Senior Engineer,35.0,Male,Bachelor's,Single,14,1,83596.3,11.7,No,4.0,1.0,3,0,3,No,0-1 yrs,0,0
+EMP00795,Support,Support Executive,37.0,Male,Master's,Single,8,1,71333.0,4.6,No,3.0,4.0,4,0,1,No,0-1 yrs,0,0
+EMP00716,Support,Support Lead,39.0,Female,Bachelor's,Divorced,16,2,71898.11,8.2,No,3.0,2.0,3,1,4,No,2-3 yrs,0,0
+EMP01135,Sales,Sales Executive,34.0,Male,Master's,Married,11,1,76172.55,7.6,No,4.0,4.0,3,0,0,No,0-1 yrs,0,0
+EMP01024,Sales,Sales Executive,45.0,Female,Bachelor's,Divorced,16,16,74228.11,1.9,Yes,1.0,3.0,3,0,3,Yes,10+ yrs,1,1
+EMP01056,Marketing,Content Specialist,47.0,Female,High School,Married,23,1,83591.35,2.4,No,2.0,3.0,4,0,2,No,0-1 yrs,0,0
+EMP01338,Engineering,QA Engineer,30.0,Female,Bachelor's,Divorced,6,0,79252.14,3.3,Yes,2.0,2.0,2,0,3,Yes,0-1 yrs,1,1
+EMP00247,Engineering,Senior Engineer,28.0,Male,High School,Divorced,10,5,84484.39,16.6,No,2.0,3.0,4,1,4,No,4-6 yrs,0,0
+EMP00146,Sales,Account Manager,21.0,Male,Bachelor's,Divorced,0,0,51555.27,20.6,Yes,1.0,3.0,4,0,2,Yes,0-1 yrs,1,1
+EMP01423,Support,Support Executive,21.0,Male,Bachelor's,Married,0,0,49528.99,2.7,No,4.0,1.0,4,0,2,Yes,0-1 yrs,1,0
+EMP01153,Finance,Accountant,38.0,Female,PhD,Divorced,17,0,121565.39,14.7,No,2.0,4.0,4,0,4,Yes,0-1 yrs,1,0
+EMP01418,Support,Support Executive,39.0,Male,PhD,Married,9,1,87834.89,6.5,Yes,4.0,4.0,3,0,2,No,0-1 yrs,0,1
+EMP00623,Finance,Accountant,39.0,Female,Master's,Married,20,2,105495.79,1.8,No,1.0,4.0,3,1,4,Yes,2-3 yrs,1,0
+EMP01497,Finance,Finance Manager,36.0,Female,PhD,Divorced,14,3,110973.91,15.2,No,2.0,3.0,2,0,1,Yes,2-3 yrs,1,0
+EMP00461,Sales,Sales Executive,23.0,Female,Bachelor's,Divorced,1,0,44299.52,15.6,No,2.0,4.0,4,0,5,Yes,0-1 yrs,1,0
+EMP00487,Engineering,Engineering Manager,43.0,Female,Bachelor's,Divorced,18,4,104900.51,4.2,No,1.0,4.0,3,0,5,No,4-6 yrs,0,0
+EMP00091,Finance,Finance Manager,36.0,Female,Bachelor's,Divorced,15,1,85292.28,8.1,No,1.0,3.0,3,0,0,Yes,0-1 yrs,1,0
+EMP01230,Sales,Sales Manager,41.0,Male,High School,Divorced,19,3,78266.0,11.7,No,4.0,3.0,3,0,2,No,2-3 yrs,0,0
+EMP00493,Sales,Account Manager,31.0,Female,Bachelor's,Married,4,0,83596.3,2.8,No,4.0,1.0,2,0,1,Yes,0-1 yrs,1,0
+EMP00171,Finance,Finance Manager,31.0,Female,Master's,Single,10,10,89168.86,6.6,Yes,4.0,4.0,3,0,3,No,7-10 yrs,0,1
+EMP00057,Marketing,Marketing Manager,40.0,Male,Master's,Divorced,14,2,90034.8,4.7,Yes,4.0,4.0,3,0,5,No,2-3 yrs,0,1
+EMP00405,Sales,Sales Manager,22.0,Male,High School,Married,0,0,45287.75,8.0,No,2.0,3.0,3,0,5,No,0-1 yrs,0,0
+EMP01266,Sales,Sales Executive,22.0,Female,Bachelor's,Single,0,0,53311.1,19.6,No,1.0,3.0,3,0,5,No,0-1 yrs,0,0
+EMP00600,Marketing,Marketing Executive,39.0,Female,Master's,Divorced,19,10,101073.4,2.5,No,1.0,3.0,3,1,3,No,7-10 yrs,0,0
+EMP01016,Engineering,Engineering Manager,26.0,Male,Bachelor's,Single,2,2,66964.4,13.1,No,3.0,2.0,4,0,4,No,2-3 yrs,0,0
+EMP00098,Engineering,Engineering Manager,47.0,Male,PhD,Divorced,24,1,132210.03,21.1,No,4.0,4.0,2,0,0,No,0-1 yrs,0,0
+EMP00827,Marketing,Content Specialist,21.0,Female,PhD,Married,0,0,82969.65,5.4,No,1.0,2.0,3,0,4,Yes,0-1 yrs,1,0
+EMP01141,Engineering,QA Engineer,25.0,Female,Bachelor's,Divorced,5,0,87144.37,0.5,No,3.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP01226,Engineering,Engineering Manager,21.0,Male,High School,Single,0,0,62827.82,2.6,No,1.0,1.0,3,0,0,Yes,0-1 yrs,1,0
+EMP00480,Sales,Sales Manager,45.0,Male,Master's,Divorced,21,0,90872.79,3.1,No,4.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00324,Engineering,QA Engineer,48.0,Male,Bachelor's,Single,20,0,106950.52,37.5,No,3.0,3.0,4,0,4,Yes,0-1 yrs,1,0
+EMP01218,Support,Support Lead,21.0,Male,Master's,Married,0,0,51320.93,7.9,No,1.0,1.0,3,1,0,Yes,0-1 yrs,1,0
+EMP01363,Finance,Financial Analyst,46.0,Female,Master's,Single,22,3,109692.85,3.1,No,3.0,3.0,2,1,3,No,2-3 yrs,0,0
+EMP00099,Engineering,Software Engineer,44.0,Male,Bachelor's,Single,26,10,116071.86,6.7,No,4.0,3.0,3,0,1,No,7-10 yrs,0,0
+EMP00425,Sales,Sales Manager,40.0,Female,Master's,Divorced,19,1,99170.88,2.1,Yes,1.0,4.0,4,1,0,Yes,0-1 yrs,1,1
+EMP00297,Engineering,Engineering Manager,23.0,Male,Master's,Married,1,0,75393.28,3.2,No,1.0,3.0,3,1,4,No,0-1 yrs,0,0
+EMP00738,Sales,Sales Manager,32.0,Male,Bachelor's,Single,11,1,77589.76,3.9,No,2.0,2.0,3,0,1,Yes,0-1 yrs,1,0
+EMP01441,Sales,Account Manager,21.0,Male,Bachelor's,Divorced,0,0,49237.37,11.5,No,1.0,4.0,4,1,4,Yes,0-1 yrs,1,0
+EMP00903,Sales,Account Manager,24.0,Male,Master's,Divorced,2,2,71190.05,3.5,No,3.0,1.0,3,0,5,No,2-3 yrs,0,0
+EMP00602,Marketing,Content Specialist,39.0,Male,Bachelor's,Married,18,2,85892.3,15.1,No,1.0,4.0,3,1,1,No,2-3 yrs,0,0
+EMP01000,Engineering,Senior Engineer,41.0,Female,Master's,Single,15,1,103157.95,14.7,Yes,2.0,4.0,2,0,4,No,0-1 yrs,0,1
+EMP01406,Support,Support Executive,45.0,Female,Master's,Married,22,0,95755.27,0.9,Yes,2.0,3.0,3,0,3,Yes,0-1 yrs,1,1
+EMP00396,Sales,Sales Manager,40.0,Male,Bachelor's,Single,15,8,80036.77,1.7,Yes,3.0,3.0,3,0,3,No,7-10 yrs,0,1
+EMP00427,Hr,HR Manager,27.0,Male,High School,Single,4,2,83596.3,8.6,Yes,3.0,3.0,3,0,5,No,2-3 yrs,0,1
+EMP01375,Support,Support Executive,32.0,Male,High School,Divorced,9,8,54102.54,8.6,No,4.0,2.0,3,0,2,Yes,7-10 yrs,1,0
+EMP00253,Marketing,Marketing Manager,41.0,Female,Bachelor's,Married,18,0,91207.09,3.3,No,3.0,2.0,4,0,5,Yes,0-1 yrs,1,0
+EMP00239,Sales,Sales Executive,36.0,Female,High School,Divorced,17,1,77442.09,27.2,No,1.0,3.0,4,0,0,No,0-1 yrs,0,0
+EMP01145,Support,Support Executive,34.0,Female,Master's,Married,9,0,70017.03,0.0,No,1.0,4.0,3,0,5,Yes,0-1 yrs,1,0
+EMP00845,Support,Support Lead,27.0,Female,Bachelor's,Single,2,2,55932.72,4.0,No,3.0,4.0,3,1,3,No,2-3 yrs,0,0
+EMP01310,Marketing,Marketing Executive,31.0,Male,Master's,Married,6,6,83596.3,2.7,No,4.0,3.0,3,0,0,No,4-6 yrs,0,0
+EMP00846,Marketing,Content Specialist,38.0,Female,Master's,Married,18,3,95493.19,20.4,No,4.0,3.0,3,0,5,No,2-3 yrs,0,0
+EMP00555,Sales,Sales Executive,32.0,Female,Bachelor's,Divorced,13,7,83375.39,9.8,No,2.0,2.0,3,0,3,Yes,7-10 yrs,1,0
+EMP00546,Engineering,QA Engineer,41.0,Female,Master's,Divorced,23,3,133332.28,2.6,No,1.0,3.0,3,1,5,No,2-3 yrs,0,0
+EMP00251,Support,Support Lead,36.0,Male,Master's,Divorced,16,9,80135.77,4.6,Yes,4.0,2.0,3,1,5,No,7-10 yrs,0,1
+EMP00740,Finance,Accountant,33.0,Male,Bachelor's,Single,13,0,92357.61,0.5,Yes,4.0,4.0,4,1,2,Yes,0-1 yrs,1,1
+EMP00965,Marketing,Marketing Executive,35.0,Female,Master's,Single,9,4,75492.21,4.6,No,4.0,2.0,3,0,5,Yes,4-6 yrs,1,0
+EMP00199,Finance,Financial Analyst,25.0,Female,PhD,Married,1,1,90334.16,2.1,Yes,1.0,2.0,3,0,1,Yes,0-1 yrs,1,1
+EMP00898,Support,Support Executive,34.0,Female,Bachelor's,Divorced,10,1,64038.28,10.5,No,3.0,4.0,3,0,1,No,0-1 yrs,0,0
+EMP01351,Finance,Financial Analyst,28.0,Male,Bachelor's,Divorced,9,9,77131.75,0.4,No,1.0,3.0,2,1,3,No,7-10 yrs,0,0
+EMP01334,Engineering,Software Engineer,32.0,Male,Bachelor's,Single,7,7,92243.85,1.1,No,3.0,4.0,3,0,3,No,7-10 yrs,0,0
+EMP01315,Finance,Finance Manager,46.0,Male,Bachelor's,Divorced,24,12,103361.09,1.2,No,1.0,4.0,3,0,4,No,10+ yrs,0,0
+EMP00990,Engineering,Senior Engineer,36.0,Male,High School,Married,14,9,85743.49,0.8,Yes,3.0,3.0,3,0,5,Yes,7-10 yrs,1,1
+EMP01041,Sales,Sales Executive,38.0,Male,Master's,Divorced,11,0,86855.94,2.4,Yes,3.0,2.0,3,0,3,No,0-1 yrs,0,1
+EMP01183,Engineering,Senior Engineer,40.0,Male,Master's,Divorced,22,8,113286.19,5.5,No,3.0,3.0,3,1,5,No,7-10 yrs,0,0
+EMP00244,Sales,Account Manager,40.0,Male,Bachelor's,Married,16,5,82627.57,5.4,No,2.0,1.0,2,0,0,No,4-6 yrs,0,0
+EMP00067,Sales,Sales Manager,24.0,Male,Master's,Single,1,1,71963.27,6.4,No,1.0,3.0,2,0,5,No,0-1 yrs,0,0
+EMP01462,Marketing,Marketing Manager,28.0,Female,High School,Married,6,4,58596.48,14.7,No,3.0,3.0,4,0,3,Yes,4-6 yrs,1,0
+EMP00934,Sales,Sales Manager,41.0,Male,Bachelor's,Single,22,1,108179.35,6.8,Yes,2.0,1.0,4,0,1,Yes,0-1 yrs,1,1
+EMP00360,Hr,Recruiter,26.0,Male,Bachelor's,Married,1,1,61970.79,0.8,Yes,1.0,1.0,2,0,0,No,0-1 yrs,0,1
+EMP00096,Sales,Sales Manager,38.0,Female,Master's,Divorced,15,4,84585.04,21.4,No,3.0,4.0,3,1,0,No,4-6 yrs,0,0
+EMP01487,Sales,Sales Manager,32.0,Male,Master's,Married,8,3,82043.47,12.9,No,4.0,3.0,4,1,0,No,2-3 yrs,0,0
+EMP00522,Engineering,Engineering Manager,29.0,Female,Bachelor's,Single,5,5,73683.72,8.1,Yes,2.0,2.0,3,0,2,Yes,4-6 yrs,1,1
+EMP00975,Marketing,Content Specialist,23.0,Female,Bachelor's,Married,2,2,62235.33,7.9,Yes,2.0,3.0,2,0,4,No,2-3 yrs,0,1
+EMP00666,Sales,Account Manager,34.0,Male,Bachelor's,Divorced,9,1,58739.23,18.2,Yes,2.0,4.0,2,0,3,Yes,0-1 yrs,1,1
+EMP00362,Support,Support Executive,28.0,Male,PhD,Divorced,10,6,91976.19,6.3,No,2.0,2.0,3,1,5,No,4-6 yrs,0,0
+EMP00485,Sales,Sales Executive,46.0,Male,PhD,Single,28,5,120667.74,2.8,Yes,4.0,4.0,3,0,5,Yes,4-6 yrs,1,1
+EMP01176,Engineering,Senior Engineer,31.0,Female,Bachelor's,Married,8,6,94959.09,13.3,No,3.0,4.0,3,0,2,No,4-6 yrs,0,0
+EMP01281,Engineering,Senior Engineer,40.0,Male,Bachelor's,Single,21,4,103257.21,3.1,Yes,3.0,1.0,3,0,4,No,4-6 yrs,0,1
+EMP00312,Engineering,Senior Engineer,39.0,Male,PhD,Divorced,15,0,121517.41,4.0,No,4.0,1.0,3,0,4,No,0-1 yrs,0,0
+EMP01329,Engineering,Software Engineer,38.0,Female,High School,Married,20,1,102589.04,6.9,Yes,2.0,1.0,3,1,3,No,0-1 yrs,0,1
+EMP00843,Support,Support Executive,44.0,Male,Bachelor's,Married,16,2,75221.8,5.3,No,2.0,4.0,3,0,0,No,2-3 yrs,0,0
+EMP00414,Engineering,QA Engineer,49.0,Female,PhD,Single,28,2,150350.98,22.5,Yes,2.0,3.0,3,0,1,No,2-3 yrs,0,1
+EMP01158,Sales,Sales Manager,44.0,Female,Bachelor's,Divorced,21,11,79200.27,5.1,No,1.0,3.0,3,1,2,No,10+ yrs,0,0
+EMP00032,Sales,Account Manager,35.0,Female,Bachelor's,Single,13,6,75139.92,13.7,No,3.0,1.0,2,0,0,Yes,4-6 yrs,1,0
+EMP00766,Engineering,Engineering Manager,21.0,Female,PhD,Divorced,3,1,107166.04,5.7,Yes,4.0,3.0,4,0,0,No,0-1 yrs,0,1
+EMP00459,Engineering,Software Engineer,21.0,Male,Bachelor's,Single,0,0,83596.3,20.1,No,2.0,3.0,3,1,1,No,0-1 yrs,0,0
+EMP01186,Marketing,Marketing Executive,21.0,Male,Bachelor's,Single,2,1,53259.01,16.7,No,1.0,3.0,4,0,4,No,0-1 yrs,0,0
+EMP00340,Support,Support Executive,26.0,Male,Master's,Divorced,0,0,51759.93,1.3,No,4.0,3.0,3,0,0,Yes,0-1 yrs,1,0
+EMP00287,Finance,Finance Manager,25.0,Female,Master's,Divorced,4,0,71825.86,17.2,Yes,4.0,2.0,3,1,1,No,0-1 yrs,0,1
+EMP01273,Engineering,QA Engineer,44.0,Male,Master's,Divorced,22,5,133641.16,0.6,Yes,1.0,4.0,3,0,2,No,4-6 yrs,0,1
+EMP00950,Hr,Recruiter,40.0,Male,Bachelor's,Married,14,8,72242.97,16.8,Yes,1.0,4.0,3,0,3,No,7-10 yrs,0,1
+EMP00140,Finance,Financial Analyst,33.0,Male,High School,Married,9,0,72755.13,0.7,No,3.0,1.0,3,0,2,Yes,0-1 yrs,1,0
+EMP00849,Support,Support Lead,33.0,Male,Bachelor's,Married,9,9,57688.42,11.8,No,2.0,1.0,2,1,0,No,7-10 yrs,0,0
+EMP01026,Sales,Sales Manager,22.0,Female,Bachelor's,Married,0,0,55770.66,0.9,No,1.0,3.0,2,0,3,No,0-1 yrs,0,0
+EMP01232,Hr,HR Executive,33.0,Female,Bachelor's,Single,7,0,69869.32,12.4,No,4.0,3.0,4,0,1,Yes,0-1 yrs,1,0
+EMP01139,Hr,HR Manager,23.0,Female,Master's,Single,3,1,73564.07,6.5,No,4.0,2.0,4,0,1,No,0-1 yrs,0,0
+EMP00901,Engineering,Engineering Manager,33.0,Male,Master's,Single,12,1,105462.97,10.7,Yes,1.0,1.0,1,0,1,No,0-1 yrs,0,1
+EMP00732,Sales,Sales Executive,36.0,Female,Bachelor's,Married,12,1,76964.74,0.6,No,4.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00265,Sales,Account Manager,49.0,Male,High School,Divorced,24,2,96697.04,3.0,Yes,4.0,1.0,3,1,1,No,2-3 yrs,0,1
+EMP00275,Engineering,Software Engineer,38.0,Male,High School,Married,18,9,97233.16,17.2,No,3.0,3.0,4,1,2,Yes,7-10 yrs,1,0
+EMP01095,Marketing,Content Specialist,26.0,Female,Bachelor's,Married,7,0,71315.91,1.1,Yes,2.0,2.0,3,0,0,Yes,0-1 yrs,1,1
+EMP00445,Engineering,Senior Engineer,34.0,Male,Master's,Married,14,1,95713.54,0.1,No,1.0,3.0,4,0,2,Yes,0-1 yrs,1,0
+EMP00040,Engineering,Software Engineer,38.0,Female,Master's,Divorced,14,5,103465.82,8.8,No,1.0,3.0,2,0,2,No,4-6 yrs,0,0
+EMP01123,Engineering,Senior Engineer,42.0,Male,Bachelor's,Single,24,18,112093.9,18.1,Yes,1.0,3.0,4,1,5,No,10+ yrs,0,1
+EMP00022,Marketing,Content Specialist,39.0,Female,Bachelor's,Single,14,5,77193.92,12.5,No,3.0,1.0,4,0,5,No,4-6 yrs,0,0
+EMP00706,Engineering,Senior Engineer,37.0,Male,High School,Divorced,15,3,90569.35,31.5,No,4.0,4.0,2,0,3,No,2-3 yrs,0,0
+EMP00518,Marketing,Marketing Executive,56.0,Female,Bachelor's,Married,32,1,121544.55,23.8,No,3.0,3.0,3,0,5,No,0-1 yrs,0,0
+EMP01174,Finance,Finance Manager,37.0,Female,Bachelor's,Divorced,16,12,95072.77,0.9,No,4.0,2.0,2,0,5,No,10+ yrs,0,0
+EMP00355,Hr,HR Manager,43.0,Female,Master's,Divorced,21,4,99119.32,11.8,No,1.0,3.0,2,0,5,Yes,4-6 yrs,1,0
+EMP00298,Sales,Account Manager,38.0,Male,Master's,Divorced,8,2,78960.4,7.6,No,1.0,4.0,4,1,2,Yes,2-3 yrs,1,0
+EMP01077,Engineering,Software Engineer,45.0,Female,Master's,Single,27,7,131174.98,6.5,No,4.0,1.0,4,0,4,No,7-10 yrs,0,0
+EMP00840,Finance,Finance Manager,31.0,Female,Bachelor's,Married,5,2,71121.3,1.6,No,2.0,3.0,3,0,2,Yes,2-3 yrs,1,0
+EMP01223,Support,Support Lead,38.0,Male,Bachelor's,Divorced,11,2,61264.71,0.1,No,1.0,4.0,4,0,2,No,2-3 yrs,0,0
+EMP00925,Engineering,Software Engineer,44.0,Male,Master's,Single,17,4,113675.53,16.2,Yes,1.0,2.0,4,0,4,Yes,4-6 yrs,1,1
+EMP00123,Hr,HR Executive,31.0,Male,Master's,Single,9,1,73274.6,12.2,Yes,4.0,2.0,3,0,3,Yes,0-1 yrs,1,1
+EMP01228,Sales,Sales Manager,23.0,Male,Master's,Married,5,5,61033.51,5.3,No,1.0,1.0,3,0,4,Yes,4-6 yrs,1,0
+EMP01092,Support,Support Lead,34.0,Female,Master's,Married,14,10,74049.64,2.1,Yes,3.0,2.0,3,0,1,No,7-10 yrs,0,1
+EMP01248,Hr,HR Manager,29.0,Female,Bachelor's,Divorced,8,8,66404.07,2.0,No,1.0,2.0,3,0,0,No,7-10 yrs,0,0
+EMP01152,Support,Support Executive,36.0,Female,Master's,Single,10,1,78739.21,1.5,No,3.0,3.0,2,0,4,No,0-1 yrs,0,0
+EMP01164,Marketing,Marketing Manager,39.0,Female,Bachelor's,Single,16,9,86006.27,17.8,No,3.0,1.0,3,0,2,No,7-10 yrs,0,0
+EMP00418,Support,Support Lead,31.0,Female,Bachelor's,Married,5,0,63781.13,9.5,Yes,4.0,4.0,3,1,5,No,0-1 yrs,0,1
+EMP00967,Engineering,Engineering Manager,27.0,Female,Bachelor's,Divorced,0,0,80654.18,12.0,No,4.0,1.0,4,0,0,Yes,0-1 yrs,1,0
+EMP01243,Sales,Sales Manager,38.0,Female,Bachelor's,Married,16,0,83333.62,19.4,No,4.0,2.0,2,0,0,No,0-1 yrs,0,0
+EMP00158,Engineering,Engineering Manager,51.0,Male,Master's,Divorced,27,2,132031.68,1.1,No,4.0,2.0,4,0,4,No,2-3 yrs,0,0
+EMP01119,Support,Support Lead,44.0,Male,Bachelor's,Single,18,0,76151.17,8.6,No,1.0,3.0,3,0,3,Yes,0-1 yrs,1,0
+EMP01280,Support,Support Executive,33.0,Male,PhD,Divorced,15,0,103434.08,32.6,Yes,3.0,1.0,3,0,4,No,0-1 yrs,0,1
+EMP01064,Sales,Account Manager,46.0,Male,Bachelor's,Single,24,6,98336.27,8.8,No,4.0,4.0,2,0,1,No,4-6 yrs,0,0
+EMP01155,Sales,Sales Manager,38.0,Male,High School,Single,19,2,82325.18,2.0,No,4.0,4.0,4,0,1,No,2-3 yrs,0,0
+EMP01280,Support,Support Executive,33.0,Male,PhD,Divorced,15,0,103434.08,32.6,Yes,3.0,3.0,3,0,4,No,0-1 yrs,0,1
+EMP00190,Hr,HR Manager,21.0,Male,Master's,Single,2,1,58539.86,17.8,No,3.0,4.0,3,1,0,No,0-1 yrs,0,0
+EMP00590,Engineering,Engineering Manager,27.0,Male,Master's,Married,0,0,90935.25,6.8,Yes,4.0,3.0,3,0,2,Yes,0-1 yrs,1,1
+EMP00761,Engineering,Senior Engineer,40.0,Female,Master's,Married,22,10,120534.36,3.9,No,2.0,4.0,4,0,3,Yes,7-10 yrs,1,0
+EMP01063,Finance,Financial Analyst,26.0,Male,Master's,Married,4,0,80624.48,1.6,Yes,2.0,4.0,2,0,3,Yes,0-1 yrs,1,1
+EMP00243,Engineering,Software Engineer,29.0,Male,Bachelor's,Divorced,8,5,75914.23,3.8,No,1.0,4.0,4,0,4,No,4-6 yrs,0,0
+EMP00885,Sales,Sales Executive,36.0,Male,Master's,Single,14,14,80078.93,11.6,Yes,2.0,2.0,2,0,0,No,10+ yrs,0,1
+EMP01378,Sales,Sales Manager,28.0,Male,High School,Single,7,5,53108.63,0.9,Yes,1.0,1.0,3,1,1,No,4-6 yrs,0,1
+EMP00621,Engineering,Software Engineer,42.0,Female,Bachelor's,Single,13,2,97184.68,1.8,No,2.0,3.0,3,0,3,No,2-3 yrs,0,0
+EMP00651,Support,Support Lead,38.0,Female,PhD,Single,14,3,99631.6,14.4,No,1.0,3.0,2,0,3,No,2-3 yrs,0,0
+EMP00504,Sales,Sales Manager,54.0,Female,Bachelor's,Married,34,0,114397.44,0.5,Yes,4.0,2.0,4,0,5,No,0-1 yrs,0,1
+EMP00160,Support,Support Lead,34.0,Male,Bachelor's,Single,16,2,78166.62,5.3,No,4.0,2.0,4,0,2,No,2-3 yrs,0,0
+EMP00883,Support,Support Lead,52.0,Male,Master's,Divorced,33,4,113235.84,4.9,No,1.0,4.0,4,0,0,No,4-6 yrs,0,0
+EMP00538,Hr,Recruiter,39.0,Male,Master's,Married,21,0,105549.59,8.0,No,1.0,1.0,2,0,2,Yes,0-1 yrs,1,0
+EMP00241,Sales,Sales Executive,47.0,Male,Bachelor's,Single,29,3,110448.35,6.2,Yes,3.0,4.0,1,0,1,Yes,2-3 yrs,1,1
+EMP00014,Sales,Sales Executive,50.0,Female,Master's,Divorced,31,0,109697.16,2.1,No,1.0,1.0,3,0,0,Yes,0-1 yrs,1,0
+EMP00476,Finance,Accountant,30.0,Male,Master's,Married,6,1,86769.1,10.2,No,1.0,1.0,2,0,2,No,0-1 yrs,0,0
+EMP01484,Sales,Account Manager,48.0,Male,Master's,Single,30,19,109192.86,19.3,No,4.0,3.0,4,1,5,No,10+ yrs,0,0
+EMP01428,Support,Support Executive,37.0,Male,Bachelor's,Single,13,0,76638.56,2.9,Yes,3.0,1.0,1,1,4,Yes,0-1 yrs,1,1
+EMP00929,Engineering,Senior Engineer,48.0,Male,Bachelor's,Married,26,3,117457.91,18.1,No,4.0,4.0,4,1,3,No,2-3 yrs,0,0
+EMP01339,Marketing,Content Specialist,26.0,Male,Bachelor's,Divorced,4,2,62972.81,2.5,Yes,1.0,2.0,1,0,0,Yes,2-3 yrs,1,1
+EMP01386,Engineering,QA Engineer,29.0,Male,Bachelor's,Married,4,3,88488.94,6.5,No,4.0,1.0,4,0,4,No,2-3 yrs,0,0
+EMP01345,Marketing,Content Specialist,25.0,Male,Master's,Single,1,1,64438.63,18.6,No,1.0,4.0,3,0,4,Yes,0-1 yrs,1,0
+EMP00796,Engineering,Software Engineer,42.0,Male,Master's,Single,14,11,101137.13,2.4,No,3.0,3.0,3,0,2,No,10+ yrs,0,0
+EMP00356,Engineering,Software Engineer,29.0,Male,Master's,Single,0,0,81457.81,10.1,Yes,3.0,3.0,3,0,3,No,0-1 yrs,0,1
+EMP01059,Marketing,Marketing Executive,41.0,Female,Bachelor's,Single,23,1,93728.73,3.4,No,3.0,1.0,3,0,5,Yes,0-1 yrs,1,0
+EMP00335,Finance,Accountant,39.0,Female,Bachelor's,Divorced,20,6,102518.15,6.4,No,1.0,2.0,3,0,3,Yes,4-6 yrs,1,0
+EMP00689,Sales,Account Manager,26.0,Female,Bachelor's,Single,5,5,60021.61,31.6,Yes,1.0,2.0,3,1,4,No,4-6 yrs,0,1
+EMP01401,Engineering,Engineering Manager,35.0,Female,Master's,Single,11,4,109022.26,9.7,No,4.0,1.0,4,0,1,No,4-6 yrs,0,0
+EMP00185,Marketing,Content Specialist,40.0,Female,Bachelor's,Married,15,7,75634.83,5.4,No,3.0,3.0,4,1,5,No,7-10 yrs,0,0
+EMP00824,Finance,Finance Manager,30.0,Female,Bachelor's,Single,11,5,81573.04,6.8,No,3.0,4.0,3,0,4,No,4-6 yrs,0,0
+EMP01435,Engineering,Software Engineer,37.0,Male,Master's,Single,10,1,104509.53,9.3,Yes,1.0,4.0,2,0,2,Yes,0-1 yrs,1,1
+EMP01002,Finance,Financial Analyst,47.0,Female,PhD,Married,19,12,114159.47,7.7,No,3.0,1.0,2,0,5,Yes,10+ yrs,1,0
+EMP00188,Sales,Sales Manager,42.0,Male,High School,Married,18,3,75124.27,5.6,No,2.0,1.0,3,0,5,No,2-3 yrs,0,0
+EMP00942,Engineering,Engineering Manager,35.0,Male,Bachelor's,Single,17,3,108009.65,1.9,No,2.0,4.0,3,0,3,No,2-3 yrs,0,0
+EMP00285,Sales,Sales Executive,43.0,Female,Master's,Married,25,0,101381.7,0.4,No,3.0,2.0,3,1,1,No,0-1 yrs,0,0
+EMP01416,Hr,HR Executive,43.0,Male,Bachelor's,Single,18,1,76735.74,3.5,No,4.0,2.0,3,0,3,No,0-1 yrs,0,0
+EMP00900,Engineering,Engineering Manager,26.0,Male,Bachelor's,Married,3,1,82681.92,0.9,No,4.0,2.0,3,0,5,Yes,0-1 yrs,1,0
+EMP01496,Engineering,QA Engineer,44.0,Female,Master's,Divorced,20,1,117923.81,2.3,No,1.0,2.0,3,1,0,Yes,0-1 yrs,1,0
+EMP00166,Marketing,Marketing Executive,47.0,Female,Master's,Divorced,21,2,102792.24,0.4,No,4.0,2.0,3,1,4,No,2-3 yrs,0,0
+EMP00348,Marketing,Marketing Manager,28.0,Female,Bachelor's,Single,5,1,64129.76,3.5,No,1.0,1.0,3,0,2,No,0-1 yrs,0,0
+EMP00299,Support,Support Lead,24.0,Female,Bachelor's,Married,0,0,42205.98,9.5,No,3.0,4.0,4,1,0,No,0-1 yrs,0,0
+EMP00536,Engineering,Software Engineer,42.0,Male,Bachelor's,Married,23,0,114618.95,2.8,No,3.0,2.0,3,1,0,Yes,0-1 yrs,1,0
+EMP00230,Sales,Account Manager,36.0,Female,Bachelor's,Married,16,1,86990.51,22.1,No,3.0,1.0,2,0,0,No,0-1 yrs,0,0
+EMP00042,Sales,Account Manager,47.0,Male,Bachelor's,Divorced,21,5,94412.67,1.6,No,1.0,3.0,3,0,5,Yes,4-6 yrs,1,0
+EMP00869,Finance,Finance Manager,26.0,Female,Master's,Divorced,2,2,76245.77,9.8,No,2.0,4.0,3,0,0,No,2-3 yrs,0,0
+EMP00749,Finance,Financial Analyst,45.0,Female,Master's,Divorced,14,0,100466.41,7.5,No,3.0,3.0,3,0,2,No,0-1 yrs,0,0
+EMP01472,Hr,HR Executive,24.0,Female,Master's,Divorced,6,2,71611.06,1.2,Yes,4.0,3.0,2,0,3,No,2-3 yrs,0,1
+EMP00447,Sales,Sales Manager,39.0,Female,Bachelor's,Divorced,17,7,87137.79,9.0,No,1.0,4.0,4,0,4,No,7-10 yrs,0,0
+EMP00350,Engineering,Software Engineer,39.0,Male,Bachelor's,Single,21,6,119133.5,11.9,No,3.0,3.0,3,0,2,No,4-6 yrs,0,0
+EMP00046,Marketing,Content Specialist,28.0,Female,Bachelor's,Divorced,1,1,54153.63,3.4,No,3.0,3.0,4,0,1,No,0-1 yrs,0,0
+EMP01477,Marketing,Marketing Manager,41.0,Female,Bachelor's,Divorced,20,0,91791.37,8.5,No,3.0,3.0,3,1,0,Yes,0-1 yrs,1,0
+EMP01500,Marketing,Marketing Manager,37.0,Female,Bachelor's,Married,13,2,72848.52,3.7,Yes,3.0,2.0,3,0,1,No,2-3 yrs,0,1
+EMP00109,Finance,Finance Manager,34.0,Male,Bachelor's,Divorced,7,1,71684.0,1.4,No,1.0,1.0,4,0,2,Yes,0-1 yrs,1,0
+EMP00030,Marketing,Marketing Manager,34.0,Female,Bachelor's,Married,12,4,76242.11,4.0,Yes,3.0,2.0,4,0,0,No,4-6 yrs,0,1
+EMP00182,Finance,Finance Manager,21.0,Female,Bachelor's,Divorced,0,0,67350.33,4.7,No,1.0,4.0,3,1,2,Yes,0-1 yrs,1,0
+EMP00622,Support,Support Executive,35.0,Female,Bachelor's,Married,16,3,70489.43,7.0,Yes,2.0,2.0,4,1,1,No,2-3 yrs,0,1
+EMP01444,Engineering,Senior Engineer,25.0,Male,Bachelor's,Married,7,2,85886.67,6.5,No,2.0,2.0,3,0,1,Yes,2-3 yrs,1,0
+EMP00635,Marketing,Marketing Manager,28.0,Female,Master's,Divorced,0,0,65065.27,7.8,Yes,3.0,3.0,3,0,0,No,0-1 yrs,0,1
+EMP00105,Sales,Account Manager,32.0,Female,Bachelor's,Single,7,0,65515.02,17.1,No,1.0,1.0,3,0,1,No,0-1 yrs,0,0
+EMP00061,Support,Support Lead,47.0,Female,PhD,Single,27,3,83596.3,8.5,No,4.0,1.0,2,0,5,No,2-3 yrs,0,0
+EMP00659,Engineering,Senior Engineer,34.0,Male,Master's,Married,13,1,104252.73,11.8,Yes,4.0,1.0,4,0,4,No,0-1 yrs,0,1
+EMP01108,Support,Support Executive,33.0,Male,Master's,Single,11,5,78551.03,6.7,No,2.0,3.0,3,1,0,Yes,4-6 yrs,1,0
+EMP00491,Marketing,Marketing Executive,41.0,Male,Bachelor's,Divorced,21,9,108662.41,2.8,No,4.0,2.0,3,0,2,No,7-10 yrs,0,0
+EMP00316,Support,Support Executive,30.0,Female,PhD,Single,0,0,66861.8,8.9,No,1.0,1.0,3,0,0,No,0-1 yrs,0,0
+EMP00382,Marketing,Marketing Manager,35.0,Female,Bachelor's,Divorced,13,0,87145.09,2.8,No,2.0,1.0,3,1,1,No,0-1 yrs,0,0
+EMP00423,Sales,Account Manager,40.0,Female,Master's,Married,22,3,101012.74,3.5,Yes,1.0,4.0,3,1,2,Yes,2-3 yrs,1,1
+EMP01482,Engineering,Account Manager,43.0,Male,Bachelor's,Married,23,5,97761.88,14.4,No,3.0,4.0,4,0,5,No,4-6 yrs,0,0
+EMP00446,Marketing,Marketing Manager,24.0,Male,Bachelor's,Single,1,1,47423.51,7.9,No,2.0,1.0,4,0,3,Yes,0-1 yrs,1,0
+EMP00664,Sales,Sales Executive,28.0,Male,Bachelor's,Single,4,4,60644.9,5.2,No,1.0,4.0,2,1,2,No,4-6 yrs,0,0
+EMP01025,Finance,Accountant,38.0,Female,Master's,Married,17,1,101379.74,21.4,Yes,2.0,1.0,4,0,3,No,0-1 yrs,0,1
+EMP00780,Sales,Account Manager,35.0,Female,PhD,Single,12,1,100483.67,4.7,Yes,3.0,3.0,4,0,4,No,0-1 yrs,0,1
+EMP00627,Sales,Sales Manager,21.0,Female,Bachelor's,Married,0,0,50868.94,7.9,No,3.0,3.0,4,0,0,Yes,0-1 yrs,1,0
+EMP01113,Marketing,Content Specialist,52.0,Female,Bachelor's,Married,34,1,111767.22,44.6,Yes,4.0,1.0,3,0,4,Yes,0-1 yrs,1,1
+EMP01102,Marketing,Marketing Manager,38.0,Female,Bachelor's,Married,13,2,76822.49,1.4,Yes,1.0,1.0,2,0,1,Yes,2-3 yrs,1,1
+EMP00269,Engineering,Software Engineer,42.0,Male,Bachelor's,Divorced,20,4,113047.49,1.5,No,3.0,2.0,3,1,5,No,4-6 yrs,0,0
+EMP00930,Finance,Finance Manager,31.0,Male,Bachelor's,Divorced,6,1,80203.6,1.2,No,2.0,3.0,3,0,2,No,0-1 yrs,0,0
+EMP01148,Engineering,Software Engineer,38.0,Female,High School,Single,15,2,92543.27,17.4,Yes,2.0,1.0,3,0,2,Yes,2-3 yrs,1,1
+EMP01322,Engineering,QA Engineer,46.0,Male,High School,Married,18,0,91074.42,3.0,Yes,4.0,1.0,3,0,3,No,0-1 yrs,0,1
+EMP01120,Finance,Finance Manager,40.0,Male,Bachelor's,Single,16,8,91344.51,45.9,No,4.0,3.0,3,0,3,No,7-10 yrs,0,0
+EMP00012,Engineering,Senior Engineer,28.0,Male,Bachelor's,Single,8,8,84289.51,7.5,No,2.0,1.0,2,0,0,No,7-10 yrs,0,0
+EMP00115,Engineering,Senior Engineer,38.0,Male,Bachelor's,Divorced,15,4,96401.69,3.3,No,4.0,4.0,3,0,0,No,4-6 yrs,0,0
+EMP00844,Marketing,Marketing Manager,46.0,Female,Bachelor's,Single,28,1,104497.18,7.0,No,1.0,1.0,4,0,0,Yes,0-1 yrs,1,0
+EMP01453,Engineering,QA Engineer,36.0,Male,Master's,Married,7,2,90532.05,1.6,No,4.0,2.0,3,0,0,No,2-3 yrs,0,0
+EMP01282,Finance,Finance Manager,26.0,Female,Bachelor's,Married,0,0,73913.53,2.5,Yes,1.0,2.0,4,0,2,No,0-1 yrs,0,1
+EMP00353,Engineering,QA Engineer,25.0,Male,Bachelor's,Divorced,2,2,67551.76,7.0,No,3.0,2.0,3,1,5,Yes,2-3 yrs,1,0
+EMP00774,Engineering,QA Engineer,26.0,Female,Master's,Married,6,2,88226.49,2.6,No,1.0,1.0,4,0,0,Yes,2-3 yrs,1,0
+EMP00691,Sales,Sales Manager,42.0,Male,Master's,Single,21,2,104529.0,4.7,No,1.0,4.0,3,0,5,No,2-3 yrs,0,0
+EMP00791,Sales,Account Manager,31.0,Female,Bachelor's,Single,7,2,69076.51,4.9,Yes,2.0,3.0,4,0,5,Yes,2-3 yrs,1,1
+EMP00532,Engineering,Software Engineer,60.0,Female,Bachelor's,Single,42,4,83596.3,4.6,Yes,4.0,3.0,3,1,5,No,4-6 yrs,0,1
+EMP00868,Engineering,Engineering Manager,32.0,Male,Bachelor's,Divorced,11,11,95416.27,0.3,No,2.0,2.0,4,0,0,Yes,10+ yrs,1,0
+EMP00240,Sales,Sales Executive,46.0,Male,Bachelor's,Divorced,25,3,98438.04,18.2,No,4.0,1.0,4,0,5,No,2-3 yrs,0,0
+EMP01302,Sales,Sales Manager,31.0,Female,Bachelor's,Divorced,8,5,76195.72,5.4,No,3.0,2.0,4,1,4,No,4-6 yrs,0,0
+EMP01185,Engineering,Engineering Manager,29.0,Female,High School,Single,11,2,88545.43,4.8,No,4.0,1.0,1,1,3,Yes,2-3 yrs,1,0
+EMP00074,Hr,Recruiter,33.0,Male,High School,Divorced,14,6,66788.71,8.2,No,2.0,3.0,3,0,0,No,4-6 yrs,0,0
+EMP01087,Engineering,Senior Engineer,36.0,Male,PhD,Divorced,8,8,109757.12,36.4,No,2.0,2.0,4,1,1,No,7-10 yrs,0,0
+EMP00741,Sales,Sales Manager,36.0,Female,High School,Married,15,0,76528.23,1.9,No,3.0,2.0,3,0,4,No,0-1 yrs,0,0
+EMP00751,Engineering,QA Engineer,48.0,Female,Master's,Single,24,0,113251.51,18.2,No,1.0,3.0,3,0,1,No,0-1 yrs,0,0
+EMP00742,Engineering,Engineering Manager,29.0,Female,High School,Single,6,5,83596.3,0.8,No,1.0,3.0,3,1,2,No,4-6 yrs,0,0
+EMP00831,Sales,Sales Manager,26.0,Female,High School,Single,1,0,46308.04,0.0,No,4.0,3.0,3,1,1,No,0-1 yrs,0,0
+EMP00048,Support,Support Executive,48.0,Female,PhD,Divorced,24,0,114201.18,27.7,No,1.0,1.0,3,1,2,No,0-1 yrs,0,0
+EMP00763,Engineering,Engineering Manager,27.0,Male,Master's,Single,0,0,87692.42,5.0,Yes,3.0,4.0,4,0,3,No,0-1 yrs,0,1
+EMP00592,Support,Support Executive,55.0,Male,High School,Married,37,2,106557.25,15.5,Yes,1.0,4.0,4,0,4,No,2-3 yrs,0,1
+EMP00808,Engineering,QA Engineer,34.0,Female,High School,Divorced,12,3,83260.48,9.3,No,2.0,3.0,3,0,2,No,2-3 yrs,0,0
+EMP01084,Finance,Finance Manager,44.0,Female,Bachelor's,Married,14,2,91773.87,7.2,No,3.0,3.0,3,0,0,No,2-3 yrs,0,0
+EMP00506,Engineering,Senior Engineer,37.0,Male,Master's,Single,19,10,123390.4,8.3,Yes,2.0,3.0,1,0,0,No,7-10 yrs,0,1
+EMP01045,Marketing,Content Specialist,47.0,Male,Master's,Married,29,3,118772.94,5.5,No,4.0,2.0,4,0,1,No,2-3 yrs,0,0
+EMP01449,Engineering,HR Executive,21.0,Female,Master's,Married,0,0,66183.07,7.4,Yes,3.0,1.0,4,0,3,Yes,0-1 yrs,1,1
+EMP00653,Finance,Accountant,43.0,Female,Bachelor's,Single,21,0,91309.9,7.6,Yes,3.0,4.0,4,0,0,Yes,0-1 yrs,1,1
+EMP00193,Engineering,Senior Engineer,48.0,Male,Bachelor's,Divorced,26,3,125687.74,13.5,No,2.0,3.0,3,0,3,No,2-3 yrs,0,0
+EMP01240,Sales,Sales Manager,43.0,Female,Master's,Single,24,15,99288.14,7.2,No,2.0,4.0,3,0,2,No,10+ yrs,0,0
+EMP00245,Engineering,QA Engineer,34.0,Male,PhD,Married,16,0,128256.29,7.6,No,4.0,3.0,3,0,2,No,0-1 yrs,0,0
+EMP01388,Engineering,Engineering Manager,31.0,Male,High School,Single,13,6,91176.83,11.9,No,2.0,3.0,2,0,3,Yes,4-6 yrs,1,0
+EMP00060,Support,Support Executive,43.0,Male,PhD,Divorced,20,3,105783.54,1.9,No,3.0,3.0,4,0,4,No,2-3 yrs,0,0
+EMP01246,Support,Support Executive,29.0,Female,High School,Single,11,0,59763.78,3.9,Yes,3.0,3.0,3,0,4,Yes,0-1 yrs,1,1
+EMP00177,Hr,HR Executive,27.0,Male,Bachelor's,Single,0,0,47555.15,13.8,No,3.0,3.0,3,0,2,No,0-1 yrs,0,0
+EMP00450,Sales,Sales Executive,51.0,Female,Bachelor's,Married,29,1,96664.4,2.2,No,4.0,3.0,3,1,2,Yes,0-1 yrs,1,0
+EMP00056,Hr,Recruiter,26.0,Male,Bachelor's,Divorced,8,8,83596.3,9.7,No,4.0,1.0,2,0,3,No,7-10 yrs,0,0
+EMP01279,Engineering,Sales Executive,39.0,Male,Bachelor's,Married,16,2,80311.25,2.6,Yes,2.0,3.0,3,0,1,Yes,2-3 yrs,1,1
+EMP00920,Marketing,Marketing Manager,47.0,Male,High School,Single,21,0,82602.72,6.5,No,1.0,1.0,3,1,4,Yes,0-1 yrs,1,0
+EMP01410,Hr,Recruiter,30.0,Female,Bachelor's,Married,12,11,75450.53,15.4,No,4.0,4.0,3,0,3,No,10+ yrs,0,0
+EMP01222,Sales,Sales Manager,33.0,Female,Bachelor's,Divorced,15,6,77414.59,14.7,No,1.0,4.0,2,0,4,Yes,4-6 yrs,1,0
+EMP01093,Engineering,Software Engineer,50.0,Female,High School,Married,28,13,113974.03,11.6,No,4.0,3.0,3,0,1,No,10+ yrs,0,0
+EMP01193,Marketing,Content Specialist,21.0,Male,Bachelor's,Single,3,3,60981.55,37.1,No,4.0,2.0,3,1,3,Yes,2-3 yrs,1,0
+EMP01210,Marketing,Marketing Executive,36.0,Female,Bachelor's,Married,8,3,65088.3,2.0,No,1.0,2.0,3,0,0,No,2-3 yrs,0,0
+EMP01060,Finance,Financial Analyst,39.0,Female,Bachelor's,Single,13,0,76518.9,9.4,Yes,1.0,4.0,3,1,4,No,0-1 yrs,0,1
+EMP00642,Engineering,Engineering Manager,28.0,Female,Bachelor's,Single,5,5,77800.68,5.7,Yes,1.0,1.0,3,0,3,No,4-6 yrs,0,1
