@@ -1,4 +1,4 @@
-# 👥 HR Analytics Dashboard — Project 2
+# 👥 HR Analytics Dashboard 
 
 An HR analytics project that analyzes employee data to understand attrition patterns, key drivers of turnover, and department/role-level trends — presented through an interactive dashboard for HR decision-making.
 
