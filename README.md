@@ -13,23 +13,7 @@ Analyze employee data (salary, department, experience, etc.) to identify pattern
 - Build KPIs like attrition rate, retention rate
 - Create an HR dashboard for decision-making
 
-## 🗂️ Repository Structure
-```
-hr-analytics-dashboard/
-│
-├── notebooks/
-│   └── Project_2.ipynb           # Data cleaning, EDA, correlation analysis
-├── data/
-│   ├── raw_employee_data.csv     # Raw employee dataset
-│   └── processed_employee_data.csv  # Cleaned dataset with derived KPIs
-├── dashboard/
-│   └── HR_dashboard.pbix         # Power BI / Tableau dashboard
-├── images/
-│   └── project_overview.png      # Project brief / description
-├── requirements.txt              # Python dependencies
-└── README.md
-```
-
+---
 ## 🛠️ Tools & Technologies
 - **Python** (pandas, numpy, matplotlib, seaborn) — data cleaning, EDA & correlation analysis
 - **Jupyter Notebook** — analysis workflow
