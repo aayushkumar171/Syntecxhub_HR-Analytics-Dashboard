@@ -44,7 +44,7 @@ Visual summary of attrition rate, retention rate, and the key factors driving em
    ```bash
    pip install -r requirements.txt
    ```
-3. Open `notebooks/Project_2.ipynb` in Jupyter Notebook / JupyterLab and run the cells
+3. Open `Jupyter_notebook/HR_Analytics.ipynb` in Jupyter Notebook / JupyterLab and run the cells
 4. Open the dashboard file in Power BI Desktop / Tableau to explore the visuals
 
 ## 📌 Notes
